@@ -1,0 +1,1446 @@
+[
+  {
+    "PDF_metadata": {
+      "Author": "Codex",
+      "CreationDate": "D:20261104141045-07'00'",
+      "ModDate": "D:20261104141045-07'00'",
+      "Producer": "ReportLab PDF Library - (opensource)",
+      "Subject": "(unspecified)",
+      "Title": "D-Flow and QGF controlled comparison"
+    },
+    "PDF_metadata_parse_error": null,
+    "alias_count": 3,
+    "all_original_path_aliases": [
+      "outputs/comparison_sweeps/comparison_report.pdf",
+      "work/research_handoff_20261108/stage/20261108T043534_392036Z/workspace/outputs/comparison_sweeps/comparison_report.pdf",
+      "work/research_handoff_20261108/stage/20261108T044535_092935Z/workspace/outputs/comparison_sweeps/comparison_report.pdf"
+    ],
+    "bytes": 1014565,
+    "campaign": "comparison_sweeps",
+    "date_label_scope": "Source-path timestamp when available, otherwise PDF CreationDate then campaign-folder or file-mtime date; not a new measurement or scientific event timestamp.",
+    "first_page_title_context_lines": [
+      "D-FLOW / QGF   |   SYNTHETIC EXPERIMENT REPORT",
+      "Completed run: 20 tasks | one fixed critic per task | 20 held-out starts per condition",
+      "1",
+      "SYNTHETIC OFFLINE-CRITIC EXPERIMENT | 4 NOVEMBER 2026",
+      "D-Flow and QGF: completed comparison",
+      "What is the task? These are artificial \"choose a point\" puzzles. Each action is a point (x,y). A hidden scoring function rewards some locations more than others. The method",
+      "succeeds when its chosen point is close enough to the specified good target. There is no robot or maze in the counts in this report.",
+      "20 task configurations, 20 fresh test starts per condition, 8 D-Flow variants, and both lambda settings. Each fixed lambda condition gets its own kappa, eta and"
+    ],
+    "page_count": 6,
+    "repo_path": "reports/2026-11-04/comparison_sweeps/comparison_report__90e778db505b.pdf",
+    "representative_original_path": "outputs/comparison_sweeps/comparison_report.pdf",
+    "scope": "HISTORICAL_SNAPSHOT_AS_SAVED_NOT_CURRENT_QUALIFICATION",
+    "sha256": "90e778db505bda2a8445feb91c2718333a969436756612f52e17441155652be0",
+    "snapshot_date_label": "2026-11-04",
+    "snapshot_timestamp_from_source_path_UTC": null,
+    "title": "D-Flow and QGF controlled comparison"
+  },
+  {
+    "PDF_metadata": {
+      "Author": "Research experiment record",
+      "CreationDate": "D:20261105074458-07'00'",
+      "ModDate": "D:20261105074458-07'00'",
+      "Producer": "ReportLab PDF Library - (opensource)",
+      "Subject": "Frozen offline-control experiments; scientific snapshot at 07:30 America/Phoenix",
+      "Title": "Overnight D-Flow / QGF Results - November 5, 2026"
+    },
+    "PDF_metadata_parse_error": null,
+    "alias_count": 6,
+    "all_original_path_aliases": [
+      "outputs/overnight_research/OVERNIGHT_RESULTS.pdf",
+      "work/overnight_research_20261105/bundle_builds/build_20261106T100340_f6f3e22215454d8da4ffcfc7db4274de/verified_extraction/outputs/overnight_research/OVERNIGHT_RESULTS.pdf",
+      "work/research_handoff_20261108/stage/20261108T043534_392036Z/workspace/outputs/overnight_research/OVERNIGHT_RESULTS.pdf",
+      "work/research_handoff_20261108/stage/20261108T043534_392036Z/workspace/work/overnight_research_20261105/bundle_builds/build_20261106T100340_f6f3e22215454d8da4ffcfc7db4274de/verified_extraction/outputs/overnight_research/OVERNIGHT_RESULTS.pdf",
+      "work/research_handoff_20261108/stage/20261108T044535_092935Z/workspace/outputs/overnight_research/OVERNIGHT_RESULTS.pdf",
+      "work/research_handoff_20261108/stage/20261108T044535_092935Z/workspace/work/overnight_research_20261105/bundle_builds/build_20261106T100340_f6f3e22215454d8da4ffcfc7db4274de/verified_extraction/outputs/overnight_research/OVERNIGHT_RESULTS.pdf"
+    ],
+    "bytes": 549964,
+    "campaign": "overnight_research",
+    "date_label_scope": "Source-path timestamp when available, otherwise PDF CreationDate then campaign-folder or file-mtime date; not a new measurement or scientific event timestamp.",
+    "first_page_title_context_lines": [
+      "NOVEMBER 5, 2026",
+      "Overnight D-Flow / QGF Results",
+      "A saved-evidence report. Scientific work is complete as of 07:30 Arizona; the 08:00 deadline and final archive publication are not claimed",
+      "here.",
+      "Scientific snapshot 07:30 Arizona | November 5, 2026",
+      "1 / 7",
+      "Main finding. Longer critic training and an appropriate guidance scale restored useful control on native",
+      "PointMaze. Some D-Flow variants are competitive; others fail. The robot remains far from solved. Stochastic"
+    ],
+    "page_count": 7,
+    "repo_path": "reports/2026-11-05/overnight_research/OVERNIGHT_RESULTS__2a021861d727.pdf",
+    "representative_original_path": "outputs/overnight_research/OVERNIGHT_RESULTS.pdf",
+    "scope": "HISTORICAL_SNAPSHOT_AS_SAVED_NOT_CURRENT_QUALIFICATION",
+    "sha256": "2a021861d7274a85b3d37edb3d171504030986bbe57651489d7e7a514b6a1e1d",
+    "snapshot_date_label": "2026-11-05",
+    "snapshot_timestamp_from_source_path_UTC": null,
+    "title": "Overnight D-Flow / QGF Results - November 5, 2026"
+  },
+  {
+    "PDF_metadata": {
+      "Author": "",
+      "CreationDate": "D:20261105063103-07'00'",
+      "ModDate": "",
+      "Producer": "Matplotlib pdf backend v3.10.6",
+      "Subject": "",
+      "Title": ""
+    },
+    "PDF_metadata_parse_error": null,
+    "alias_count": 3,
+    "all_original_path_aliases": [
+      "outputs/overnight_research/critic_disagreement_diagnostic/critic_disagreement.pdf",
+      "work/research_handoff_20261108/stage/20261108T043534_392036Z/workspace/outputs/overnight_research/critic_disagreement_diagnostic/critic_disagreement.pdf",
+      "work/research_handoff_20261108/stage/20261108T044535_092935Z/workspace/outputs/overnight_research/critic_disagreement_diagnostic/critic_disagreement.pdf"
+    ],
+    "bytes": 25687,
+    "campaign": "overnight_research",
+    "date_label_scope": "Source-path timestamp when available, otherwise PDF CreationDate then campaign-folder or file-mtime date; not a new measurement or scientific event timestamp.",
+    "first_page_title_context_lines": [
+      "TRAIN removed TRAIN same region",
+      "outside cone",
+      "VAL joint H VAL outside joint H",
+      "0.015",
+      "0.020",
+      "0.025",
+      "0.030",
+      "0.035"
+    ],
+    "page_count": 1,
+    "repo_path": "reports/2026-11-05/overnight_research/critic_disagreement__6cc69f9dc949.pdf",
+    "representative_original_path": "outputs/overnight_research/critic_disagreement_diagnostic/critic_disagreement.pdf",
+    "scope": "HISTORICAL_SNAPSHOT_AS_SAVED_NOT_CURRENT_QUALIFICATION",
+    "sha256": "6cc69f9dc9491ec2e36f65834ad55b847a82f9823e9452a4d65d8335a093f027",
+    "snapshot_date_label": "2026-11-05",
+    "snapshot_timestamp_from_source_path_UTC": null,
+    "title": "Critic disagreement diagnostic"
+  },
+  {
+    "PDF_metadata": {
+      "Author": "Research workspace",
+      "CreationDate": "D:20261105222808-07'00'",
+      "ModDate": "D:20261105222808-07'00'",
+      "Producer": "ReportLab PDF Library - (opensource)",
+      "Subject": "(unspecified)",
+      "Title": "D-Flow / QGF interim research report"
+    },
+    "PDF_metadata_parse_error": null,
+    "alias_count": 6,
+    "all_original_path_aliases": [
+      "outputs/overnight_research_20261105/reports/INTERIM_RESEARCH_REPORT.pdf",
+      "work/overnight_research_20261105/bundle_builds/build_20261106T100340_f6f3e22215454d8da4ffcfc7db4274de/verified_extraction/outputs/overnight_research_20261105/reports/INTERIM_RESEARCH_REPORT.pdf",
+      "work/research_handoff_20261108/stage/20261108T043534_392036Z/workspace/outputs/overnight_research_20261105/reports/INTERIM_RESEARCH_REPORT.pdf",
+      "work/research_handoff_20261108/stage/20261108T043534_392036Z/workspace/work/overnight_research_20261105/bundle_builds/build_20261106T100340_f6f3e22215454d8da4ffcfc7db4274de/verified_extraction/outputs/overnight_research_20261105/reports/INTERIM_RESEARCH_REPORT.pdf",
+      "work/research_handoff_20261108/stage/20261108T044535_092935Z/workspace/outputs/overnight_research_20261105/reports/INTERIM_RESEARCH_REPORT.pdf",
+      "work/research_handoff_20261108/stage/20261108T044535_092935Z/workspace/work/overnight_research_20261105/bundle_builds/build_20261106T100340_f6f3e22215454d8da4ffcfc7db4274de/verified_extraction/outputs/overnight_research_20261105/reports/INTERIM_RESEARCH_REPORT.pdf"
+    ],
+    "bytes": 300134,
+    "campaign": "overnight_research_20261105",
+    "date_label_scope": "Source-path timestamp when available, otherwise PDF CreationDate then campaign-folder or file-mtime date; not a new measurement or scientific event timestamp.",
+    "first_page_title_context_lines": [
+      "INTERIM | 2026-11-05 22:28 MST | frozen-model research",
+      "1",
+      "D-Flow, QGF and imperfect critics",
+      "Interim research report - methods, completed diagnostics and live studies",
+      "Snapshot: 2026-11-05 22:28 MST. Overnight experiments are active. The final morning report is scheduled",
+      "for 08:00 Phoenix on November 6, 2026. This document does not present unfinished comparisons as results.",
+      "Yes: there are 12 D-Flow families. The original eight cover regular/stochastic updates, full/identity",
+      "Jacobians, and full-flow/Euler endpoint estimates. Four additions test Q averaging and MH. The"
+    ],
+    "page_count": 6,
+    "repo_path": "reports/2026-11-05/overnight_research_20261105/INTERIM_RESEARCH_REPORT__e1ad54b049d0.pdf",
+    "representative_original_path": "outputs/overnight_research_20261105/reports/INTERIM_RESEARCH_REPORT.pdf",
+    "scope": "HISTORICAL_SNAPSHOT_AS_SAVED_NOT_CURRENT_QUALIFICATION",
+    "sha256": "e1ad54b049d094e7929da8a815d066f86cfc5c41195ea1abbc7c2dc07beaafb2",
+    "snapshot_date_label": "2026-11-05",
+    "snapshot_timestamp_from_source_path_UTC": null,
+    "title": "D-Flow / QGF interim research report"
+  },
+  {
+    "PDF_metadata": {
+      "Author": "Research workspace",
+      "CreationDate": "D:20261106010242-07'00'",
+      "ModDate": "D:20261106010242-07'00'",
+      "Producer": "ReportLab PDF Library - (opensource)",
+      "Subject": "(unspecified)",
+      "Title": "D-Flow / QGF morning research report"
+    },
+    "PDF_metadata_parse_error": null,
+    "alias_count": 3,
+    "all_original_path_aliases": [
+      "work/overnight_research_20261105/morning_drafts/pdf_v2_20261106T0802/MORNING_REPORT.pdf",
+      "work/research_handoff_20261108/stage/20261108T043534_392036Z/workspace/work/overnight_research_20261105/morning_drafts/pdf_v2_20261106T0802/MORNING_REPORT.pdf",
+      "work/research_handoff_20261108/stage/20261108T044535_092935Z/workspace/work/overnight_research_20261105/morning_drafts/pdf_v2_20261106T0802/MORNING_REPORT.pdf"
+    ],
+    "bytes": 810378,
+    "campaign": "overnight_research_20261105",
+    "date_label_scope": "Source-path timestamp when available, otherwise PDF CreationDate then campaign-folder or file-mtime date; not a new measurement or scientific event timestamp.",
+    "first_page_title_context_lines": [
+      "MORNING | 2026-11-06 01:01 MST | frozen-model research",
+      "1",
+      "D-Flow, QGF and imperfect offline critics",
+      "Morning research report | second campaign | November 6, 2026",
+      "Snapshot: 2026-11-06T08:01:52.441101+00:00. DRAFT: no root closure receipt is bound.",
+      "This report distinguishes completed20-episode test cells, completed8-start validation, analytic points and unfinished",
+      "work. A pending cell is never a zero. Algorithms were not retuned from test outcomes.",
+      "Study"
+    ],
+    "page_count": 17,
+    "repo_path": "reports/2026-11-06/overnight_research_20261105/MORNING_REPORT__0ef773c6272b.pdf",
+    "representative_original_path": "work/overnight_research_20261105/morning_drafts/pdf_v2_20261106T0802/MORNING_REPORT.pdf",
+    "scope": "HISTORICAL_DRAFT_OR_LAYOUT_REVISION_AS_SAVED_NOT_CURRENT",
+    "sha256": "0ef773c6272bfe28e590fe61b521b07227ecdae879a495653cff4015354d296c",
+    "snapshot_date_label": "2026-11-06",
+    "snapshot_timestamp_from_source_path_UTC": "2026-11-06T08:02:00+00:00",
+    "title": "D-Flow / QGF morning research report"
+  },
+  {
+    "PDF_metadata": {
+      "Author": "Research workspace",
+      "CreationDate": "D:20261106025633-07'00'",
+      "ModDate": "D:20261106025633-07'00'",
+      "Producer": "ReportLab PDF Library - (opensource)",
+      "Subject": "(unspecified)",
+      "Title": "D-Flow / QGF morning research report"
+    },
+    "PDF_metadata_parse_error": null,
+    "alias_count": 6,
+    "all_original_path_aliases": [
+      "outputs/overnight_research_20261105/MORNING_REPORT.pdf",
+      "work/overnight_research_20261105/bundle_builds/build_20261106T100340_f6f3e22215454d8da4ffcfc7db4274de/verified_extraction/outputs/overnight_research_20261105/MORNING_REPORT.pdf",
+      "work/research_handoff_20261108/stage/20261108T043534_392036Z/workspace/outputs/overnight_research_20261105/MORNING_REPORT.pdf",
+      "work/research_handoff_20261108/stage/20261108T043534_392036Z/workspace/work/overnight_research_20261105/bundle_builds/build_20261106T100340_f6f3e22215454d8da4ffcfc7db4274de/verified_extraction/outputs/overnight_research_20261105/MORNING_REPORT.pdf",
+      "work/research_handoff_20261108/stage/20261108T044535_092935Z/workspace/outputs/overnight_research_20261105/MORNING_REPORT.pdf",
+      "work/research_handoff_20261108/stage/20261108T044535_092935Z/workspace/work/overnight_research_20261105/bundle_builds/build_20261106T100340_f6f3e22215454d8da4ffcfc7db4274de/verified_extraction/outputs/overnight_research_20261105/MORNING_REPORT.pdf"
+    ],
+    "bytes": 1197861,
+    "campaign": "overnight_research_20261105",
+    "date_label_scope": "Source-path timestamp when available, otherwise PDF CreationDate then campaign-folder or file-mtime date; not a new measurement or scientific event timestamp.",
+    "first_page_title_context_lines": [
+      "MORNING | 2026-11-06 02:55 MST | frozen-model research",
+      "1",
+      "D-Flow, QGF and imperfect offline critics",
+      "Morning research report | second campaign | November 6, 2026",
+      "Snapshot: 2026-11-06T09:55:50.673531+00:00. Root verified writers finished or safely checkpointed.",
+      "This report distinguishes completed 20-episode test cells, completed 8-start validation, analytic points and",
+      "unfinished work. A pending cell is never a zero. Algorithms were not retuned from test outcomes.",
+      "Study"
+    ],
+    "page_count": 18,
+    "repo_path": "reports/2026-11-06/overnight_research_20261105/MORNING_REPORT__4d03906e2551.pdf",
+    "representative_original_path": "outputs/overnight_research_20261105/MORNING_REPORT.pdf",
+    "scope": "HISTORICAL_SNAPSHOT_AS_SAVED_NOT_CURRENT_QUALIFICATION",
+    "sha256": "4d03906e25514644dffa2716333db14d2d599a2cadf2f663bfdfd460ddb8362f",
+    "snapshot_date_label": "2026-11-06",
+    "snapshot_timestamp_from_source_path_UTC": null,
+    "title": "D-Flow / QGF morning research report"
+  },
+  {
+    "PDF_metadata": {
+      "Author": "Research workspace",
+      "CreationDate": "D:20261106024725-07'00'",
+      "ModDate": "D:20261106024725-07'00'",
+      "Producer": "ReportLab PDF Library - (opensource)",
+      "Subject": "(unspecified)",
+      "Title": "D-Flow / QGF morning research report"
+    },
+    "PDF_metadata_parse_error": null,
+    "alias_count": 3,
+    "all_original_path_aliases": [
+      "work/overnight_research_20261105/morning_drafts/closed_v5_20261106T0947/MORNING_REPORT.pdf",
+      "work/research_handoff_20261108/stage/20261108T043534_392036Z/workspace/work/overnight_research_20261105/morning_drafts/closed_v5_20261106T0947/MORNING_REPORT.pdf",
+      "work/research_handoff_20261108/stage/20261108T044535_092935Z/workspace/work/overnight_research_20261105/morning_drafts/closed_v5_20261106T0947/MORNING_REPORT.pdf"
+    ],
+    "bytes": 1198737,
+    "campaign": "overnight_research_20261105",
+    "date_label_scope": "Source-path timestamp when available, otherwise PDF CreationDate then campaign-folder or file-mtime date; not a new measurement or scientific event timestamp.",
+    "first_page_title_context_lines": [
+      "MORNING | 2026-11-06 02:47 MST | frozen-model research",
+      "1",
+      "D-Flow, QGF and imperfect offline critics",
+      "Morning research report | second campaign | November 6, 2026",
+      "Snapshot: 2026-11-06T09:47:24.310512+00:00. Root verified writers finished or safely checkpointed.",
+      "This report distinguishes completed 20-episode test cells, completed 8-start validation, analytic points and",
+      "unfinished work. A pending cell is never a zero. Algorithms were not retuned from test outcomes.",
+      "Study"
+    ],
+    "page_count": 19,
+    "repo_path": "reports/2026-11-06/overnight_research_20261105/MORNING_REPORT__6f09b83feaa4.pdf",
+    "representative_original_path": "work/overnight_research_20261105/morning_drafts/closed_v5_20261106T0947/MORNING_REPORT.pdf",
+    "scope": "HISTORICAL_DRAFT_OR_LAYOUT_REVISION_AS_SAVED_NOT_CURRENT",
+    "sha256": "6f09b83feaa4ca74426c10da1feffe65fef83b28ac2ae2998f288ddc03472d3d",
+    "snapshot_date_label": "2026-11-06",
+    "snapshot_timestamp_from_source_path_UTC": "2026-11-06T09:47:00+00:00",
+    "title": "D-Flow / QGF morning research report"
+  },
+  {
+    "PDF_metadata": {
+      "Author": "Research workspace",
+      "CreationDate": "D:20261106011754-07'00'",
+      "ModDate": "D:20261106011754-07'00'",
+      "Producer": "ReportLab PDF Library - (opensource)",
+      "Subject": "(unspecified)",
+      "Title": "D-Flow / QGF morning research report"
+    },
+    "PDF_metadata_parse_error": null,
+    "alias_count": 3,
+    "all_original_path_aliases": [
+      "work/overnight_research_20261105/morning_drafts/pdf_v3_20261106T0817/MORNING_REPORT.pdf",
+      "work/research_handoff_20261108/stage/20261108T043534_392036Z/workspace/work/overnight_research_20261105/morning_drafts/pdf_v3_20261106T0817/MORNING_REPORT.pdf",
+      "work/research_handoff_20261108/stage/20261108T044535_092935Z/workspace/work/overnight_research_20261105/morning_drafts/pdf_v3_20261106T0817/MORNING_REPORT.pdf"
+    ],
+    "bytes": 811185,
+    "campaign": "overnight_research_20261105",
+    "date_label_scope": "Source-path timestamp when available, otherwise PDF CreationDate then campaign-folder or file-mtime date; not a new measurement or scientific event timestamp.",
+    "first_page_title_context_lines": [
+      "MORNING | 2026-11-06 01:01 MST | frozen-model research",
+      "1",
+      "D-Flow, QGF and imperfect offline critics",
+      "Morning research report | second campaign | November 6, 2026",
+      "Snapshot: 2026-11-06T08:01:52.441101+00:00. DRAFT: no root closure receipt is bound.",
+      "This report distinguishes completed 20-episode test cells, completed 8-start validation, analytic points and",
+      "unfinished work. A pending cell is never a zero. Algorithms were not retuned from test outcomes.",
+      "Study"
+    ],
+    "page_count": 17,
+    "repo_path": "reports/2026-11-06/overnight_research_20261105/MORNING_REPORT__86619dbdf433.pdf",
+    "representative_original_path": "work/overnight_research_20261105/morning_drafts/pdf_v3_20261106T0817/MORNING_REPORT.pdf",
+    "scope": "HISTORICAL_DRAFT_OR_LAYOUT_REVISION_AS_SAVED_NOT_CURRENT",
+    "sha256": "86619dbdf43309536e32e1b6f7e4ebd5075cf08dd4ba6becae3779610546483f",
+    "snapshot_date_label": "2026-11-06",
+    "snapshot_timestamp_from_source_path_UTC": "2026-11-06T08:17:00+00:00",
+    "title": "D-Flow / QGF morning research report"
+  },
+  {
+    "PDF_metadata": {
+      "Author": "Research workspace",
+      "CreationDate": "D:20261106025551-07'00'",
+      "ModDate": "D:20261106025551-07'00'",
+      "Producer": "ReportLab PDF Library - (opensource)",
+      "Subject": "(unspecified)",
+      "Title": "D-Flow / QGF morning research report"
+    },
+    "PDF_metadata_parse_error": null,
+    "alias_count": 3,
+    "all_original_path_aliases": [
+      "work/overnight_research_20261105/morning_drafts/closed_v6_20261106T0957/MORNING_REPORT.pdf",
+      "work/research_handoff_20261108/stage/20261108T043534_392036Z/workspace/work/overnight_research_20261105/morning_drafts/closed_v6_20261106T0957/MORNING_REPORT.pdf",
+      "work/research_handoff_20261108/stage/20261108T044535_092935Z/workspace/work/overnight_research_20261105/morning_drafts/closed_v6_20261106T0957/MORNING_REPORT.pdf"
+    ],
+    "bytes": 1197861,
+    "campaign": "overnight_research_20261105",
+    "date_label_scope": "Source-path timestamp when available, otherwise PDF CreationDate then campaign-folder or file-mtime date; not a new measurement or scientific event timestamp.",
+    "first_page_title_context_lines": [
+      "MORNING | 2026-11-06 02:55 MST | frozen-model research",
+      "1",
+      "D-Flow, QGF and imperfect offline critics",
+      "Morning research report | second campaign | November 6, 2026",
+      "Snapshot: 2026-11-06T09:55:50.673531+00:00. Root verified writers finished or safely checkpointed.",
+      "This report distinguishes completed 20-episode test cells, completed 8-start validation, analytic points and",
+      "unfinished work. A pending cell is never a zero. Algorithms were not retuned from test outcomes.",
+      "Study"
+    ],
+    "page_count": 18,
+    "repo_path": "reports/2026-11-06/overnight_research_20261105/MORNING_REPORT__b0ad4b2b8ddd.pdf",
+    "representative_original_path": "work/overnight_research_20261105/morning_drafts/closed_v6_20261106T0957/MORNING_REPORT.pdf",
+    "scope": "HISTORICAL_DRAFT_OR_LAYOUT_REVISION_AS_SAVED_NOT_CURRENT",
+    "sha256": "b0ad4b2b8ddd01efb2a6a666d306d18c868883d84176f671a01b8c1c74a90d54",
+    "snapshot_date_label": "2026-11-06",
+    "snapshot_timestamp_from_source_path_UTC": "2026-11-06T09:57:00+00:00",
+    "title": "D-Flow / QGF morning research report"
+  },
+  {
+    "PDF_metadata": {
+      "Author": "",
+      "CreationDate": "",
+      "ModDate": "",
+      "Producer": "pypdf",
+      "Subject": "",
+      "Title": ""
+    },
+    "PDF_metadata_parse_error": null,
+    "alias_count": 6,
+    "all_original_path_aliases": [
+      "outputs/overnight_research_20261106_continuation/ALL_EXPERIMENTS_REPORT.pdf",
+      "work/overnight_research_20261106_continuation/reporting/all_experiments_drafts/20261106T2005Z/ALL_EXPERIMENTS_REPORT.pdf",
+      "work/research_handoff_20261108/stage/20261108T043534_392036Z/workspace/outputs/overnight_research_20261106_continuation/ALL_EXPERIMENTS_REPORT.pdf",
+      "work/research_handoff_20261108/stage/20261108T043534_392036Z/workspace/work/overnight_research_20261106_continuation/reporting/all_experiments_drafts/20261106T2005Z/ALL_EXPERIMENTS_REPORT.pdf",
+      "work/research_handoff_20261108/stage/20261108T044535_092935Z/workspace/outputs/overnight_research_20261106_continuation/ALL_EXPERIMENTS_REPORT.pdf",
+      "work/research_handoff_20261108/stage/20261108T044535_092935Z/workspace/work/overnight_research_20261106_continuation/reporting/all_experiments_drafts/20261106T2005Z/ALL_EXPERIMENTS_REPORT.pdf"
+    ],
+    "bytes": 2937990,
+    "campaign": "overnight_research_20261106_continuation",
+    "date_label_scope": "Source-path timestamp when available, otherwise PDF CreationDate then campaign-folder or file-mtime date; not a new measurement or scientific event timestamp.",
+    "first_page_title_context_lines": [
+      "ALL EXPERIMENTS | fixed as-of evidence",
+      "1",
+      "All D-Flow / QGF experiments: evidence as of",
+      "2026-11-06T20:04:20.573772+00:00",
+      "This is a fixed as-of evidence snapshot across the complete saved experiment history. Completed, failed, partial,",
+      "archived and not-yet-run studies are labeled separately. It is not a claim that the ongoing campaign has finished.",
+      "Raw QGF is a direct comparator, alongside averaged-Q and Jacobian-smoothed QGF where run. Methods share the",
+      "stated frozen BC and Q within each experiment. Each method/task/trained seed uses its own validation-selected"
+    ],
+    "page_count": 78,
+    "repo_path": "reports/2026-11-06/overnight_research_20261106_continuation/ALL_EXPERIMENTS_REPORT__832e9c47ed2c.pdf",
+    "representative_original_path": "outputs/overnight_research_20261106_continuation/ALL_EXPERIMENTS_REPORT.pdf",
+    "scope": "HISTORICAL_SNAPSHOT_AS_SAVED_NOT_CURRENT_QUALIFICATION",
+    "sha256": "832e9c47ed2cab0377faae4f7bb971652809cd9609c749018942fbac5fe27475",
+    "snapshot_date_label": "2026-11-06",
+    "snapshot_timestamp_from_source_path_UTC": null,
+    "title": "ALL EXPERIMENTS | fixed as-of evidence"
+  },
+  {
+    "PDF_metadata": {
+      "Author": "",
+      "CreationDate": "",
+      "ModDate": "",
+      "Producer": "pypdf",
+      "Subject": "",
+      "Title": ""
+    },
+    "PDF_metadata_parse_error": null,
+    "alias_count": 3,
+    "all_original_path_aliases": [
+      "work/overnight_research_20261106_continuation/reporting/all_experiments_drafts/20261106T2002Z/ALL_EXPERIMENTS_REPORT.pdf",
+      "work/research_handoff_20261108/stage/20261108T043534_392036Z/workspace/work/overnight_research_20261106_continuation/reporting/all_experiments_drafts/20261106T2002Z/ALL_EXPERIMENTS_REPORT.pdf",
+      "work/research_handoff_20261108/stage/20261108T044535_092935Z/workspace/work/overnight_research_20261106_continuation/reporting/all_experiments_drafts/20261106T2002Z/ALL_EXPERIMENTS_REPORT.pdf"
+    ],
+    "bytes": 2938781,
+    "campaign": "overnight_research_20261106_continuation",
+    "date_label_scope": "Source-path timestamp when available, otherwise PDF CreationDate then campaign-folder or file-mtime date; not a new measurement or scientific event timestamp.",
+    "first_page_title_context_lines": [
+      "ALL EXPERIMENTS | fixed as-of evidence",
+      "1",
+      "All D-Flow / QGF experiments: evidence as of",
+      "2026-11-06T20:01:50.319761+00:00",
+      "This is a fixed as-of evidence snapshot across the complete saved experiment history. Completed, failed, partial,",
+      "archived and not-yet-run studies are labeled separately. It is not a claim that the ongoing campaign has finished.",
+      "Raw QGF is a direct comparator, alongside averaged-Q and Jacobian-smoothed QGF where run. Methods share the",
+      "stated frozen BC and Q within each experiment. Each method/task/trained seed uses its own validation-selected"
+    ],
+    "page_count": 79,
+    "repo_path": "reports/2026-11-06/overnight_research_20261106_continuation/ALL_EXPERIMENTS_REPORT__c392ae724e26.pdf",
+    "representative_original_path": "work/overnight_research_20261106_continuation/reporting/all_experiments_drafts/20261106T2002Z/ALL_EXPERIMENTS_REPORT.pdf",
+    "scope": "HISTORICAL_SNAPSHOT_AS_SAVED_NOT_CURRENT_QUALIFICATION",
+    "sha256": "c392ae724e26e1b94ff8e75e266b4569ccc517c07598ae0239da34486d876f3f",
+    "snapshot_date_label": "2026-11-06",
+    "snapshot_timestamp_from_source_path_UTC": "2026-11-06T20:02:00+00:00",
+    "title": "ALL EXPERIMENTS | fixed as-of evidence"
+  },
+  {
+    "PDF_metadata": {
+      "Author": "(anonymous)",
+      "CreationDate": "D:20261106104205-07'00'",
+      "ModDate": "D:20261106104205-07'00'",
+      "Producer": "ReportLab PDF Library - (opensource)",
+      "Subject": "(unspecified)",
+      "Title": "Standard PointMaze continuation report"
+    },
+    "PDF_metadata_parse_error": null,
+    "alias_count": 3,
+    "all_original_path_aliases": [
+      "work/overnight_research_20261106_continuation/reporting/drafts/20261106T174203_425691Z/CONTINUATION_REPORT.pdf",
+      "work/research_handoff_20261108/stage/20261108T043534_392036Z/workspace/work/overnight_research_20261106_continuation/reporting/drafts/20261106T174203_425691Z/CONTINUATION_REPORT.pdf",
+      "work/research_handoff_20261108/stage/20261108T044535_092935Z/workspace/work/overnight_research_20261106_continuation/reporting/drafts/20261106T174203_425691Z/CONTINUATION_REPORT.pdf"
+    ],
+    "bytes": 86637,
+    "campaign": "overnight_research_20261106_continuation",
+    "date_label_scope": "Source-path timestamp when available, otherwise PDF CreationDate then campaign-folder or file-mtime date; not a new measurement or scientific event timestamp.",
+    "first_page_title_context_lines": [
+      "STANDARD TASKS | frozen-model continuation",
+      "1",
+      "Standard PointMaze continuation",
+      "Separate continuation of the frozen November 5 study. Snapshot 2026-11-06T17:42:05.284432+00:00. DRAFT:",
+      "active/unfinished work may remain.",
+      "A point robot navigates around walls to a goal, with real next states and native rewards. Task 1 nominally starts at",
+      "(0,0) and aims at (20,20); task 5 starts at (20,4) and aims at (0,0). Start coordinates have native reset noise; these",
+      "are nominal centers, not measured trajectories."
+    ],
+    "page_count": 9,
+    "repo_path": "reports/2026-11-06/overnight_research_20261106_continuation/CONTINUATION_REPORT__c6c2e437d850.pdf",
+    "representative_original_path": "work/overnight_research_20261106_continuation/reporting/drafts/20261106T174203_425691Z/CONTINUATION_REPORT.pdf",
+    "scope": "HISTORICAL_DRAFT_OR_LAYOUT_REVISION_AS_SAVED_NOT_CURRENT",
+    "sha256": "c6c2e437d850521b8a675cb26a87aee7d906e0afadc3ab9d2c1b25bfba01bc8b",
+    "snapshot_date_label": "2026-11-06",
+    "snapshot_timestamp_from_source_path_UTC": "2026-11-06T17:42:03+00:00",
+    "title": "Standard PointMaze continuation report"
+  },
+  {
+    "PDF_metadata": {
+      "Author": "Research workspace",
+      "CreationDate": "D:20261106223217-07'00'",
+      "ModDate": "D:20261106223217-07'00'",
+      "Producer": "ReportLab PDF Library - (opensource)",
+      "Subject": "(unspecified)",
+      "Title": "Overnight D-Flow / QGF research"
+    },
+    "PDF_metadata_parse_error": null,
+    "alias_count": 3,
+    "all_original_path_aliases": [
+      "work/overnight_research_20261106_night/reporting/previews/v1/REPORT_LAYOUT.pdf",
+      "work/research_handoff_20261108/stage/20261108T043534_392036Z/workspace/work/overnight_research_20261106_night/reporting/previews/v1/REPORT_LAYOUT.pdf",
+      "work/research_handoff_20261108/stage/20261108T044535_092935Z/workspace/work/overnight_research_20261106_night/reporting/previews/v1/REPORT_LAYOUT.pdf"
+    ],
+    "bytes": 413564,
+    "campaign": "overnight_research_20261106_night",
+    "date_label_scope": "Source-path timestamp when available, otherwise PDF CreationDate then campaign-folder or file-mtime date; not a new measurement or scientific event timestamp.",
+    "first_page_title_context_lines": [
+      "D-FLOW / QGF | NOVEMBER 6-7, 2026",
+      "LAYOUT DRAFT - RESULTS STILL IN PROGRESS",
+      "1",
+      "D-Flow / QGF",
+      "Overnight investigation",
+      "Third campaign | November 6-7, 2026",
+      "LAYOUT DRAFT - RESULTS STILL IN PROGRESS",
+      "Heldout evidence cutoff: 2026-11-07T05:26:33.747913+00:00"
+    ],
+    "page_count": 11,
+    "repo_path": "reports/2026-11-06/overnight_research_20261106_night/REPORT_LAYOUT__02989c1b2856.pdf",
+    "representative_original_path": "work/overnight_research_20261106_night/reporting/previews/v1/REPORT_LAYOUT.pdf",
+    "scope": "HISTORICAL_DRAFT_OR_LAYOUT_REVISION_AS_SAVED_NOT_CURRENT",
+    "sha256": "02989c1b285627bfac3f7146882c29495bbd6d9eaf4dc1b15f1ad44d865d746d",
+    "snapshot_date_label": "2026-11-06",
+    "snapshot_timestamp_from_source_path_UTC": null,
+    "title": "Overnight D-Flow / QGF research"
+  },
+  {
+    "PDF_metadata": {
+      "Author": "Research workspace",
+      "CreationDate": "D:20261106224315-07'00'",
+      "ModDate": "D:20261106224315-07'00'",
+      "Producer": "ReportLab PDF Library - (opensource)",
+      "Subject": "(unspecified)",
+      "Title": "Overnight D-Flow / QGF research"
+    },
+    "PDF_metadata_parse_error": null,
+    "alias_count": 3,
+    "all_original_path_aliases": [
+      "work/overnight_research_20261106_night/reporting/previews/v3/REPORT_LAYOUT.pdf",
+      "work/research_handoff_20261108/stage/20261108T043534_392036Z/workspace/work/overnight_research_20261106_night/reporting/previews/v3/REPORT_LAYOUT.pdf",
+      "work/research_handoff_20261108/stage/20261108T044535_092935Z/workspace/work/overnight_research_20261106_night/reporting/previews/v3/REPORT_LAYOUT.pdf"
+    ],
+    "bytes": 712985,
+    "campaign": "overnight_research_20261106_night",
+    "date_label_scope": "Source-path timestamp when available, otherwise PDF CreationDate then campaign-folder or file-mtime date; not a new measurement or scientific event timestamp.",
+    "first_page_title_context_lines": [
+      "D-FLOW / QGF | NOVEMBER 6-7, 2026",
+      "LAYOUT DRAFT - RESULTS STILL IN PROGRESS",
+      "1",
+      "D-Flow / QGF",
+      "Overnight investigation",
+      "Third campaign | November 6-7, 2026",
+      "LAYOUT DRAFT - RESULTS STILL IN PROGRESS",
+      "Heldout evidence cutoff: 2026-11-07T05:40:24.742443+00:00"
+    ],
+    "page_count": 13,
+    "repo_path": "reports/2026-11-06/overnight_research_20261106_night/REPORT_LAYOUT__64c92b40fb18.pdf",
+    "representative_original_path": "work/overnight_research_20261106_night/reporting/previews/v3/REPORT_LAYOUT.pdf",
+    "scope": "HISTORICAL_DRAFT_OR_LAYOUT_REVISION_AS_SAVED_NOT_CURRENT",
+    "sha256": "64c92b40fb18b5b71a5adcddb54d1c50892c23e518db6d3c772cc3f56d59c769",
+    "snapshot_date_label": "2026-11-06",
+    "snapshot_timestamp_from_source_path_UTC": null,
+    "title": "Overnight D-Flow / QGF research"
+  },
+  {
+    "PDF_metadata": {
+      "Author": "Research workspace",
+      "CreationDate": "D:20261106224025-07'00'",
+      "ModDate": "D:20261106224025-07'00'",
+      "Producer": "ReportLab PDF Library - (opensource)",
+      "Subject": "(unspecified)",
+      "Title": "Overnight D-Flow / QGF research"
+    },
+    "PDF_metadata_parse_error": null,
+    "alias_count": 3,
+    "all_original_path_aliases": [
+      "work/overnight_research_20261106_night/reporting/previews/v2/REPORT_LAYOUT.pdf",
+      "work/research_handoff_20261108/stage/20261108T043534_392036Z/workspace/work/overnight_research_20261106_night/reporting/previews/v2/REPORT_LAYOUT.pdf",
+      "work/research_handoff_20261108/stage/20261108T044535_092935Z/workspace/work/overnight_research_20261106_night/reporting/previews/v2/REPORT_LAYOUT.pdf"
+    ],
+    "bytes": 712599,
+    "campaign": "overnight_research_20261106_night",
+    "date_label_scope": "Source-path timestamp when available, otherwise PDF CreationDate then campaign-folder or file-mtime date; not a new measurement or scientific event timestamp.",
+    "first_page_title_context_lines": [
+      "D-FLOW / QGF | NOVEMBER 6-7, 2026",
+      "LAYOUT DRAFT - RESULTS STILL IN PROGRESS",
+      "1",
+      "D-Flow / QGF",
+      "Overnight investigation",
+      "Third campaign | November 6-7, 2026",
+      "LAYOUT DRAFT - RESULTS STILL IN PROGRESS",
+      "Heldout evidence cutoff: 2026-11-07T05:40:24.742443+00:00"
+    ],
+    "page_count": 13,
+    "repo_path": "reports/2026-11-06/overnight_research_20261106_night/REPORT_LAYOUT__e5dc8d36374b.pdf",
+    "representative_original_path": "work/overnight_research_20261106_night/reporting/previews/v2/REPORT_LAYOUT.pdf",
+    "scope": "HISTORICAL_DRAFT_OR_LAYOUT_REVISION_AS_SAVED_NOT_CURRENT",
+    "sha256": "e5dc8d36374b3ec125ccc267e9500df9aa89cc091f37370f64d91eda39d75b80",
+    "snapshot_date_label": "2026-11-06",
+    "snapshot_timestamp_from_source_path_UTC": null,
+    "title": "Overnight D-Flow / QGF research"
+  },
+  {
+    "PDF_metadata": {
+      "Author": "Research investigation",
+      "CreationDate": "D:20261107142126-07'00'",
+      "ModDate": "D:20261107142126-07'00'",
+      "Producer": "ReportLab PDF Library - (opensource)",
+      "Subject": "(unspecified)",
+      "Title": "D-Flow / QGF interim research update"
+    },
+    "PDF_metadata_parse_error": null,
+    "alias_count": 3,
+    "all_original_path_aliases": [
+      "outputs/continued_research_20261107/progress_snapshots/20261107T212126Z/INTERIM_RESEARCH_REPORT.pdf",
+      "work/research_handoff_20261108/stage/20261108T043534_392036Z/workspace/outputs/continued_research_20261107/progress_snapshots/20261107T212126Z/INTERIM_RESEARCH_REPORT.pdf",
+      "work/research_handoff_20261108/stage/20261108T044535_092935Z/workspace/outputs/continued_research_20261107/progress_snapshots/20261107T212126Z/INTERIM_RESEARCH_REPORT.pdf"
+    ],
+    "bytes": 631336,
+    "campaign": "continued_research_20261107",
+    "date_label_scope": "Source-path timestamp when available, otherwise PDF CreationDate then campaign-folder or file-mtime date; not a new measurement or scientific event timestamp.",
+    "first_page_title_context_lines": [
+      "FIXED INTERIM SNAPSHOT | 20261107T212126Z | No new main heldout tests",
+      "1",
+      "01 / INTERIM RESEARCH UPDATE",
+      "What the completed runs show",
+      "Fixed interim snapshot - the expanded study is not complete. 2026-11-07 21:21 UTC. Current results",
+      "below are selection validation and fresh confirmation; the new main heldout-100 test has not started.",
+      "Verified closed work",
+      "Actual amount"
+    ],
+    "page_count": 10,
+    "repo_path": "reports/2026-11-07/continued_research_20261107/INTERIM_RESEARCH_REPORT__2e8d1bcfdb37.pdf",
+    "representative_original_path": "outputs/continued_research_20261107/progress_snapshots/20261107T212126Z/INTERIM_RESEARCH_REPORT.pdf",
+    "scope": "HISTORICAL_SNAPSHOT_AS_SAVED_NOT_CURRENT_QUALIFICATION",
+    "sha256": "2e8d1bcfdb37da0ade56be240206da45a41c494d1fa1f2d9327572202c03b434",
+    "snapshot_date_label": "2026-11-07",
+    "snapshot_timestamp_from_source_path_UTC": "2026-11-07T21:21:26+00:00",
+    "title": "D-Flow / QGF interim research update"
+  },
+  {
+    "PDF_metadata": {
+      "Author": "Research investigation",
+      "CreationDate": "D:20261107141443-07'00'",
+      "ModDate": "D:20261107141443-07'00'",
+      "Producer": "ReportLab PDF Library - (opensource)",
+      "Subject": "(unspecified)",
+      "Title": "D-Flow / QGF interim research update"
+    },
+    "PDF_metadata_parse_error": null,
+    "alias_count": 3,
+    "all_original_path_aliases": [
+      "outputs/continued_research_20261107/progress_snapshots/20261107T211442Z/INTERIM_RESEARCH_REPORT.pdf",
+      "work/research_handoff_20261108/stage/20261108T043534_392036Z/workspace/outputs/continued_research_20261107/progress_snapshots/20261107T211442Z/INTERIM_RESEARCH_REPORT.pdf",
+      "work/research_handoff_20261108/stage/20261108T044535_092935Z/workspace/outputs/continued_research_20261107/progress_snapshots/20261107T211442Z/INTERIM_RESEARCH_REPORT.pdf"
+    ],
+    "bytes": 630919,
+    "campaign": "continued_research_20261107",
+    "date_label_scope": "Source-path timestamp when available, otherwise PDF CreationDate then campaign-folder or file-mtime date; not a new measurement or scientific event timestamp.",
+    "first_page_title_context_lines": [
+      "FIXED INTERIM SNAPSHOT | 20261107T211442Z | No new main heldout tests",
+      "1",
+      "01 / INTERIM RESEARCH UPDATE",
+      "What the completed runs show",
+      "Fixed interim snapshot - the expanded study is not complete. 2026-11-07 21:14 UTC. Current results",
+      "below are selection validation and fresh confirmation; the new main heldout-100 test has not started.",
+      "Verified closed work",
+      "Actual amount"
+    ],
+    "page_count": 10,
+    "repo_path": "reports/2026-11-07/continued_research_20261107/INTERIM_RESEARCH_REPORT__b8cd0f907418.pdf",
+    "representative_original_path": "outputs/continued_research_20261107/progress_snapshots/20261107T211442Z/INTERIM_RESEARCH_REPORT.pdf",
+    "scope": "HISTORICAL_SNAPSHOT_AS_SAVED_NOT_CURRENT_QUALIFICATION",
+    "sha256": "b8cd0f907418781b2a23015fd0c29796246590bea79557c42e6920d6cc5e55b8",
+    "snapshot_date_label": "2026-11-07",
+    "snapshot_timestamp_from_source_path_UTC": "2026-11-07T21:14:42+00:00",
+    "title": "D-Flow / QGF interim research update"
+  },
+  {
+    "PDF_metadata": {
+      "Author": "Zhiyuan Zhou; Andy Peng; Charles Xu; Qiyang Li; Jost Tobias Springenberg; Kevin Frans; Sergey Levine",
+      "CreationDate": "",
+      "ModDate": "",
+      "Producer": "pikepdf 8.15.1",
+      "Subject": "",
+      "Title": "Test-Time Gradient Guidance of Flow Policies in Reinforcement Learning"
+    },
+    "PDF_metadata_parse_error": null,
+    "alias_count": 3,
+    "all_original_path_aliases": [
+      "work/continued_research_20261107/literature/qgf_primary/2606.11087v2.pdf",
+      "work/research_handoff_20261108/stage/20261108T043534_392036Z/workspace/work/continued_research_20261107/literature/qgf_primary/2606.11087v2.pdf",
+      "work/research_handoff_20261108/stage/20261108T044535_092935Z/workspace/work/continued_research_20261107/literature/qgf_primary/2606.11087v2.pdf"
+    ],
+    "bytes": 2195330,
+    "campaign": "literature",
+    "date_label_scope": "Source-path timestamp when available, otherwise PDF CreationDate then campaign-folder or file-mtime date; not a new measurement or scientific event timestamp.",
+    "first_page_title_context_lines": [
+      "Test-Time Gradient Guidance of Flow Policies in",
+      "Reinforcement Learning",
+      "Zhiyuan Zhou1, Andy Peng1, Charles Xu1, Qiyang Li1, Jost Tobias Springenberg2,",
+      "Kevin Frans1, Sergey Levine1,2",
+      "1 UC Berkeley,2 Physical Intelligence",
+      "Behavior Flow Policy",
+      "a1",
+      "z∼𝒩"
+    ],
+    "page_count": 32,
+    "repo_path": "reports/2026-11-07/literature/2606.11087v2__b2d38899981a.pdf",
+    "representative_original_path": "work/continued_research_20261107/literature/qgf_primary/2606.11087v2.pdf",
+    "scope": "SOURCE_LITERATURE_NOT_A_LOCAL_STUDY_RESULT",
+    "sha256": "b2d38899981a4b3d574a18dbe1a33e632fc814277a0a280a55510a3609dae446",
+    "snapshot_date_label": "2026-11-07",
+    "snapshot_timestamp_from_source_path_UTC": null,
+    "title": "Test-Time Gradient Guidance of Flow Policies in Reinforcement Learning"
+  },
+  {
+    "PDF_metadata": {
+      "Author": "Research workspace",
+      "CreationDate": "D:20261107054743-07'00'",
+      "ModDate": "D:20261107054743-07'00'",
+      "Producer": "ReportLab PDF Library - (opensource)",
+      "Subject": "(unspecified)",
+      "Title": "Overnight D-Flow / QGF research"
+    },
+    "PDF_metadata_parse_error": null,
+    "alias_count": 3,
+    "all_original_path_aliases": [
+      "outputs/overnight_research_20261106_night/MORNING_REPORT.pdf",
+      "work/research_handoff_20261108/stage/20261108T043534_392036Z/workspace/outputs/overnight_research_20261106_night/MORNING_REPORT.pdf",
+      "work/research_handoff_20261108/stage/20261108T044535_092935Z/workspace/outputs/overnight_research_20261106_night/MORNING_REPORT.pdf"
+    ],
+    "bytes": 1853321,
+    "campaign": "overnight_research_20261106_night",
+    "date_label_scope": "Source-path timestamp when available, otherwise PDF CreationDate then campaign-folder or file-mtime date; not a new measurement or scientific event timestamp.",
+    "first_page_title_context_lines": [
+      "D-FLOW / QGF | NOVEMBER 6-7, 2026",
+      "FINAL MORNING REPORT",
+      "1",
+      "D-Flow / QGF",
+      "Overnight investigation",
+      "Third campaign | November 6-7, 2026",
+      "FINAL MORNING REPORT",
+      "Preserved40 evidence cutoff: 2026-11-07T08:11:35.235744+00:00"
+    ],
+    "page_count": 29,
+    "repo_path": "reports/2026-11-07/overnight_research_20261106_night/MORNING_REPORT__234d014b0083.pdf",
+    "representative_original_path": "outputs/overnight_research_20261106_night/MORNING_REPORT.pdf",
+    "scope": "HISTORICAL_SNAPSHOT_AS_SAVED_NOT_CURRENT_QUALIFICATION",
+    "sha256": "234d014b00835e0ae29a7cf52b6b89a86ce25179067f5b9014af1f4cc19fb0c5",
+    "snapshot_date_label": "2026-11-07",
+    "snapshot_timestamp_from_source_path_UTC": null,
+    "title": "Overnight D-Flow / QGF research"
+  },
+  {
+    "PDF_metadata": {
+      "Author": "Research workspace",
+      "CreationDate": "D:20261107054352-07'00'",
+      "ModDate": "D:20261107054352-07'00'",
+      "Producer": "ReportLab PDF Library - (opensource)",
+      "Subject": "(unspecified)",
+      "Title": "Overnight D-Flow / QGF research"
+    },
+    "PDF_metadata_parse_error": null,
+    "alias_count": 3,
+    "all_original_path_aliases": [
+      "work/overnight_research_20261106_night/reporting/previews/v8_final_all100_Task2_MC_no_blank/REPORT_LAYOUT.pdf",
+      "work/research_handoff_20261108/stage/20261108T043534_392036Z/workspace/work/overnight_research_20261106_night/reporting/previews/v8_final_all100_Task2_MC_no_blank/REPORT_LAYOUT.pdf",
+      "work/research_handoff_20261108/stage/20261108T044535_092935Z/workspace/work/overnight_research_20261106_night/reporting/previews/v8_final_all100_Task2_MC_no_blank/REPORT_LAYOUT.pdf"
+    ],
+    "bytes": 1853977,
+    "campaign": "overnight_research_20261106_night",
+    "date_label_scope": "Source-path timestamp when available, otherwise PDF CreationDate then campaign-folder or file-mtime date; not a new measurement or scientific event timestamp.",
+    "first_page_title_context_lines": [
+      "D-FLOW / QGF | NOVEMBER 6-7, 2026",
+      "LAYOUT DRAFT - RESULTS STILL IN PROGRESS",
+      "1",
+      "D-Flow / QGF",
+      "Overnight investigation",
+      "Third campaign | November 6-7, 2026",
+      "LAYOUT DRAFT - RESULTS STILL IN PROGRESS",
+      "Preserved40 evidence cutoff: 2026-11-07T08:11:35.235744+00:00"
+    ],
+    "page_count": 29,
+    "repo_path": "reports/2026-11-07/overnight_research_20261106_night/REPORT_LAYOUT__1196485539a6.pdf",
+    "representative_original_path": "work/overnight_research_20261106_night/reporting/previews/v8_final_all100_Task2_MC_no_blank/REPORT_LAYOUT.pdf",
+    "scope": "HISTORICAL_DRAFT_OR_LAYOUT_REVISION_AS_SAVED_NOT_CURRENT",
+    "sha256": "1196485539a6fe02ced5e88b21fe58c60ee3c8e1c740886dd789d0073d3e63e2",
+    "snapshot_date_label": "2026-11-07",
+    "snapshot_timestamp_from_source_path_UTC": null,
+    "title": "Overnight D-Flow / QGF research"
+  },
+  {
+    "PDF_metadata": {
+      "Author": "Research workspace",
+      "CreationDate": "D:20261107053210-07'00'",
+      "ModDate": "D:20261107053210-07'00'",
+      "Producer": "ReportLab PDF Library - (opensource)",
+      "Subject": "(unspecified)",
+      "Title": "Overnight D-Flow / QGF research"
+    },
+    "PDF_metadata_parse_error": null,
+    "alias_count": 3,
+    "all_original_path_aliases": [
+      "work/overnight_research_20261106_night/reporting/previews/v6_final_all100_Task2_MC/REPORT_LAYOUT.pdf",
+      "work/research_handoff_20261108/stage/20261108T043534_392036Z/workspace/work/overnight_research_20261106_night/reporting/previews/v6_final_all100_Task2_MC/REPORT_LAYOUT.pdf",
+      "work/research_handoff_20261108/stage/20261108T044535_092935Z/workspace/work/overnight_research_20261106_night/reporting/previews/v6_final_all100_Task2_MC/REPORT_LAYOUT.pdf"
+    ],
+    "bytes": 1856249,
+    "campaign": "overnight_research_20261106_night",
+    "date_label_scope": "Source-path timestamp when available, otherwise PDF CreationDate then campaign-folder or file-mtime date; not a new measurement or scientific event timestamp.",
+    "first_page_title_context_lines": [
+      "D-FLOW / QGF | NOVEMBER 6-7, 2026",
+      "LAYOUT DRAFT - RESULTS STILL IN PROGRESS",
+      "1",
+      "D-Flow / QGF",
+      "Overnight investigation",
+      "Third campaign | November 6-7, 2026",
+      "LAYOUT DRAFT - RESULTS STILL IN PROGRESS",
+      "Preserved40 evidence cutoff: 2026-11-07T08:11:35.235744+00:00"
+    ],
+    "page_count": 31,
+    "repo_path": "reports/2026-11-07/overnight_research_20261106_night/REPORT_LAYOUT__1f164481e80a.pdf",
+    "representative_original_path": "work/overnight_research_20261106_night/reporting/previews/v6_final_all100_Task2_MC/REPORT_LAYOUT.pdf",
+    "scope": "HISTORICAL_DRAFT_OR_LAYOUT_REVISION_AS_SAVED_NOT_CURRENT",
+    "sha256": "1f164481e80ad78e1e01d7670d1b4be5a1c1fa5c210d8176c036bb2b3cb1ffb5",
+    "snapshot_date_label": "2026-11-07",
+    "snapshot_timestamp_from_source_path_UTC": null,
+    "title": "Overnight D-Flow / QGF research"
+  },
+  {
+    "PDF_metadata": {
+      "Author": "Research workspace",
+      "CreationDate": "D:20261107012816-07'00'",
+      "ModDate": "D:20261107012816-07'00'",
+      "Producer": "ReportLab PDF Library - (opensource)",
+      "Subject": "(unspecified)",
+      "Title": "Overnight D-Flow / QGF research"
+    },
+    "PDF_metadata_parse_error": null,
+    "alias_count": 3,
+    "all_original_path_aliases": [
+      "work/overnight_research_20261106_night/reporting/previews/v4_40_all3_tuned26/REPORT_LAYOUT.pdf",
+      "work/research_handoff_20261108/stage/20261108T043534_392036Z/workspace/work/overnight_research_20261106_night/reporting/previews/v4_40_all3_tuned26/REPORT_LAYOUT.pdf",
+      "work/research_handoff_20261108/stage/20261108T044535_092935Z/workspace/work/overnight_research_20261106_night/reporting/previews/v4_40_all3_tuned26/REPORT_LAYOUT.pdf"
+    ],
+    "bytes": 1509635,
+    "campaign": "overnight_research_20261106_night",
+    "date_label_scope": "Source-path timestamp when available, otherwise PDF CreationDate then campaign-folder or file-mtime date; not a new measurement or scientific event timestamp.",
+    "first_page_title_context_lines": [
+      "D-FLOW / QGF | NOVEMBER 6-7, 2026",
+      "LAYOUT DRAFT - RESULTS STILL IN PROGRESS",
+      "1",
+      "D-Flow / QGF",
+      "Overnight investigation",
+      "Third campaign | November 6-7, 2026",
+      "LAYOUT DRAFT - RESULTS STILL IN PROGRESS",
+      "Preserved40 evidence cutoff: 2026-11-07T08:11:35.235744+00:00"
+    ],
+    "page_count": 20,
+    "repo_path": "reports/2026-11-07/overnight_research_20261106_night/REPORT_LAYOUT__38ab21335d75.pdf",
+    "representative_original_path": "work/overnight_research_20261106_night/reporting/previews/v4_40_all3_tuned26/REPORT_LAYOUT.pdf",
+    "scope": "HISTORICAL_DRAFT_OR_LAYOUT_REVISION_AS_SAVED_NOT_CURRENT",
+    "sha256": "38ab21335d75bd3841f988a9e2d09473e1878adb82cbd761792cd2bd2269662e",
+    "snapshot_date_label": "2026-11-07",
+    "snapshot_timestamp_from_source_path_UTC": null,
+    "title": "Overnight D-Flow / QGF research"
+  },
+  {
+    "PDF_metadata": {
+      "Author": "Research workspace",
+      "CreationDate": "D:20261107014826-07'00'",
+      "ModDate": "D:20261107014826-07'00'",
+      "Producer": "ReportLab PDF Library - (opensource)",
+      "Subject": "(unspecified)",
+      "Title": "Overnight D-Flow / QGF research"
+    },
+    "PDF_metadata_parse_error": null,
+    "alias_count": 3,
+    "all_original_path_aliases": [
+      "work/overnight_research_20261106_night/reporting/previews/v5_60_all3_tuned26_I512_failed/REPORT_LAYOUT.pdf",
+      "work/research_handoff_20261108/stage/20261108T043534_392036Z/workspace/work/overnight_research_20261106_night/reporting/previews/v5_60_all3_tuned26_I512_failed/REPORT_LAYOUT.pdf",
+      "work/research_handoff_20261108/stage/20261108T044535_092935Z/workspace/work/overnight_research_20261106_night/reporting/previews/v5_60_all3_tuned26_I512_failed/REPORT_LAYOUT.pdf"
+    ],
+    "bytes": 1829134,
+    "campaign": "overnight_research_20261106_night",
+    "date_label_scope": "Source-path timestamp when available, otherwise PDF CreationDate then campaign-folder or file-mtime date; not a new measurement or scientific event timestamp.",
+    "first_page_title_context_lines": [
+      "D-FLOW / QGF | NOVEMBER 6-7, 2026",
+      "LAYOUT DRAFT - RESULTS STILL IN PROGRESS",
+      "1",
+      "D-Flow / QGF",
+      "Overnight investigation",
+      "Third campaign | November 6-7, 2026",
+      "LAYOUT DRAFT - RESULTS STILL IN PROGRESS",
+      "Preserved40 evidence cutoff: 2026-11-07T08:11:35.235744+00:00"
+    ],
+    "page_count": 22,
+    "repo_path": "reports/2026-11-07/overnight_research_20261106_night/REPORT_LAYOUT__719c2f054237.pdf",
+    "representative_original_path": "work/overnight_research_20261106_night/reporting/previews/v5_60_all3_tuned26_I512_failed/REPORT_LAYOUT.pdf",
+    "scope": "HISTORICAL_DRAFT_OR_LAYOUT_REVISION_AS_SAVED_NOT_CURRENT",
+    "sha256": "719c2f054237065aeffdb373830ecaae4c8842e86c0fce9111c0da4bac9a0827",
+    "snapshot_date_label": "2026-11-07",
+    "snapshot_timestamp_from_source_path_UTC": null,
+    "title": "Overnight D-Flow / QGF research"
+  },
+  {
+    "PDF_metadata": {
+      "Author": "Research workspace",
+      "CreationDate": "D:20261107054035-07'00'",
+      "ModDate": "D:20261107054035-07'00'",
+      "Producer": "ReportLab PDF Library - (opensource)",
+      "Subject": "(unspecified)",
+      "Title": "Overnight D-Flow / QGF research"
+    },
+    "PDF_metadata_parse_error": null,
+    "alias_count": 3,
+    "all_original_path_aliases": [
+      "work/overnight_research_20261106_night/reporting/previews/v7_final_all100_Task2_MC_layoutfix/REPORT_LAYOUT.pdf",
+      "work/research_handoff_20261108/stage/20261108T043534_392036Z/workspace/work/overnight_research_20261106_night/reporting/previews/v7_final_all100_Task2_MC_layoutfix/REPORT_LAYOUT.pdf",
+      "work/research_handoff_20261108/stage/20261108T044535_092935Z/workspace/work/overnight_research_20261106_night/reporting/previews/v7_final_all100_Task2_MC_layoutfix/REPORT_LAYOUT.pdf"
+    ],
+    "bytes": 1854609,
+    "campaign": "overnight_research_20261106_night",
+    "date_label_scope": "Source-path timestamp when available, otherwise PDF CreationDate then campaign-folder or file-mtime date; not a new measurement or scientific event timestamp.",
+    "first_page_title_context_lines": [
+      "D-FLOW / QGF | NOVEMBER 6-7, 2026",
+      "LAYOUT DRAFT - RESULTS STILL IN PROGRESS",
+      "1",
+      "D-Flow / QGF",
+      "Overnight investigation",
+      "Third campaign | November 6-7, 2026",
+      "LAYOUT DRAFT - RESULTS STILL IN PROGRESS",
+      "Preserved40 evidence cutoff: 2026-11-07T08:11:35.235744+00:00"
+    ],
+    "page_count": 30,
+    "repo_path": "reports/2026-11-07/overnight_research_20261106_night/REPORT_LAYOUT__b1688f5cfb57.pdf",
+    "representative_original_path": "work/overnight_research_20261106_night/reporting/previews/v7_final_all100_Task2_MC_layoutfix/REPORT_LAYOUT.pdf",
+    "scope": "HISTORICAL_DRAFT_OR_LAYOUT_REVISION_AS_SAVED_NOT_CURRENT",
+    "sha256": "b1688f5cfb579a77286dbb98914ac72038c36c5d4517da59fd407744cb52187c",
+    "snapshot_date_label": "2026-11-07",
+    "snapshot_timestamp_from_source_path_UTC": null,
+    "title": "Overnight D-Flow / QGF research"
+  },
+  {
+    "PDF_metadata": {
+      "Author": "(anonymous)",
+      "CreationDate": "D:20261108111805-07'00'",
+      "ModDate": "D:20261108111805-07'00'",
+      "Producer": "ReportLab PDF Library - (opensource)",
+      "Subject": "(unspecified)",
+      "Title": "(anonymous)"
+    },
+    "PDF_metadata_parse_error": null,
+    "alias_count": 1,
+    "all_original_path_aliases": [
+      "outputs/continued_research_20261107/current_results/20261108T180816_652947Z_plan365/author_history/initial8page_visual_draft/CURRENT_RESEARCH_RESULTS_PLAN365.pdf"
+    ],
+    "bytes": 83519,
+    "campaign": "continued_research_20261107",
+    "date_label_scope": "Source-path timestamp when available, otherwise PDF CreationDate then campaign-folder or file-mtime date; not a new measurement or scientific event timestamp.",
+    "first_page_title_context_lines": [
+      "CURRENT RESULTS | PARTIAL plan365 | selection/confirmation, not heldout",
+      "1",
+      "CURRENT RESULTS | PARTIAL PLAN 365 | FROZEN 2026-11-08 18:08 UTC",
+      "Does D-Flow help? What the data show",
+      "D-Flow can reach high Task 2 success, but the present results do not establish an advantage over tuned",
+      "QGF. All eight D-Flow conditions have three frozen model-specific choices. Tuned original QGF and FK each",
+      "scored 40/40 for all three models on fresh confirmation. These are selection/confirmation results, not a new heldout",
+      "test or a causal comparison of averaging."
+    ],
+    "page_count": 8,
+    "repo_path": "reports/2026-11-08/continued_research_20261107/CURRENT_RESEARCH_RESULTS_PLAN365__133844aa300c.pdf",
+    "representative_original_path": "outputs/continued_research_20261107/current_results/20261108T180816_652947Z_plan365/author_history/initial8page_visual_draft/CURRENT_RESEARCH_RESULTS_PLAN365.pdf",
+    "scope": "HISTORICAL_DRAFT_OR_LAYOUT_REVISION_AS_SAVED_NOT_CURRENT",
+    "sha256": "133844aa300c79e26805f7364a9f97e816f652de50296b7f2fee855d4fe1aea9",
+    "snapshot_date_label": "2026-11-08",
+    "snapshot_timestamp_from_source_path_UTC": "2026-11-08T18:08:16+00:00",
+    "title": "CURRENT RESULTS | PARTIAL plan365 | selection/confirmation, not heldout"
+  },
+  {
+    "PDF_metadata": {
+      "Author": "(anonymous)",
+      "CreationDate": "D:20261108112102-07'00'",
+      "ModDate": "D:20261108112102-07'00'",
+      "Producer": "ReportLab PDF Library - (opensource)",
+      "Subject": "(unspecified)",
+      "Title": "(anonymous)"
+    },
+    "PDF_metadata_parse_error": null,
+    "alias_count": 1,
+    "all_original_path_aliases": [
+      "outputs/continued_research_20261107/current_results/20261108T180816_652947Z_plan365/CURRENT_RESEARCH_RESULTS_PLAN365.pdf"
+    ],
+    "bytes": 83870,
+    "campaign": "continued_research_20261107",
+    "date_label_scope": "Source-path timestamp when available, otherwise PDF CreationDate then campaign-folder or file-mtime date; not a new measurement or scientific event timestamp.",
+    "first_page_title_context_lines": [
+      "CURRENT RESULTS | PARTIAL plan365 | selection/confirmation, not heldout",
+      "1",
+      "CURRENT RESULTS | PARTIAL PLAN 365 | FROZEN 2026-11-08 18:08 UTC",
+      "Does D-Flow help? What the data show",
+      "D-Flow can reach high Task 2 success, but the present results do not establish an advantage over tuned",
+      "QGF. All eight D-Flow conditions have three frozen model-specific choices. Tuned original QGF and FK each",
+      "scored 40/40 for all three models on fresh confirmation. These are selection/confirmation results, not a new heldout",
+      "test or a causal comparison of averaging."
+    ],
+    "page_count": 8,
+    "repo_path": "reports/2026-11-08/continued_research_20261107/CURRENT_RESEARCH_RESULTS_PLAN365__c12a16dd150a.pdf",
+    "representative_original_path": "outputs/continued_research_20261107/current_results/20261108T180816_652947Z_plan365/CURRENT_RESEARCH_RESULTS_PLAN365.pdf",
+    "scope": "HISTORICAL_SNAPSHOT_AS_SAVED_NOT_CURRENT_QUALIFICATION",
+    "sha256": "c12a16dd150a6a0c01baeb6d806268d0ef397ce77e11969d8529fd338596102a",
+    "snapshot_date_label": "2026-11-08",
+    "snapshot_timestamp_from_source_path_UTC": "2026-11-08T18:08:16+00:00",
+    "title": "CURRENT RESULTS | PARTIAL plan365 | selection/confirmation, not heldout"
+  },
+  {
+    "PDF_metadata": {
+      "Author": "Research workflow",
+      "CreationDate": "D:20261108023757-07'00'",
+      "ModDate": "D:20261108023757-07'00'",
+      "Producer": "ReportLab PDF Library - (opensource)",
+      "Subject": "(unspecified)",
+      "Title": "Interim research snapshot - fixed plan252"
+    },
+    "PDF_metadata_parse_error": null,
+    "alias_count": 1,
+    "all_original_path_aliases": [
+      "outputs/continued_research_20261107/progress_snapshots/20261108T093017_622058Z_plan252/revisions/v2_undelivered_before_root_terminology_precision/INTERIM_RESEARCH_PLAN252.pdf"
+    ],
+    "bytes": 77476,
+    "campaign": "continued_research_20261107",
+    "date_label_scope": "Source-path timestamp when available, otherwise PDF CreationDate then campaign-folder or file-mtime date; not a new measurement or scientific event timestamp.",
+    "first_page_title_context_lines": [
+      "Fixed plan 252 | 2026-11-08T09:29:19.454524+00:00 | selected validation / fresh confirmation only",
+      "1/4",
+      "INTERIM SNAPSHOT | FIXED PLAN 252 | 01/04",
+      "Task 2: 22 of 24 DF choices confirmed",
+      "This is selection validation, not the new heldout study. At the fixed plan-252 cut, 28 of 33 guided model/condition choices are frozen: 22 DF + 3 original QGF + 3 original FK. The two",
+      "seed-37 stochastic averaged-Q conditions and all three original IPG choices remain pending. No new main heldout-100 episode has run.",
+      "Condition",
+      "lambda"
+    ],
+    "page_count": 4,
+    "repo_path": "reports/2026-11-08/continued_research_20261107/INTERIM_RESEARCH_PLAN252__47067bc1606f.pdf",
+    "representative_original_path": "outputs/continued_research_20261107/progress_snapshots/20261108T093017_622058Z_plan252/revisions/v2_undelivered_before_root_terminology_precision/INTERIM_RESEARCH_PLAN252.pdf",
+    "scope": "HISTORICAL_DRAFT_OR_LAYOUT_REVISION_AS_SAVED_NOT_CURRENT",
+    "sha256": "47067bc1606fc3047b89286295148e2276bb1d9daf744f5c028017f5ecaaf610",
+    "snapshot_date_label": "2026-11-08",
+    "snapshot_timestamp_from_source_path_UTC": "2026-11-08T09:30:17+00:00",
+    "title": "Interim research snapshot - fixed plan252"
+  },
+  {
+    "PDF_metadata": {
+      "Author": "Research workflow",
+      "CreationDate": "D:20261108023612-07'00'",
+      "ModDate": "D:20261108023612-07'00'",
+      "Producer": "ReportLab PDF Library - (opensource)",
+      "Subject": "(unspecified)",
+      "Title": "Interim research snapshot - fixed plan252"
+    },
+    "PDF_metadata_parse_error": null,
+    "alias_count": 1,
+    "all_original_path_aliases": [
+      "outputs/continued_research_20261107/progress_snapshots/20261108T093017_622058Z_plan252/revisions/v1_undelivered_before_readability_and_rightstart_evidence/INTERIM_RESEARCH_PLAN252.pdf"
+    ],
+    "bytes": 77310,
+    "campaign": "continued_research_20261107",
+    "date_label_scope": "Source-path timestamp when available, otherwise PDF CreationDate then campaign-folder or file-mtime date; not a new measurement or scientific event timestamp.",
+    "first_page_title_context_lines": [
+      "Fixed plan 252 | 2026-11-08T09:29:19.454524+00:00 | selected validation / fresh confirmation only",
+      "1/4",
+      "INTERIM SNAPSHOT | FIXED PLAN 252 | 01/04",
+      "Task 2: 22 of 24 DF choices confirmed",
+      "This is selection validation, not the new heldout study. At the fixed plan-252 cut, 28 of 33 guided model/condition choices are frozen: 22 DF + 3 original QGF + 3 original FK. The two",
+      "seed-37 stochastic averaged-Q conditions and all three original IPG choices remain pending. No new main heldout-100 episode has run.",
+      "Condition",
+      "lambda"
+    ],
+    "page_count": 4,
+    "repo_path": "reports/2026-11-08/continued_research_20261107/INTERIM_RESEARCH_PLAN252__943c0d33f4ae.pdf",
+    "representative_original_path": "outputs/continued_research_20261107/progress_snapshots/20261108T093017_622058Z_plan252/revisions/v1_undelivered_before_readability_and_rightstart_evidence/INTERIM_RESEARCH_PLAN252.pdf",
+    "scope": "HISTORICAL_DRAFT_OR_LAYOUT_REVISION_AS_SAVED_NOT_CURRENT",
+    "sha256": "943c0d33f4ae556b766878a1b400a6f7d28800856730c5ad18581f1245765d45",
+    "snapshot_date_label": "2026-11-08",
+    "snapshot_timestamp_from_source_path_UTC": "2026-11-08T09:30:17+00:00",
+    "title": "Interim research snapshot - fixed plan252"
+  },
+  {
+    "PDF_metadata": {
+      "Author": "Research workflow",
+      "CreationDate": "D:20261108024153-07'00'",
+      "ModDate": "D:20261108024153-07'00'",
+      "Producer": "ReportLab PDF Library - (opensource)",
+      "Subject": "(unspecified)",
+      "Title": "Interim research snapshot - fixed plan252"
+    },
+    "PDF_metadata_parse_error": null,
+    "alias_count": 1,
+    "all_original_path_aliases": [
+      "outputs/continued_research_20261107/progress_snapshots/20261108T093017_622058Z_plan252/INTERIM_RESEARCH_PLAN252.pdf"
+    ],
+    "bytes": 77624,
+    "campaign": "continued_research_20261107",
+    "date_label_scope": "Source-path timestamp when available, otherwise PDF CreationDate then campaign-folder or file-mtime date; not a new measurement or scientific event timestamp.",
+    "first_page_title_context_lines": [
+      "Fixed plan 252 | 2026-11-08T09:29:19.454524+00:00 | selected validation / fresh confirmation only",
+      "1/4",
+      "INTERIM SNAPSHOT | FIXED PLAN 252 | 01/04",
+      "Task 2: 22 of 24 DF choices confirmed",
+      "This is selection validation, not the new heldout study. At the fixed plan-252 cut, 28 of 33 guided model/condition choices are frozen: 22 DF + 3 original QGF + 3 original FK. The two",
+      "seed-37 stochastic averaged-Q conditions and all three original IPG choices remain pending. No new main heldout-100 episode has run.",
+      "Condition",
+      "lambda"
+    ],
+    "page_count": 4,
+    "repo_path": "reports/2026-11-08/continued_research_20261107/INTERIM_RESEARCH_PLAN252__da22e51f0c7f.pdf",
+    "representative_original_path": "outputs/continued_research_20261107/progress_snapshots/20261108T093017_622058Z_plan252/INTERIM_RESEARCH_PLAN252.pdf",
+    "scope": "HISTORICAL_SNAPSHOT_AS_SAVED_NOT_CURRENT_QUALIFICATION",
+    "sha256": "da22e51f0c7fa30ded3b228680d66919e5e4a46c2c30b8627e583f3c0a8dd601",
+    "snapshot_date_label": "2026-11-08",
+    "snapshot_timestamp_from_source_path_UTC": "2026-11-08T09:30:17+00:00",
+    "title": "Interim research snapshot - fixed plan252"
+  },
+  {
+    "PDF_metadata": {
+      "Author": "Research workflow",
+      "CreationDate": "D:20261107175941-07'00'",
+      "ModDate": "D:20261107175941-07'00'",
+      "Producer": "ReportLab PDF Library - (opensource)",
+      "Subject": "(unspecified)",
+      "Title": "Interim research snapshot - plan140"
+    },
+    "PDF_metadata_parse_error": null,
+    "alias_count": 3,
+    "all_original_path_aliases": [
+      "outputs/continued_research_20261107/progress_snapshots/20261108T004726_803244Z_plan140/INTERIM_RESEARCH_REPORT.pdf",
+      "work/research_handoff_20261108/stage/20261108T043534_392036Z/workspace/outputs/continued_research_20261107/progress_snapshots/20261108T004726_803244Z_plan140/INTERIM_RESEARCH_REPORT.pdf",
+      "work/research_handoff_20261108/stage/20261108T044535_092935Z/workspace/outputs/continued_research_20261107/progress_snapshots/20261108T004726_803244Z_plan140/INTERIM_RESEARCH_REPORT.pdf"
+    ],
+    "bytes": 84877,
+    "campaign": "continued_research_20261107",
+    "date_label_scope": "Source-path timestamp when available, otherwise PDF CreationDate then campaign-folder or file-mtime date; not a new measurement or scientific event timestamp.",
+    "first_page_title_context_lines": [
+      "Fixed plan 140 | 2026-11-08 00:43 UTC | selection validation / fresh confirmation",
+      "1 / 8",
+      "INTERIM RESEARCH SNAPSHOT | PLAN 140 | 01 / 08",
+      "What is complete, and what is still pending",
+      "This is an interim validation snapshot. It freezes plan revision 140 at 2026-11-08 00:43:16 UTC. Later live",
+      "progress is outside this report. No new main heldout-100 evaluation has run in this continuation campaign.",
+      "Closed and reconciled work",
+      "Actual amount"
+    ],
+    "page_count": 8,
+    "repo_path": "reports/2026-11-08/continued_research_20261107/INTERIM_RESEARCH_REPORT__2285e09bedaf.pdf",
+    "representative_original_path": "outputs/continued_research_20261107/progress_snapshots/20261108T004726_803244Z_plan140/INTERIM_RESEARCH_REPORT.pdf",
+    "scope": "HISTORICAL_SNAPSHOT_AS_SAVED_NOT_CURRENT_QUALIFICATION",
+    "sha256": "2285e09bedaf6aa49cdb749de16c1cabf8a1c70b08c01c474130a181509f4b5b",
+    "snapshot_date_label": "2026-11-08",
+    "snapshot_timestamp_from_source_path_UTC": "2026-11-08T00:47:26+00:00",
+    "title": "Interim research snapshot - plan140"
+  },
+  {
+    "PDF_metadata": {
+      "Author": "Research workflow",
+      "CreationDate": "D:20261107175350-07'00'",
+      "ModDate": "D:20261107175350-07'00'",
+      "Producer": "ReportLab PDF Library - (opensource)",
+      "Subject": "(unspecified)",
+      "Title": "Interim research snapshot - plan140"
+    },
+    "PDF_metadata_parse_error": null,
+    "alias_count": 3,
+    "all_original_path_aliases": [
+      "outputs/continued_research_20261107/progress_snapshots/20261108T004726_803244Z_plan140/revisions/v1_undelivered_before_two_presentation_corrections/INTERIM_RESEARCH_REPORT.pdf",
+      "work/research_handoff_20261108/stage/20261108T043534_392036Z/workspace/outputs/continued_research_20261107/progress_snapshots/20261108T004726_803244Z_plan140/revisions/v1_undelivered_before_two_presentation_corrections/INTERIM_RESEARCH_REPORT.pdf",
+      "work/research_handoff_20261108/stage/20261108T044535_092935Z/workspace/outputs/continued_research_20261107/progress_snapshots/20261108T004726_803244Z_plan140/revisions/v1_undelivered_before_two_presentation_corrections/INTERIM_RESEARCH_REPORT.pdf"
+    ],
+    "bytes": 84819,
+    "campaign": "continued_research_20261107",
+    "date_label_scope": "Source-path timestamp when available, otherwise PDF CreationDate then campaign-folder or file-mtime date; not a new measurement or scientific event timestamp.",
+    "first_page_title_context_lines": [
+      "Fixed plan 140 | 2026-11-08 00:43 UTC | selection validation / fresh confirmation",
+      "1 / 8",
+      "INTERIM RESEARCH SNAPSHOT | PLAN 140 | 01 / 08",
+      "What is complete, and what is still pending",
+      "This is an interim validation snapshot. It freezes plan revision 140 at 2026-11-08 00:43:16 UTC. Later live",
+      "progress is outside this report. No new main heldout-100 evaluation has run in this continuation campaign.",
+      "Closed and reconciled work",
+      "Actual amount"
+    ],
+    "page_count": 8,
+    "repo_path": "reports/2026-11-08/continued_research_20261107/INTERIM_RESEARCH_REPORT__a05d6d591b10.pdf",
+    "representative_original_path": "outputs/continued_research_20261107/progress_snapshots/20261108T004726_803244Z_plan140/revisions/v1_undelivered_before_two_presentation_corrections/INTERIM_RESEARCH_REPORT.pdf",
+    "scope": "HISTORICAL_DRAFT_OR_LAYOUT_REVISION_AS_SAVED_NOT_CURRENT",
+    "sha256": "a05d6d591b106169ae23168c58b2bda59bf5514f989c7f5e4dd07aafb458ee88",
+    "snapshot_date_label": "2026-11-08",
+    "snapshot_timestamp_from_source_path_UTC": "2026-11-08T00:47:26+00:00",
+    "title": "Interim research snapshot - plan140"
+  },
+  {
+    "PDF_metadata": {
+      "Author": "Research workflow",
+      "CreationDate": "D:20261107175840-07'00'",
+      "ModDate": "D:20261107175840-07'00'",
+      "Producer": "ReportLab PDF Library - (opensource)",
+      "Subject": "(unspecified)",
+      "Title": "Interim research snapshot - plan140"
+    },
+    "PDF_metadata_parse_error": null,
+    "alias_count": 3,
+    "all_original_path_aliases": [
+      "outputs/continued_research_20261107/progress_snapshots/20261108T004726_803244Z_plan140/revisions/v2_undelivered_header_still_wrapped/INTERIM_RESEARCH_REPORT.pdf",
+      "work/research_handoff_20261108/stage/20261108T043534_392036Z/workspace/outputs/continued_research_20261107/progress_snapshots/20261108T004726_803244Z_plan140/revisions/v2_undelivered_header_still_wrapped/INTERIM_RESEARCH_REPORT.pdf",
+      "work/research_handoff_20261108/stage/20261108T044535_092935Z/workspace/outputs/continued_research_20261107/progress_snapshots/20261108T004726_803244Z_plan140/revisions/v2_undelivered_header_still_wrapped/INTERIM_RESEARCH_REPORT.pdf"
+    ],
+    "bytes": 84879,
+    "campaign": "continued_research_20261107",
+    "date_label_scope": "Source-path timestamp when available, otherwise PDF CreationDate then campaign-folder or file-mtime date; not a new measurement or scientific event timestamp.",
+    "first_page_title_context_lines": [
+      "Fixed plan 140 | 2026-11-08 00:43 UTC | selection validation / fresh confirmation",
+      "1 / 8",
+      "INTERIM RESEARCH SNAPSHOT | PLAN 140 | 01 / 08",
+      "What is complete, and what is still pending",
+      "This is an interim validation snapshot. It freezes plan revision 140 at 2026-11-08 00:43:16 UTC. Later live",
+      "progress is outside this report. No new main heldout-100 evaluation has run in this continuation campaign.",
+      "Closed and reconciled work",
+      "Actual amount"
+    ],
+    "page_count": 8,
+    "repo_path": "reports/2026-11-08/continued_research_20261107/INTERIM_RESEARCH_REPORT__f3f24ce914d9.pdf",
+    "representative_original_path": "outputs/continued_research_20261107/progress_snapshots/20261108T004726_803244Z_plan140/revisions/v2_undelivered_header_still_wrapped/INTERIM_RESEARCH_REPORT.pdf",
+    "scope": "HISTORICAL_DRAFT_OR_LAYOUT_REVISION_AS_SAVED_NOT_CURRENT",
+    "sha256": "f3f24ce914d9a283017e92687632123c916a629cc76411256963b0c1f724855d",
+    "snapshot_date_label": "2026-11-08",
+    "snapshot_timestamp_from_source_path_UTC": "2026-11-08T00:47:26+00:00",
+    "title": "Interim research snapshot - plan140"
+  },
+  {
+    "PDF_metadata": {
+      "Author": "(anonymous)",
+      "CreationDate": "D:20261108052843-07'00'",
+      "ModDate": "D:20261108052843-07'00'",
+      "Producer": "ReportLab PDF Library - (opensource)",
+      "Subject": "(unspecified)",
+      "Title": "(anonymous)"
+    },
+    "PDF_metadata_parse_error": null,
+    "alias_count": 1,
+    "all_original_path_aliases": [
+      "outputs/continued_research_20261107/progress_snapshots/20261108T122842_958070Z_plan307/PARTIAL_RESEARCH_REPORT.pdf"
+    ],
+    "bytes": 76782,
+    "campaign": "continued_research_20261107",
+    "date_label_scope": "Source-path timestamp when available, otherwise PDF CreationDate then campaign-folder or file-mtime date; not a new measurement or scientific event timestamp.",
+    "first_page_title_context_lines": [
+      "D-Flow / QGF | PARTIAL plan307 | validation/confirmation, not heldout",
+      "1",
+      "PARTIAL RESEARCH SNAPSHOT | PLAN 307 | 2026-11-08 12:28 UTC",
+      "All 24 D-Flow choices are frozen",
+      "The study is unfinished. All eight Task2 D-Flow conditions have completed literal top-three fresh40 confirmation",
+      "for each independently trained model. QGF and FK each have three frozen choices. IPG remains unqualified, so the",
+      "required all33 barrier is incomplete and no new main heldout-100 test has started.",
+      "Own-best condition"
+    ],
+    "page_count": 5,
+    "repo_path": "reports/2026-11-08/continued_research_20261107/PARTIAL_RESEARCH_REPORT__0c1174f093be.pdf",
+    "representative_original_path": "outputs/continued_research_20261107/progress_snapshots/20261108T122842_958070Z_plan307/PARTIAL_RESEARCH_REPORT.pdf",
+    "scope": "HISTORICAL_SNAPSHOT_AS_SAVED_NOT_CURRENT_QUALIFICATION",
+    "sha256": "0c1174f093be19a8b8846c4ce8ced608bd8f58da9d837a88846fa9d92464c7dc",
+    "snapshot_date_label": "2026-11-08",
+    "snapshot_timestamp_from_source_path_UTC": "2026-11-08T12:28:42+00:00",
+    "title": "D-Flow / QGF | PARTIAL plan307 | validation/confirmation, not heldout"
+  },
+  {
+    "PDF_metadata": {
+      "Author": "(anonymous)",
+      "CreationDate": "D:20261108072401-07'00'",
+      "ModDate": "D:20261108072401-07'00'",
+      "Producer": "ReportLab PDF Library - (opensource)",
+      "Subject": "(unspecified)",
+      "Title": "(anonymous)"
+    },
+    "PDF_metadata_parse_error": null,
+    "alias_count": 2,
+    "all_original_path_aliases": [
+      "outputs/continued_research_20261107/progress_snapshots/20261108T142400_855798Z_plan328/PARTIAL_RESEARCH_REPORT.pdf",
+      "work/continued_research_20261107/bundle_staging/20261108T143744_090784Z_checkpoint_plan328_SMALL/report/PARTIAL_RESEARCH_REPORT.pdf"
+    ],
+    "bytes": 78897,
+    "campaign": "continued_research_20261107",
+    "date_label_scope": "Source-path timestamp when available, otherwise PDF CreationDate then campaign-folder or file-mtime date; not a new measurement or scientific event timestamp.",
+    "first_page_title_context_lines": [
+      "D-Flow / QGF | PARTIAL plan328 | validation/confirmation, not heldout",
+      "1",
+      "PARTIAL RESEARCH SNAPSHOT | PLAN 328 | 2026-11-08 14:24 UTC",
+      "All 24 D-Flow choices are frozen",
+      "The study is unfinished. All eight Task 2 D-Flow conditions have completed literal top-three fresh40 confirmation",
+      "for each independently trained model. QGF and FK each have three frozen choices. IPG remains unqualified, so the",
+      "required all 33 barrier is incomplete and no new main heldout-100 test has started.",
+      "Own-best condition"
+    ],
+    "page_count": 6,
+    "repo_path": "reports/2026-11-08/continued_research_20261107/PARTIAL_RESEARCH_REPORT__3e90caa442fd.pdf",
+    "representative_original_path": "outputs/continued_research_20261107/progress_snapshots/20261108T142400_855798Z_plan328/PARTIAL_RESEARCH_REPORT.pdf",
+    "scope": "HISTORICAL_SNAPSHOT_AS_SAVED_NOT_CURRENT_QUALIFICATION",
+    "sha256": "3e90caa442fdd9414030fa56ae65fe1f0b31350c585d51cfb41c59b58577dd91",
+    "snapshot_date_label": "2026-11-08",
+    "snapshot_timestamp_from_source_path_UTC": "2026-11-08T14:24:00+00:00",
+    "title": "D-Flow / QGF | PARTIAL plan328 | validation/confirmation, not heldout"
+  },
+  {
+    "PDF_metadata": {
+      "Author": "(anonymous)",
+      "CreationDate": "D:20261108053006-07'00'",
+      "ModDate": "D:20261108053006-07'00'",
+      "Producer": "ReportLab PDF Library - (opensource)",
+      "Subject": "(unspecified)",
+      "Title": "(anonymous)"
+    },
+    "PDF_metadata_parse_error": null,
+    "alias_count": 3,
+    "all_original_path_aliases": [
+      "outputs/continued_research_20261107/progress_snapshots/20261108T123005_796490Z_plan307/PARTIAL_RESEARCH_REPORT.pdf",
+      "work/continued_research_20261107/bundle_staging/20261108T124441_768884Z_plan307_LIGHT_UPDATE/report/PARTIAL_RESEARCH_REPORT.pdf",
+      "work/continued_research_20261107/bundle_staging/20261108T124658_142173Z_plan307_LIGHT_UPDATE/report/PARTIAL_RESEARCH_REPORT.pdf"
+    ],
+    "bytes": 76974,
+    "campaign": "continued_research_20261107",
+    "date_label_scope": "Source-path timestamp when available, otherwise PDF CreationDate then campaign-folder or file-mtime date; not a new measurement or scientific event timestamp.",
+    "first_page_title_context_lines": [
+      "D-Flow / QGF | PARTIAL plan307 | validation/confirmation, not heldout",
+      "1",
+      "PARTIAL RESEARCH SNAPSHOT | PLAN 307 | 2026-11-08 12:30 UTC",
+      "All 24 D-Flow choices are frozen",
+      "The study is unfinished. All eight Task 2 D-Flow conditions have completed literal top-three fresh40 confirmation",
+      "for each independently trained model. QGF and FK each have three frozen choices. IPG remains unqualified, so the",
+      "required all 33 barrier is incomplete and no new main heldout-100 test has started.",
+      "Own-best condition"
+    ],
+    "page_count": 5,
+    "repo_path": "reports/2026-11-08/continued_research_20261107/PARTIAL_RESEARCH_REPORT__a8182ef3b461.pdf",
+    "representative_original_path": "outputs/continued_research_20261107/progress_snapshots/20261108T123005_796490Z_plan307/PARTIAL_RESEARCH_REPORT.pdf",
+    "scope": "HISTORICAL_SNAPSHOT_AS_SAVED_NOT_CURRENT_QUALIFICATION",
+    "sha256": "a8182ef3b4610e781f653741d9467614c566baca09d0180722d6c5eb214c1049",
+    "snapshot_date_label": "2026-11-08",
+    "snapshot_timestamp_from_source_path_UTC": "2026-11-08T12:30:05+00:00",
+    "title": "D-Flow / QGF | PARTIAL plan307 | validation/confirmation, not heldout"
+  },
+  {
+    "PDF_metadata": {
+      "Author": "(anonymous)",
+      "CreationDate": "D:20261108143545-07'00'",
+      "ModDate": "D:20261108143545-07'00'",
+      "Producer": "ReportLab PDF Library - (opensource)",
+      "Subject": "(unspecified)",
+      "Title": "(anonymous)"
+    },
+    "PDF_metadata_parse_error": null,
+    "alias_count": 1,
+    "all_original_path_aliases": [
+      "outputs/continued_research_20261107/current_results/20261108T213419_590577Z_plan401/PARTIAL_RESULTS_POST_BC20.pdf"
+    ],
+    "bytes": 72777,
+    "campaign": "continued_research_20261107",
+    "date_label_scope": "Source-path timestamp when available, otherwise PDF CreationDate then campaign-folder or file-mtime date; not a new measurement or scientific event timestamp.",
+    "first_page_title_context_lines": [
+      "PARTIAL / NO NEW SCIENTIFIC QUERIES / FROZEN PLAN 401",
+      "1",
+      "RESEARCH RESULTS ADDENDUM | PARTIAL | FROZEN PLAN 401",
+      "Does D-Flow help?",
+      "These results do not demonstrate an advantage over tuned QGF or FK. D-Flow reaches high Task 2 success,",
+      "while tuned original QGF and FK each achieve 40/40 for every trained model. The table reports model-specific",
+      "own-best fresh confirmation after selection; it is not a new heldout comparison.",
+      "Own-best confirmation"
+    ],
+    "page_count": 3,
+    "repo_path": "reports/2026-11-08/continued_research_20261107/PARTIAL_RESULTS_POST_BC20__3dce1687b8cc.pdf",
+    "representative_original_path": "outputs/continued_research_20261107/current_results/20261108T213419_590577Z_plan401/PARTIAL_RESULTS_POST_BC20.pdf",
+    "scope": "FROZEN_PLAN401_FORMAL_PARTIAL_POST_BC20_NOT_STUDY_CLOSURE",
+    "sha256": "3dce1687b8cc4ed455a33faa00b742bfa587fc8159e78d925f42e6a33f8fa0a8",
+    "snapshot_date_label": "2026-11-08",
+    "snapshot_timestamp_from_source_path_UTC": "2026-11-08T21:34:19+00:00",
+    "title": "PARTIAL / NO NEW SCIENTIFIC QUERIES / FROZEN PLAN 401"
+  },
+  {
+    "PDF_metadata": {
+      "Author": "Codex research workspace",
+      "CreationDate": "D:20261107211507-07'00'",
+      "ModDate": "D:20261107211507-07'00'",
+      "Producer": "ReportLab PDF Library - (opensource)",
+      "Subject": "unspecified",
+      "Title": "Task5 selected confirmation: interim saved-trace note"
+    },
+    "PDF_metadata_parse_error": null,
+    "alias_count": 3,
+    "all_original_path_aliases": [
+      "outputs/continued_research_20261107/task5_selected_trace_diagnostic/notes/20261108T041507_201301Z/TASK5_SELECTED_TRACE_INTERIM_NOTE.pdf",
+      "work/research_handoff_20261108/stage/20261108T043534_392036Z/workspace/outputs/continued_research_20261107/task5_selected_trace_diagnostic/notes/20261108T041507_201301Z/TASK5_SELECTED_TRACE_INTERIM_NOTE.pdf",
+      "work/research_handoff_20261108/stage/20261108T044535_092935Z/workspace/outputs/continued_research_20261107/task5_selected_trace_diagnostic/notes/20261108T041507_201301Z/TASK5_SELECTED_TRACE_INTERIM_NOTE.pdf"
+    ],
+    "bytes": 534687,
+    "campaign": "continued_research_20261107",
+    "date_label_scope": "Source-path timestamp when available, otherwise PDF CreationDate then campaign-folder or file-mtime date; not a new measurement or scientific event timestamp.",
+    "first_page_title_context_lines": [
+      "Task5: selected QGF confirmation results",
+      "Saved-trace diagnostic - not final research, not a new heldout evaluation",
+      "INTERIM | Selected confirmation data | Zero new trials | Evidence and all120 CSV frozen with note",
+      "1 /4",
+      "PointMaze navigation, not a robot-arm cube task. Native medium Task5 starts near (20,4) and targets (0,0). The BC flow and Task5 IQL critic remain frozen. M",
+      "changes inference integration of the F8-trained flow; it is not a particle count.",
+      "Frozen trained seed",
+      "QGF kappa"
+    ],
+    "page_count": 4,
+    "repo_path": "reports/2026-11-08/continued_research_20261107/TASK5_SELECTED_TRACE_INTERIM_NOTE__4e49726538e1.pdf",
+    "representative_original_path": "outputs/continued_research_20261107/task5_selected_trace_diagnostic/notes/20261108T041507_201301Z/TASK5_SELECTED_TRACE_INTERIM_NOTE.pdf",
+    "scope": "HISTORICAL_SNAPSHOT_AS_SAVED_NOT_CURRENT_QUALIFICATION",
+    "sha256": "4e49726538e1c50f0f84e144920a0b8bb7a7bb1c53d866156d583db0dae546b4",
+    "snapshot_date_label": "2026-11-08",
+    "snapshot_timestamp_from_source_path_UTC": "2026-11-08T04:15:07+00:00",
+    "title": "Task5 selected confirmation: interim saved-trace note"
+  },
+  {
+    "PDF_metadata": {
+      "Author": "Codex research workspace",
+      "CreationDate": "D:20261107211538-07'00'",
+      "ModDate": "D:20261107211538-07'00'",
+      "Producer": "ReportLab PDF Library - (opensource)",
+      "Subject": "unspecified",
+      "Title": "Task5 selected confirmation: interim saved-trace note"
+    },
+    "PDF_metadata_parse_error": null,
+    "alias_count": 6,
+    "all_original_path_aliases": [
+      "outputs/continued_research_20261107/task5_selected_trace_diagnostic/notes/20261108T041538_555595Z/TASK5_SELECTED_TRACE_INTERIM_NOTE.pdf",
+      "work/continued_research_20261107/bundle_staging/task5_qgf_failure_analysis_20261108T042716_674574Z/workspace/outputs/continued_research_20261107/task5_selected_trace_diagnostic/notes/20261108T041538_555595Z/TASK5_SELECTED_TRACE_INTERIM_NOTE.pdf",
+      "work/research_handoff_20261108/stage/20261108T043534_392036Z/workspace/outputs/continued_research_20261107/task5_selected_trace_diagnostic/notes/20261108T041538_555595Z/TASK5_SELECTED_TRACE_INTERIM_NOTE.pdf",
+      "work/research_handoff_20261108/stage/20261108T043534_392036Z/workspace/work/continued_research_20261107/bundle_staging/task5_qgf_failure_analysis_20261108T042716_674574Z/workspace/outputs/continued_research_20261107/task5_selected_trace_diagnostic/notes/20261108T041538_555595Z/TASK5_SELECTED_TRACE_INTERIM_NOTE.pdf",
+      "work/research_handoff_20261108/stage/20261108T044535_092935Z/workspace/outputs/continued_research_20261107/task5_selected_trace_diagnostic/notes/20261108T041538_555595Z/TASK5_SELECTED_TRACE_INTERIM_NOTE.pdf",
+      "work/research_handoff_20261108/stage/20261108T044535_092935Z/workspace/work/continued_research_20261107/bundle_staging/task5_qgf_failure_analysis_20261108T042716_674574Z/workspace/outputs/continued_research_20261107/task5_selected_trace_diagnostic/notes/20261108T041538_555595Z/TASK5_SELECTED_TRACE_INTERIM_NOTE.pdf"
+    ],
+    "bytes": 534766,
+    "campaign": "continued_research_20261107",
+    "date_label_scope": "Source-path timestamp when available, otherwise PDF CreationDate then campaign-folder or file-mtime date; not a new measurement or scientific event timestamp.",
+    "first_page_title_context_lines": [
+      "Task5: selected QGF confirmation results",
+      "Saved-trace diagnostic - not final research, not a new heldout evaluation",
+      "INTERIM | Selected confirmation data | Zero new trials | Evidence and all 120 CSV frozen with note",
+      "1 /4",
+      "These results are PointMaze navigation. The paper CubeTripleTask3 and CubeQuadruple tasks have not yet been tested with the eight DF conditions here.",
+      "Native medium Task5 starts near (20,4) and targets (0,0). BC flow and Task5 IQL critic remain frozen. M changes inference integration of the F8-trained flow; it",
+      "is not a particle count.",
+      "Frozen trained seed"
+    ],
+    "page_count": 4,
+    "repo_path": "reports/2026-11-08/continued_research_20261107/TASK5_SELECTED_TRACE_INTERIM_NOTE__9d4251db4416.pdf",
+    "representative_original_path": "outputs/continued_research_20261107/task5_selected_trace_diagnostic/notes/20261108T041538_555595Z/TASK5_SELECTED_TRACE_INTERIM_NOTE.pdf",
+    "scope": "HISTORICAL_SNAPSHOT_AS_SAVED_NOT_CURRENT_QUALIFICATION",
+    "sha256": "9d4251db441659e71709876133f43b404063abe9c44e3e4be73e8716feca4a82",
+    "snapshot_date_label": "2026-11-08",
+    "snapshot_timestamp_from_source_path_UTC": "2026-11-08T04:15:38+00:00",
+    "title": "Task5 selected confirmation: interim saved-trace note"
+  }
+]

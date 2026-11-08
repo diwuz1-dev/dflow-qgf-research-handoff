@@ -1,0 +1,20 @@
+{
+  "PDF_title_pagecount_parse_errors": [],
+  "PUBLIC_scope_authority_path": "outputs/continued_research_20261107/review/PUBLIC_all_campaigns_ROOT_scope_acceptance/20261108T231513_376269Z/USER_PUBLIC_SCOPE_AUTHORIZATION.json",
+  "PUBLIC_scope_authority_sha256": "332546a3a1713e0c8777cdcd9cd60df7631186ef0bdbd543b3126a1f80cef9e8",
+  "all_114_current_PDF_hashes_and_saved_inventory_stat_prepost_exact": true,
+  "created_UTC": "2026-11-08T23:21:50.453397+00:00",
+  "distinct_PDF_bytes": 31152695,
+  "distinct_PDF_count": 38,
+  "eligible_PDF_list_sha256": "bc62a8b596a9d5db4dc065d28a45a8da0c8d29466f54ea72c65e6d1034add136",
+  "full_saved_lstat_inventory_sha256": "c91670d66b92ebb802fff060a4715b6c004337fb55c06f422acc6cfce1f3fecc",
+  "inventory_snapshot_path": "outputs/research_handoff_20261108/20261108T230423_028011Z_ALL_CAMPAIGNS_INVENTORY_ONLY/CLASSIFICATION_V2",
+  "listed_source_path_bytes": 108842617,
+  "listed_source_path_count": 114,
+  "metadata_precision_revision_only_no_PDF_change": true,
+  "original_PDFs_unchanged_and_distinct_copies_byte_exact": true,
+  "scientific_runtime_or_newqueries_models_arrays_keys_ROOT_plan_owner_or_remote_mutations": false,
+  "scope": "All114 eligible PDF paths in fixed inventory; no new workspace scan. Exact duplicate bytes stored once with every source alias retained. No PDF regenerated or rendered; no all-page visual/content QA claim for old PDFs. Literature and historical drafts retained. This report library is not the complete scientific workspace archive.",
+  "status": "LOCAL_PDF_BROWSE_COLLECTION_NOT_UPLOADED",
+  "unpublished_V1_metadata_candidate_preserved_at": "outputs/research_handoff_20261108/ALL_PDF_BROWSE_COLLECTION_20261108T232037_676200Z"
+}
