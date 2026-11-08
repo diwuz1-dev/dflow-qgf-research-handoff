@@ -1,0 +1,22 @@
+{
+  "retrieved_utc": "2026-11-08T07:19:57.909692+00:00",
+  "sources": [
+    {
+      "url": "https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases#storage-and-bandwidth-quotas",
+      "fact": "Each release asset must be smaller than2GiB; four1.5GB-or-smaller parts are below this limit."
+    },
+    {
+      "url": "https://cli.github.com/manual/gh_release_upload",
+      "purpose": "Named release-asset upload CLI, no clobber requested."
+    },
+    {
+      "url": "https://cli.github.com/manual/gh_release_download",
+      "purpose": "Named asset download CLI."
+    },
+    {
+      "url": "https://docs.github.com/en/rest/releases/assets",
+      "purpose": "Release asset API size and sha256 digest metadata."
+    }
+  ],
+  "no_remote_repository_or_credential_calls": true
+}

@@ -1,0 +1,37 @@
+{
+  "status": "SOURCE_ONLY_NOT_SPLIT_NO_PART_HASHES_YET",
+  "original": {
+    "name": "FULL_RESEARCH_HANDOFF.zip",
+    "bytes": 5868162470,
+    "sha256": "6092107401577e0cfdca1d0b8416f4794766dfc522f78f68f86393ea4030c0e1"
+  },
+  "part_bytes_max": 1500000000,
+  "parts": [
+    {
+      "name": "FULL_RESEARCH_HANDOFF.zip.part01of04",
+      "bytes": 1500000000,
+      "sha256": null,
+      "offset_bytes": 0
+    },
+    {
+      "name": "FULL_RESEARCH_HANDOFF.zip.part02of04",
+      "bytes": 1500000000,
+      "sha256": null,
+      "offset_bytes": 1500000000
+    },
+    {
+      "name": "FULL_RESEARCH_HANDOFF.zip.part03of04",
+      "bytes": 1500000000,
+      "sha256": null,
+      "offset_bytes": 3000000000
+    },
+    {
+      "name": "FULL_RESEARCH_HANDOFF.zip.part04of04",
+      "bytes": 1368162470,
+      "sha256": null,
+      "offset_bytes": 4500000000
+    }
+  ],
+  "part_payload_copy_or_split_done": false,
+  "required_before_upload": "Authorized actual split, verified original wholeSHA and allfour computed partSHA; no invented part digests."
+}

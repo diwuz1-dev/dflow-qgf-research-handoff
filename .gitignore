@@ -1,0 +1,7 @@
+release-assets/
+downloads*/
+*.zip
+*.part??of??
+*.unverified.*
+__pycache__/
+*.pyc

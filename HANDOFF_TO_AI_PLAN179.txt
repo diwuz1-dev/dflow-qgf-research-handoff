@@ -1,0 +1,413 @@
+RESEARCH HANDOFF FOR ANOTHER AI AGENT
+Project: D-Flow / QGF / original IPG / original FK
+Original workspace: /Users/diwu/Documents/Codex/2026-11-04/hi-x20
+Author: current root research agent. Guide prepared 2026-11-08 UTC.
+This is an ongoing-research handoff, NOT a declaration that all studies finished.
+
+1. START HERE AND VERIFY THE FILES
+
+Read START_HERE_AI.txt, CURRENT_STATE_CAPTURE.json, CONTENT_COMPARISON.json,
+EXCLUSIONS.json and UNSETTLED_OR_LIVE_FILES.json first. The captured plan,
+STATUS and pipeline owner form the stated matching metadata cohort; other
+files were individually copied over an interval while a live job continued.
+This is not a transactional snapshot of every file at one instant. Do not
+assume newly created files after directory enumeration are present.
+
+AI_REVIEW_HANDOFF.zip contains readable code, scalar results, tables, reports,
+PDFs and output figures across the campaigns. FULL_RESEARCH_HANDOFF.zip also
+contains the exact research datasets, checkpoints, saved arrays, previous
+archives, staging, partials and failure artifacts captured by this build.
+The compact archive's omitted binary assets are indexed by exact path, size
+and SHA256 in AI_REVIEW_BINARY_ASSET_INDEX.json; they are in the full archive.
+Installed environments, Git internals, bytecode/OS junk and this build's own
+trees are excluded explicitly. Relevant installed primary source/licenses
+are supplied separately. This is not a portable installed scientific runtime.
+
+Run python3 VERIFY_SHA256.py after extraction. That verifier uses only the
+standard library and executes no research source. The outer ZIP sidecar SHA
+binds the archive, including SHA256SUMS itself. Original file provenance,
+source-before/after metadata and copied-byte hashes are in the inventory.
+
+All captured originals are beneath workspace/work and workspace/outputs.
+Most research scripts have absolute paths to the original workspace. A new
+agent must inspect/rebase paths and verify dependencies before execution;
+extracting a ZIP or receiving an old ROOT_RELEASE is not execution authority.
+
+2. USER'S LATEST SCIENTIFIC SCOPE
+
+Keep eight D-Flow CONDITIONS, not eight unrelated algorithms:
+  identity Jacobian; full F8 flow endpoint; T=1;
+  regular or stochastic x raw or nearby-action-averaged Q x lambda 0 or 1.
+Compare with independently tuned ORIGINAL QGF, one original IPG and one
+original FK corrector. No new fixed-QGF comparison arms, MH, full-Jacobian
+D-Flow, one-step Euler D-Flow endpoints, IPG-RW/CV or FK variants.
+Historical experiments with those methods remain valid historical records.
+
+The user explicitly confirmed full-flow endpoints ONLY with identity
+Jacobian. Preserve ENDPOINT_DECISION's earlier assumption history and the
+later ENDPOINT_USER_CONFIRMATION receipt; do not relabel an assumption as an
+earlier explicit answer. Beta was a typo for D-Flow eta; no beta/temperature
+sweep was requested. The user requested low-to-high coefficient sweeps,
+same-kappa comparisons, larger episode counts, harder tasks and literature.
+Root selected target100 heldout per unique selected configuration/model.
+Do not reinterpret old immutable20/40 protocols as completed100 tests.
+
+Current primary comparison is native PointMaze Task2. Task1 and Task5 have
+earlier campaigns and Task5 has a new tuned-QGF selection study. Paper Cube
+manipulation tasks are different environments, not these PointMaze task IDs.
+
+3. NONNEGOTIABLE CONTINUATION AND COUNT RULES
+
+Preserve every prior numerical source, dataset, BC/IQL checkpoint, frozen
+selection, cohort, report/PDF and archive. New work uses new dated paths.
+Read actual live STATUS, plan, ownership, process tree, slot/kernel locks,
+ROOT release, source/protocol/dependency/model/cohort hashes and terminal
+records before continuing. Never duplicate active or completed work.
+
+At most TWO scientific numeric CPU workers; existing read-only flock slot
+files, 4GB per worker. Native released attempts <=7200 seconds, engineering
+<=600, saved-array audits <=120. Each phase or checkpoint resume needs its
+own reviewed source/config/review-bound ROOT. Genuine errors STOP for
+diagnosis; no automatic retry, phase chain, hidden domain/tolerance waiver,
+reduced grid or episode cut. Administrative copying/hashing is not a trial.
+Initial root-selected allocation is24 scientific worker-hours (86400s).
+Before exhaustion, save measured cost/scope review and explicitly release a
+justified bounded next tranche under the user's continuing authorization.
+Do not use an unbounded automatic dispatcher.
+
+Nov8 08:00 America/Phoenix is a safe checkpoint/progress milestone if studies
+remain incomplete, not a false-completion deadline. Current cutoff is no
+new expensive starts after07:20 Phoenix. Do not change any active guard.
+Later windows require prospective reviewed bounded authorization.
+
+Use validation only for all choices. Keep each task/model/family/fixed-lambda
+independent. Literal overall TOP THREE receive fresh40 confirmation; do not
+replace one with a fourth positive candidate. All33 guided choices (24DF,
+3QGF,3IPG,3FK) must freeze before the new main100 test release. DF24 or FK3
+or QGF3 markers alone are not this global barrier. IPG is still unqualified.
+New main heldout episodes as of captured plan178: ZERO.
+
+Same-kappa curves are a separate prospective experiment: all20 common
+strengths, target100 per point in separately declared20 increments, with
+fixed non-kappa validation anchors. Own-best results and matched-parameter
+curves are different claims. Equal numeric kappa does not imply equal total
+guidance across QGF/DF or across different slice/iteration/eta settings.
+
+Retain every zero, invalid, failure, interruption, missing and partial cell.
+Report actual executed episodes separately from aliases/reference views.
+Shared starts are paired observations, not independent training seeds.
+Count outer parent wall ONCE, not parent plus units or sampler clocks.
+API calls, action rows, reset/preflight physics and episodes are different.
+One recent attempt's saved monotonic duration differed from UTC interval;
+both are retained separately, with no invented clock/suspend diagnosis.
+
+4. CURRENT COHERENT STATE AT PLAN179 (MAY CHANGE AFTER CAPTURE)
+
+Read these exact captured files for the actual snapshot:
+ workspace/work/continued_research_20261107/plan.json
+ workspace/outputs/continued_research_20261107/STATUS.txt
+ workspace/outputs/continued_research_20261107/pipeline_owner.json
+Current files supersede stale descriptive paragraphs in old heartbeat text.
+The plan's dedicated completion records supersede stale generic phase labels.
+
+Closed totals at plan179:
+  26,460 new native validation/confirmation episodes;
+  14,376,700 external active action rows;
+  30,180.034214296844 completed released-attempt outer-parent seconds;
+  zero NEW MAIN heldout episodes.
+There are ZERO active scientific jobs after the audited reconciliation.
+30,180.034214296844 seconds are used/committed of86400; no current increment
+is excluded. This is not completion of the scoped research.
+
+The job active in the earlier plan178 capture is now COMPLETE, independently
+saved-audited and reconciled ONCE at plan179:
+ DFbatch-37-confirmation40-d4bc2c2ba823455ea6de06f92e0637b6
+ ROOT SHA c3da4d1eb07af89772a407df803c2c5ee601e04d5447c6a3ebea675160dd9375
+ 480fresh CONF/24B20,246187 active action rows,1030.7344448752701 outerseconds.
+ Audit38299d4cc6e299c893bae8070ad2590cc6a5ab4c5ef56058789ad1eb3f998b4e,
+ review/df_batch_seed37_raw_four_confirmation40_completed_independent/
+ 20261108T044003_090558Z/REVIEW.json.
+All outer/unit/child PIDs and process groups were absent/reaped; batch,
+branch and slot1 locks were independently FREE. Do not rerun its release,
+VAL, prescreen or confirmation. No next phase/test has been released.
+Archived lock/PID files still cannot prove future live ownership or lock state.
+
+5. LATEST TASK2 RESULTS: SELECTION CONFIRMATION, NOT MAIN HELDOUT
+
+Three independent trained seeds are11,23,37. They identify separately trained
+BC/IQL models, not episode numbers. All3 completed9240 finite DF TRAIN
+candidate scores each, on ONE shared paired TRAIN16 panel. These27720 scores
+are not native success episodes and are not a73440 full Cartesian sweep.
+
+Seed11 completed all eight selected40-episode confirmations:
+ Condition                         kappa eta   I   sigma K   successes
+ Regular raw lambda0               .1    .1   256   --   --    35/40
+ Regular raw lambda1               40    .03  256   --   --    28/40
+ Stochastic raw lambda0             5    .1   128   --   --    40/40
+ Stochastic raw lambda1             5    .1   128   --   --    37/40
+ Regular averaged lambda0           1    .1   256  .003  16    38/40
+ Regular averaged lambda1          64    .03  256  .5     4    25/40
+ Stochastic averaged lambda0        5    .1   128  .003  16    40/40
+ Stochastic averaged lambda1        5    .03  128  .003  16    35/40
+These are independently selected own-best confirmation outcomes. Raw versus
+average stochastic lambda0 use the same kappa/eta/I and both40/40: no observed
+success gain there. Lambda1 raw37 versus averaged35 also changes eta, so it
+is not a matched-eta causal result. Do not force a general winner.
+
+Seed23 raw-four selected confirmations are ALL40/40:
+ Regular lambda0: k5 eta.1 I256; literal three40/40/40.
+ Regular lambda1: k64 eta.03 I256; literal three40/40/40.
+ Stochastic lambda0: k80 eta.03 I256; literal40/40/22.
+ Stochastic lambda1: k80 eta.01 I128; literal40/33/30.
+Thus seed23 is not generically a failed trained model. In another environment
+and method it can still fail. Independent audit7d919c7a retains all outcomes.
+
+Seed23 regular-averaged lambda0 VAL22 completed:
+ 420new episodes +20 exact own BC reference views;98026 active rows;
+ 3 zero-success requests retained. Literal top3 allk16 eta.1 I256:
+ sigma.5/K16, sigma.5/K4, sigma.3/K4. Their fresh40 is NOT completed yet.
+Eleven matched k16/eta.1/I256 sigma/K validation points were all20/20 with
+small step-count changes. This ceiling-limited result is not unseen-Q repair.
+Other seed23 averaged native phases and seed37 averaged phases remain pending.
+
+Seed37 raw-four VAL20 completed500new +60BC reference views, with16 zero
+requests. Fresh40 confirmation is also now COMPLETE and independently audited:
+ Regular lambda0: k.1 eta.1 I256 =37/40; literal37/34/25.
+ Regular lambda1: k5 eta.1 I128 =40/40; literal40/22/0.
+ Stochastic lambda0: k5 eta.1 I128 =39/40; literal39/39/32.
+ Stochastic lambda1: k5 eta.1 I128 =40/40; literal40/24/4.
+The stochastic lambda0 39/40 tie retains the original-rank primary at k5/I128;
+its k1/I256 alternative also39/40 is NOT the selected primary. One zero
+candidate is retained. These remain selection-confirmation, not mainheldout.
+All three trained models now have all FOUR RAW conditions confirmed;
+16of24 total DF conditions are confirmed, with8 averaged conditions pending.
+
+Task2 tuned ORIGINAL QGF all3 frozen (ca6feec6):
+ seed11 M64/k16, seed23 M8/k320, seed37 M16/k16; each40/40 fresh CONF.
+Joint27kappa x4M per model:4860 newVAL +1620 originalM8 records referenced
+once, then360fresh top-three confirmation. Not new heldout performance.
+
+Original FK all3 frozen (6d8511cf), selected40/40 CONF for every trained seed:
+ k80,N32,noise.02; M64/32/16 for seeds11/23/37. Keep alternatives and failure
+records. Its metadata-only freeze queried no model/sampler/environment.
+
+Current DF hierarchy: common kappa20 =
+ 0,.02,.04,.08,.1,.2,.4,.8,1,2,3,5,8,12,16,20,32,40,64,80;
+ eta .001,.003,.005,.01,.03,.1;
+ I1,2,4,8,16,32,64,128,256;
+ sigma .003,.01,.03,.06,.1,.2,.3,.5; K4/16; lambda0/1; F8;T1.
+QGF27 adds24,48,96,128,160,256,320 to the20; M8/16/32/64.
+Preserve old I512 and FD32 engineering failures; no tolerance waiver.
+
+6. TASK5: THE ACTUAL QGF FAILURE EXPERIMENT AND ITS LIMITS
+
+Native PointMaze Task5 has nominal noisy start(20,4), goal(0,0), own frozen
+BC/IQL. New joint tuned-QGF scan completed324 NEW B20 batches =6480VAL
+episodes, all27kappa x4M x3 trained models. It retained59 zero settings.
+Fresh top3 confirmation360 episodes selected:
+ seed11 k96 M16 =40/40; seed23 k2 M64 =36/40; seed37 k80 M32 =40/40.
+Other literal top3 counts:11 40/40/39;23 32/36/35;37 40/40/40.
+All are selection-confirmation, not the new main100 heldout.
+
+The new four-page Task5 note includes all120 selected CONF paths and ALL FOUR
+seed23 failures. See:
+ workspace/outputs/continued_research_20261107/task5_selected_trace_diagnostic/
+ notes/20261108T041538_555595Z/TASK5_SELECTED_TRACE_INTERIM_NOTE.pdf
+ PDF SHA9d4251db441659e71709876133f43b404063abe9c44e3e4be73e8716feca4a82.
+The TXT, DATA, ALL120_EPISODES.csv, input provenance and per-page rendered
+QA are beside it. All4 pages were actually rendered and visually checked.
+This is an interim Task5 note, not a final all-campaign report.
+
+Saved-trace analysis used6 existingNPZ/66 arrays,120 represented episodes,
+19410 executed rows versus48920 B20 proposal rows, excluding29510 inactive
+terminal proposals. It ran ZERO new trials, model or sampler queries.
+Four failure reset IDs:1910480112,1910480128,1910480130,1910480139.
+Each reached1000 steps/return-1000; final goal distance14.8124..14.9694.
+They head into the lower corridor and remain far from the goal. Saved rawQ
+rises approximately-90 to-82 along changing states/actions. That is NOT a
+ground-truth Q error measurement, causal diagnosis or direct unseen-support
+proof. The saved qavg field in this original-QGF branch is a rawQ copy;
+internal source drift and BC counterfactuals are not available.
+
+Do not call Task5 tunedQGF a universal failure: selected11/37 reached40/40,
+23 reached36/40, and the requested fair8DF comparison there is unfinished.
+Historical Task5 prior42x100=4200 heldout executions are an older separate
+study. Another40 branch has only11 complete;23/37 are unrun, not zero.
+
+7. ENGINEERING FAILURES BLOCKING CLAIMS
+
+Task5 expanded DF engineering is completed but FAILED (c3c05d66):
+ all3 models PASS/FAIL/PASS. Exactly4 seed23 Qavg one-step LATENT discrepancies
+ at k80 eta.1 I1 sigma.2 K4, regular/stochastic xlambda0/1:
+ 2.145767e-6 or2.384186e-6 exceed unchanged2e-6. Returned F8 actions and bank/
+source checks passed, but this does not waive latent tolerance or admit
+Task5 DF native sweeps.368 eligibleFD64 pass/16NA,192 uniqueAD pass;42 rawFD32
+failures retained.0 native episodes. A saved source-only8-case diagnosis/
+capture proposal exists; no executor/runtime/adoption has been authorized.
+
+IPG remains UNQUALIFIED, not a zero-success method. Preserve original33
+absolute solve-residual failures and15 missing learned cases. Both ridge
+.01/.1 remain admitted;11 original failures occur at.1. No .1-only bypass,
+ridge/formula/tolerance waiver or native IPG release. V2dtype FAIL, V3MLIR
+FAIL, V4B144=134PASS/10FAIL (k80/ridge.01) remain exact.
+Saved diagnostics show exported identicalA/RHS can have different reference
+phi in8 contexts; HOST/isolatedJAX agree with production, while32/40 reference
+contexts agree too. In-graph compiled residual and HOST exported-system
+residual are different graphs. No hidden hardware/compiler cause or repair
+is established. A single identity barrier left all20 whole saved control/
+alternate archives byte-identical, retaining all failures. No B/C/V5 or native
+qualification follows from these diagnostics. Do not rerun completed ones.
+
+8. WHAT Q AVERAGING, NOISE AND LAMBDA ACTUALLY MEAN
+
+RawQ is the minimum of the two frozen learned IQL target heads, not an oracle.
+The actor and IQL Q/V stay fixed. Nearby-action averaging adds no dataset
+transitions and trains no new critic. For ONE flow endpoint a=F8(s,z), query
+K nearby actions a_k=clip(a+sigma*epsilon_k) and use
+ Qbar(s,a)=(1/K)*sum_k min_head Q_target_head(s,a_k), with its action gradient.
+These are K critic queries around one endpoint, NOT K flow trajectories.
+Sigma is neighborhood width per coordinate before clipping; K is sample
+count. The bank stays fixed throughout one action generation and its I
+updates. K4/K16 antithetic banks are not guaranteed nested.
+
+Identity-DF schematic (inspect exact frozen source for all clipping/details):
+ a_i=F8(s,z_i)
+ z_(i+1)=z_i+eta*(kappa*grad_a Q_or_Qbar(s,a_i)-lambda*z_i)
+ plus sqrt(2*eta*T)*xi_i for stochastic mode, T1.
+Replacing the endpoint Jacobian by identity is a surrogate gradient. Do not
+assert a generic exact Boltzmann target for it. Regular mode still has an
+initial Gaussian source z0; conditional deterministic updates do not mean
+no initial randomness. Lambda1 is latent prior pull, not an L1 norm, data
+support detector or Q-error correction. QGF keeps its faithful per-time-slice
+clean-action proxy/update; dropping Euler concerned DF endpoints only.
+
+M=flow pseudo-time slices; I=DF latent optimization updates; N=particle
+candidates; K=Q neighbors; environment steps and episodes are other counts.
+Q averaging differs from source stochasticity and paper Jacobian smoothing.
+It can soften a narrow spurious peak IF neighbors are better behaved, but
+cannot guarantee correction of broad wrong unseen-action Q; it can also wash
+out a narrow genuinely good region. Small/zero/negative effects are possible.
+Current experiments do not establish a systematic success gain or repairedQ.
+Higher kappa or eta need not improve success monotonically; excessive
+guidance can saturate or exploit critic error. Same numeric kappa is not
+same total guidance. Keep full low-to-high grids and matched comparisons.
+
+Learned-V Bellman residual is self-consistency, not trueQ error. A MonteCarlo
+Qpi-reference discrepancy is not automatically true IQL Q error either.
+
+9. HARD UNSEEN-Q AND PAPER TASKS: COMPLETED VS PROPOSED
+
+Standard full-route FULL/HOLE probe3240VAL found ZERO joint withheld-action
+exposure and only2 state-region visits: not direct unseen-action stress.
+Custom right-start Task1-goal probe translates noisy reset+16x:3240VAL,
+2076 jointly exposed episode executions/6533 steps, all6 positive best20/20,
+BC0/20. That custom reset is not official Task1 reset performance or Q truth.
+The larger6-arm hard-Q protocol is unadopted; do not imply it ran.
+
+TRAIN critic-shape study540 records used6 critics,2TRAIN states,9 actions,
+raw plus sigma.03/.2 K4 two banks. No actor/native/VAL/test/MC calls. Boundary
+gradients roughly halve where half neighbors clip; interior gradients and
+all48 coarse action maximum sets largely remain unchanged. This coarse
+characterization does not measure peak width, trueQ error or policy gain.
+
+The QGF paper https://arxiv.org/pdf/2606.11087v2 AppendixK Table6 reports
+Cube-QuadrupleT2 QGF5.3%+/-4.0;T3--5 QGF0%, but all listed methods also0 on
+T4--5; Cube-TripleT3 QGF58%+/-7 vsEDP86%+/-5.1 is a more discriminating case.
+Those robot manipulation tasks and our8DF comparisons there are UNTESTED.
+Do not conflate them with PointMazeTask2/5 or force QGF failure.
+
+Only local official CubeTriple Task1 limited-data pilots exist: originalBC/
+QGF0/20, privileged actor-only H5 variants6/3/2of20. These are not current8DF
+Cube results or an exact paper replication. Local1MTRAIN/100kVAL slice000
+differs from paper100M/500k,H5/F10. Requested Task3/Quad goal-specific critics
+are absent. Never reuse Task1 critic for Task3 reward. No massive downloads.
+H5/25D chunk adapters need separate engineering; current PointMaze samplers
+are H1/2D and cannot silently be relabeled as Cube implementations.
+
+CubeTripleT3 baseline V2 protocol is SOURCE-ONLY. It separates tuple/native
+correctness, TRAIN support/primitive competence and goal-specific Q readiness;
+goal-agnostic BC full-goal success is not a mandatory gate. Separate bounded
+BC/IQL stages are proposals, not launched training.
+The model-free TRAIN P1 audit source f974ca05 has independentSCI4ae16462 and
+OPSa98e0d84 PASS, but no numerical ROOT/run at captured plan179. Proposed600s/
+4GB, exact archive/header preflight before payload, Task3 pre-action labels,
+successor/H5 continuity, bounded full1M audit;0 models/native/VAL/training.
+Admin helper abcd45f7 has independent SOURCE review fd2c9fe3 PASS, but is
+unrun/unadopted with no numerical ROOT. Receiving it in this ZIP does not
+authorize execution or imply data conformance.
+
+10. WHERE THE HISTORY AND REPORTS ARE
+
+Original paths remain unchanged under workspace/. Useful top-level campaigns:
+ outputs/comparison*, coverage_critic, critic_repair, official_pilot,
+ particle_extension, particle_toys, temporal_noise_controls;
+ outputs/overnight_research (first campaign);
+ outputs/overnight_research_20261105 (second campaign, historical12 families/
+ 22lambda conditions, FULL/HOLE coverage study, synthetic diagnostics);
+ outputs/overnight_research_20261106_night and continuation branches;
+ outputs/continued_research_20261107 (current ongoing comparison).
+Do not erase historical full-Jacobian/Euler/MH/particle-variant results merely
+because the user later narrowed future scope. Frozen-source sampler receipt
+a615c61d284cb256e1291a5ae71cc719b03614a9218f84a49e86dfa6a80105e9
+and its analytic/real-agent/compiledB20 finite-difference engineering evidence
+belong to the preserved provenance; inspect exact later-source receipts too.
+
+Reports include historical78-page ALL_EXPERIMENTS_REPORT.pdf, morning reports,
+the fixed10-page plan73 interim20261107T212126Z, fixed8-page plan140 interim
+20261108T004726_803244Z_plan140, and the recent4-page Task5 note above. They
+are snapshots, not current-live completion claims. Preserve them unchanged.
+coefficient_results/20261108T010700_470597Z is an older fixed table snapshot:
+648 QGFVAL cells,18literalQGFCONF rows,140DFnativecandidate rows,18480TRAIN
+scores and24cell missing table. It predates later seed37/23 progress.
+The learned-Q averaging/lambda literature explanation is under
+diagnostics/Q_AVERAGING_LITERATURE_AND_LAMBDA.txt: NachumICML2018 Gaussian-
+smoothedQ Eq9; TD3 target-policy smoothing is critic training, distinct from
+our frozen-critic inference operation. These are related ideas, not evidence
+that our method repairs unseenQ.
+
+FULL/HOLE describe historical critic-training data coverage arms with a
+withheld joint state/action region; shared actors permit critic comparisons.
+They do not mean full vs partial Jacobian. Paper cube tasks, native robot
+navigation, custom reset probes, synthetic points and privileged actor
+augmentation must remain separately labeled. Synthetic controlled_scores
+1440 point evaluations/1D matched-target integration are not physical episodes.
+The48 historical int/float baseline duplicate executions had byte-identical
+trajectories; retain actual executions while deduplicating independent
+numeric-policy/cohort evidence. Exact replay status must come from actual
+completion receipts, not a pending predeclaration.
+
+11. WHAT TO DO NEXT, WITHOUT INVENTING COMPLETION
+
+First establish fresh live ownership/process/lock state, not this archived
+state. The seed37 raw confirmation is audited/reconciled; do not duplicate it.
+Remaining Task2 averaged-Q validation/confirmation, IPG qualification, all33
+freeze, source/cohort-bound main100 tests and separately declared same-kappa
+curves are unfinished. Task5 DF engineering is blocked by genuine failures;
+its source-only diagnosis is not a waiver. Cube TRAIN QA is source-ready,
+not yet run; model/adapter/training/readiness stages come only afterward.
+
+Review saved data first; never use heldout outcomes to design or retune an
+algorithm. Any improvement needs a separate validation-only hypothesis and
+new source/selection/test cohort. Do not search for a contrived QGF loss.
+The discriminating experiment is a fair frozen-model, validation-selected,
+fresh paired heldout comparison with actual difficult-region exposure and
+competent baselines, preserving all outcomes. Until it exists, say plainly
+that tunedDF has not been shown reliably to outperform tunedQGF or repairQ.
+
+At actual closure deliver complete TXT/PDF with every page rendered and
+visually checked plus a SHA-verified source/config/results/checkpoint-reference
+bundle, cohort/count/selection/archive/replay checks. If incomplete at a
+checkpoint, label report and bundle PARTIAL. The user asked to continue
+research and to send all files to another AI; packaging does not cancel
+ongoing authorized work or mean it has finished.
+
+12. PACKAGING HISTORY FOR THIS FINAL REBASE
+
+The earlier plan178 ZIPs were individually and independently verified but
+remained undelivered when the final mainjob completed. They are preserved
+unchanged. This later179 package reuses byte-verified unchanged source
+captures and adds/replaces new or changed research files using fresh stable
+copy/hash checks; its inventories record exact provenance and scope. No
+scientific experiment or model query was launched to update the handoff.
+There are no active scientific writers at179 capture, but this still does
+not imply an atomic transactional filesystem snapshot or finished research.
