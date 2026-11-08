@@ -1,53 +1,36 @@
-> **Published private release:** [Download the verified handoff](https://github.com/diwuz1-dev/dflow-qgf-research-handoff/releases/tag/handoff-plan179-20261108). All nine assets passed local byte-SHA and GitHub server size/SHA checks. GitHub access is required. `PUBLICATION_STATUS.json` contains final download links. The archives remain the plan179 snapshot; ongoing research is outside that cutoff.
->
-> For owner upload operations, the reviewed `scripts/upload_release_assets_v2.py` uses an explicit draft release ID. The older source-preparation text and `STAGING_SOURCE_MANIFEST.json` below describe the preserved initial commit `fb8b8ba`; they are historical preparation records.
+# D-Flow / QGF research: reports, code and experiment artifacts
 
-# Research handoff — frozen plan179, 2026-11-08 UTC
+This repository is public at the user's request. Research is **unfinished**. A complete archive means preservation of recorded artifacts; it does not mean every proposed experiment has run.
 
-This release is an **ongoing-research snapshot**, covering the history of D-Flow, QGF, original IPG and original FK across the local campaigns. It is not a claim that the current study or all comparisons are complete. Plan179 is the frozen archive state; later work and results are outside these archives.
+## Start here
 
-The small Git repository contains this guide, a source/protocol index and standard-library transfer tools. Large data belong in **GitHub Release assets**, not Git history. Repository visibility and publication require the owner's separate decision. This local staging has not created a repository, release or upload.
+- **[Browse all research PDFs](reports/README.md)** — 38 distinct PDFs, preserving all 114 original file-path aliases from November 4–8. Reports are organized by date and campaign. Older reports and drafts remain unchanged.
+- **[All PDF source paths and checksums](reports/all_source_path_aliases.csv)** — exact duplicate PDFs share one stored copy.
+- **[Most recent published results and CSV bundle](https://github.com/diwuz1-dev/dflow-qgf-research-handoff/releases/tag/results-plan365-20261108)** — plan365 snapshot; later Cube baseline results are already available in the PDF library.
+- **Complete all-campaign code/data/output archive: being packaged and verified.** It will cover completed, failed, partial, temporary and historical experiment files, local trained weights and datasets. Large files will be release assets with checksums and restore instructions, rather than Git source-tree files. Existing archives will not be overwritten.
 
-## Choose a download
+## Download the existing snapshots
 
-| Asset | Bytes | SHA256 |
-|---|---:|---|
-| `AI_REVIEW_HANDOFF.zip` | 519,270,979 | `d5ed6be32512c63d7ef888b858feeffda0efebc44d3d6b6d6e8da58dfa66fbe0` |
-| Reassembled `FULL_RESEARCH_HANDOFF.zip` | 5,868,162,470 | `6092107401577e0cfdca1d0b8416f4794766dfc522f78f68f86393ea4030c0e1` |
+| Snapshot | What it contains | Download |
+|---|---|---|
+| Plan328 compact handoff | Code, evidence and eight exact model/checkpoint assets; 35.8 MB. A selected subset, not all tests. | [Compact ZIP](https://github.com/diwuz1-dev/dflow-qgf-research-handoff/releases/download/partial-plan328-20261108/CHECKPOINT_PLAN328_WITH_MODELS_SMALL.zip) |
+| Plan365 results | Eight-page PDF, complete current-at-that-time CSVs and supporting evidence; 21 MB. | [Results ZIP](https://github.com/diwuz1-dev/dflow-qgf-research-handoff/releases/download/results-plan365-20261108/CURRENT_RESULTS_PLAN365_PDF_CSV_EVIDENCE.zip) |
+| Plan179 full handoff | Earlier code, reports, raw traces, datasets and trained weights; 5.868 GB split into four parts. Predates later Cube work and D-Flow results. | [Full release and reassembly instructions](https://github.com/diwuz1-dev/dflow-qgf-research-handoff/releases/tag/handoff-plan179-20261108) |
+| Plan328 partial checkpoint | Six-page report, compact model subset and separate optional 334 MB raw Cube TRAIN file. | [Checkpoint release](https://github.com/diwuz1-dev/dflow-qgf-research-handoff/releases/tag/partial-plan328-20261108) |
 
-The AI archive contains readable code, scalar results, reports/PDFs, figures and an exact binary-asset index. The full archive also includes captured datasets, checkpoints, saved arrays, prior archives, failures and partial records. Download either or both as needed.
+All releases are dated snapshots. Follow each release's manifest and SHA-256 checks. The green **Code → Download ZIP** button downloads this Git tree, not every large release asset or dataset.
 
-[GitHub documents a per-release-asset limit below 2 GiB](https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases#storage-and-bandwidth-quotas). The full ZIP is therefore distributed as **four ordinary binary parts**, with the first three each 1,500,000,000 bytes and the fourth 1,368,162,470 bytes. Concatenating their bytes in numbered order recreates the original ZIP. These are not individually extractable ZIP files. Part checksums are generated only after an authorized actual split; the current `FULL_SPLIT_PLAN.json` does not invent them.
+## What the latest results establish
 
-## Download and verify
+- Task2: all24 D-Flow choices plus3 QGF and3 FK choices are frozen. QGF and FK each achieved40/40 fresh confirmation successes for all three trained seeds. D-Flow has competitive settings, but current evidence does not establish tuned D-Flow dominance or a causal benefit from Q averaging.
+- IPG remains numerically unqualified. The user keeps the all33-choice requirement; fresh main heldout tests have not started.
+- Hard CubeTriple Task3: fresh BC50k and goal-specific IQL50k training completed. The official native BC pilot completed20 episodes with0/20 official successes. Guided Cube D-Flow versus QGF performance is still pending numerical qualification.
+- Synthetic D8/D32/D128 engineering, Task5 and diagnostic failures are retained. Engineering checks and training scores are not native success results or evidence of true critic error repair.
 
-Install Python3 and GitHub CLI (`gh`). Private repositories require a GitHub login with read access. Replace `OWNER/REPOSITORY` with the adopted repository name. The following commands are examples, not a request to start research jobs.
+The PDF library gives the detailed dated results and limitations. Failed and partial runs remain part of the archive.
 
-```sh
-python3 scripts/download_release.py --repo OWNER/REPOSITORY --kind ai --destination downloads-ai --download
-python3 scripts/verify_archives.py --kind ai --path downloads-ai/AI_REVIEW_HANDOFF.zip
-```
+## Scope and reproducibility
 
-For the full handoff, allow about **12 GB** of additional space for downloaded parts plus the reassembled ZIP, before extraction space:
+The expanded handoff covers research under the local project's `work/` and `outputs/` roots, with explicit installed-runtime, Git-internal, bytecode-cache and OS-junk exclusions. Scientific source excerpts, raw arrays, model states, configs and provenance are retained. It is a research-artifact snapshot, not a portable installed environment, full chat export or atomic operating-system backup.
 
-```sh
-python3 scripts/download_release.py --repo OWNER/REPOSITORY --kind full --destination downloads-full --download
-python3 scripts/reassemble_full.py --parts-dir downloads-full --output FULL_RESEARCH_HANDOFF.zip --write
-python3 scripts/verify_archives.py --kind full --path FULL_RESEARCH_HANDOFF.zip
-```
-
-Download and split/reassembly tools default to printing a plan unless their explicit `--download` or `--write` flag is present. Verification reads only the named bytes. Outputs are exclusive: existing downloads/parts/output archives are not overwritten. Interrupted or invalid derived files retain an `.unverified` suffix and are not valid releases. No script extracts an archive or imports research code.
-
-After verifying the **whole archive SHA256**, extract into a new directory. Read `START_HERE_AI.txt`, `HANDOFF_TO_AI.txt`, `CURRENT_STATE_CAPTURE.json`, `CONTENT_COMPARISON.json`, `EXCLUSIONS.json` and `UNSETTLED_OR_LIVE_FILES.json`. Then run the archive's stdlib `VERIFY_SHA256.py` to verify extracted files.
-
-## Layout, reports and limits
-
-Captured project files are under `workspace/work/` and `workspace/outputs/`. Thus the data are under the extracted **`workspace/` tree**, including `workspace/work/benchmark_data/`, rather than installed automatically beside these scripts. Inspect `AI_REVIEW_BINARY_ASSET_INDEX.json` for full-only assets.
-
-`PDF_INDEX.json` lists every PDF named in the frozen full-archive file-list manifest, with its original internal path, size and SHA256. Earlier final reports and later interim reports have different cutoffs. The archived `workspace/outputs/overnight_research_20261106_night/MORNING_REPORT.pdf` is an earlier report; plan140 interim and Task5 notes are also historical snapshots. None is a final report of research completed after plan179.
-
-Installed virtual environments and Git internals are excluded. Relevant environment sources/licenses/versions are captured separately. **This is not a portable installed runtime.** Research scripts often contain absolute paths from the original macOS workspace. A recipient must inspect/rebase paths and verify compatible dependencies before any run. Old ROOT releases, archived PID/lock files and a downloaded archive confer no authority to rerun scientific jobs.
-
-At plan179 there were no active scientific workers and zero new-main heldout episodes. That statement applies to the archive cutoff only. Full selected-method comparison barriers were still unmet, IPG remained unqualified, and original failures/missing/partial records were retained. Use validation-only selection and preserve immutable cohorts and all historical failures; do not interpret this package as permission to tune on old heldout results.
-
-See `SOURCE_AND_PROTOCOL_INDEX.md` for source provenance and protocol pointers, `HANDOFF_TO_AI_PLAN179.txt` for the frozen detailed guide, and `PUBLISH_COMMANDS_NOT_EXECUTED.md` for the owner's proposed hosting procedure.
+[Original plan179 handoff guide](HANDOFF_TO_AI_PLAN179.txt) · [Earlier README and transfer notes](https://github.com/diwuz1-dev/dflow-qgf-research-handoff/blob/b439414b9adf0da47b7a87852d9b2d6f60f9291c/README.md)
