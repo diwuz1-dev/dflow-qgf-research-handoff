@@ -1,3 +1,7 @@
+> **Published private release:** [Download the verified handoff](https://github.com/diwuz1-dev/dflow-qgf-research-handoff/releases/tag/handoff-plan179-20261108). All nine assets passed local byte-SHA and GitHub server size/SHA checks. GitHub access is required. `PUBLICATION_STATUS.json` contains final download links. The archives remain the plan179 snapshot; ongoing research is outside that cutoff.
+>
+> For owner upload operations, the reviewed `scripts/upload_release_assets_v2.py` uses an explicit draft release ID. The older source-preparation text and `STAGING_SOURCE_MANIFEST.json` below describe the preserved initial commit `fb8b8ba`; they are historical preparation records.
+
 # Research handoff — frozen plan179, 2026-11-08 UTC
 
 This release is an **ongoing-research snapshot**, covering the history of D-Flow, QGF, original IPG and original FK across the local campaigns. It is not a claim that the current study or all comparisons are complete. Plan179 is the frozen archive state; later work and results are outside these archives.

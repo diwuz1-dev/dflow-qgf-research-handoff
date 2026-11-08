@@ -1,0 +1,73 @@
+{
+  "status": "PUBLISHED_PRIVATE_RELEASE_ALL9_ASSETS_SIZE_AND_SERVER_SHA_REVERIFIED",
+  "utc": "2026-11-08T07:53:48.682350+00:00",
+  "repository": "https://github.com/diwuz1-dev/dflow-qgf-research-handoff",
+  "private": true,
+  "release_url": "https://github.com/diwuz1-dev/dflow-qgf-research-handoff/releases/tag/handoff-plan179-20261108",
+  "tag": "handoff-plan179-20261108",
+  "release_id": 438095400,
+  "asset_count": 9,
+  "frozen_scientific_snapshot_plan": 179,
+  "current_research_unfinished": true,
+  "installed_runtime_not_included": true,
+  "GitHub_access_required": true,
+  "remote_verification": "FreshGitHubAPI size/state/SHA256 comparedtoindependentlyhashedlocalbytes; remote payload replaynotclaimed",
+  "original_local_archives_unchanged": true,
+  "remote_verification_receipt_sha256": "af510d3f8ab2c3ade7fb1e4e50c855de19eebc820fb4b70ec897710f41bba41d",
+  "assets": [
+    {
+      "name": "AI_REVIEW_HANDOFF.zip",
+      "bytes": 519270979,
+      "sha256": "d5ed6be32512c63d7ef888b858feeffda0efebc44d3d6b6d6e8da58dfa66fbe0",
+      "url": "https://github.com/diwuz1-dev/dflow-qgf-research-handoff/releases/download/handoff-plan179-20261108/AI_REVIEW_HANDOFF.zip"
+    },
+    {
+      "name": "ARCHIVE_MANIFEST.json",
+      "bytes": 1974,
+      "sha256": "d977226c53547dc05f10a8ce1653f4d330333f97b7fd687ce56de78cc74d46d3",
+      "url": "https://github.com/diwuz1-dev/dflow-qgf-research-handoff/releases/download/handoff-plan179-20261108/ARCHIVE_MANIFEST.json"
+    },
+    {
+      "name": "FULL_PARTS.sha256",
+      "bytes": 412,
+      "sha256": "8f64c39749e68d2fedba616f0f1e756d10b51fcd550d0b5699efcfebb761c27a",
+      "url": "https://github.com/diwuz1-dev/dflow-qgf-research-handoff/releases/download/handoff-plan179-20261108/FULL_PARTS.sha256"
+    },
+    {
+      "name": "FULL_PARTS_MANIFEST.json",
+      "bytes": 1028,
+      "sha256": "a2a4c2a7528c2876cb1450604b5a1c67cbb89065ea99e59f6cded794eb766995",
+      "url": "https://github.com/diwuz1-dev/dflow-qgf-research-handoff/releases/download/handoff-plan179-20261108/FULL_PARTS_MANIFEST.json"
+    },
+    {
+      "name": "FULL_RESEARCH_HANDOFF.zip.part01of04",
+      "bytes": 1500000000,
+      "sha256": "0430f3d85e63f0e24f99ed7f43f33fc4120e42b3b869830827fa68687b9a8307",
+      "url": "https://github.com/diwuz1-dev/dflow-qgf-research-handoff/releases/download/handoff-plan179-20261108/FULL_RESEARCH_HANDOFF.zip.part01of04"
+    },
+    {
+      "name": "FULL_RESEARCH_HANDOFF.zip.part02of04",
+      "bytes": 1500000000,
+      "sha256": "964655393b69c1922913751aa35787629f9094f35e4c9631eaa50f800ae1927d",
+      "url": "https://github.com/diwuz1-dev/dflow-qgf-research-handoff/releases/download/handoff-plan179-20261108/FULL_RESEARCH_HANDOFF.zip.part02of04"
+    },
+    {
+      "name": "FULL_RESEARCH_HANDOFF.zip.part03of04",
+      "bytes": 1500000000,
+      "sha256": "a0e871a0c0fe5e8d5d967848b4919702edf26e8d02eb5f5f3ea276c543641660",
+      "url": "https://github.com/diwuz1-dev/dflow-qgf-research-handoff/releases/download/handoff-plan179-20261108/FULL_RESEARCH_HANDOFF.zip.part03of04"
+    },
+    {
+      "name": "FULL_RESEARCH_HANDOFF.zip.part04of04",
+      "bytes": 1368162470,
+      "sha256": "68cd616b82abce670ee9147bb68e47b1f98327d80f38921c53300d3bd1fec495",
+      "url": "https://github.com/diwuz1-dev/dflow-qgf-research-handoff/releases/download/handoff-plan179-20261108/FULL_RESEARCH_HANDOFF.zip.part04of04"
+    },
+    {
+      "name": "PDF_INDEX.json",
+      "bytes": 8921,
+      "sha256": "581730a68199e85c47dac6f1a936cfb0ec9c7f53296349fd906495cb7be751b1",
+      "url": "https://github.com/diwuz1-dev/dflow-qgf-research-handoff/releases/download/handoff-plan179-20261108/PDF_INDEX.json"
+    }
+  ]
+}
