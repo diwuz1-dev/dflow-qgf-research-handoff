@@ -6,7 +6,7 @@ This repository is public at the user's request. Research is **unfinished**. A c
 
 - **[Browse all research PDFs](reports/README.md)** — 38 distinct PDFs, preserving all 114 original file-path aliases from November 4–8. Reports are organized by date and campaign. Older reports and drafts remain unchanged.
 - **[All PDF source paths and checksums](reports/all_source_path_aliases.csv)** — exact duplicate PDFs share one stored copy.
-- **[Most recent published results and CSV bundle](https://github.com/diwuz1-dev/dflow-qgf-research-handoff/releases/tag/results-plan365-20261108)** — plan365 snapshot; later Cube baseline results are already available in the PDF library.
+- **[Latest post-Cube results, CSVs and raw pilot files](https://github.com/diwuz1-dev/dflow-qgf-research-handoff/releases/tag/results-plan401-20261108)** — plan401 three-page partial report, all24 D-Flow tuples/all72 literal confirmation alternatives, all20 Cube episode metrics and a separate complete BC20 raw bundle.
 - **Complete all-campaign code/data/output archive: being packaged and verified.** It will cover completed, failed, partial, temporary and historical experiment files, local trained weights and datasets. Large files will be release assets with checksums and restore instructions, rather than Git source-tree files. Existing archives will not be overwritten.
 
 ## Download the existing snapshots
