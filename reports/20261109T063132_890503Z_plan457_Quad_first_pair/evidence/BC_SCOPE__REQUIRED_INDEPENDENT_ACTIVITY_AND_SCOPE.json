@@ -1,0 +1,23 @@
+{
+  "NPY_headers_independently_decoded": 0,
+  "NumPy_JAX_models_RNG_native_solver_matvec_imports_calls": 0,
+  "ROOT_plan_owner_mutations": 0,
+  "admin_helper_seconds_not_added_or_invented": true,
+  "all51_input_opaque_and51_checkpoint_payloads_wholeSHA_stat_only": true,
+  "helper_guard_preparer_worker_supervisor_invocations": 0,
+  "no_atomic_global_output_RSS_Popen_OS_tail_or_hidden_backend_count_theorem": true,
+  "outer_parent_OP_elapsed_seconds_count_once_pending_ROOT_reconciliation": true,
+  "producer43_headerJSON_checked": 43,
+  "producer_semantic_and_canonical_success_is_sourcebound_saved_evidence_not_replay": true,
+  "reviewer_preoutput_absolute_runtime_path_label_STOP": {
+    "path": "work/continued_research_20261107/analysis/revisions/QuadBC_terminal_reader_absolute_runtime_alias_20261109T035447_300995Z/STOP.json",
+    "sha256": "83b580a88db4c2f6b6148651f2038234ca4d8731a4bbb9af6421627ad2fa561c"
+  },
+  "scientific_payload_decodes_or_numeric_recalculation": 0,
+  "status": "SAVED_TERMINAL_METADATA_AND_OPAQUE_BYTE_ONLY_AUDIT",
+  "utility": {
+    "path": "work/continued_research_20261107/analysis/audit_Quad_goal3_seed11_BC50000_terminal_SAVED.py",
+    "sha256": "27028cac311a4f3af5e5131d694c271e2dc61f572c0425c21c7401e914540ea8"
+  },
+  "worker_watchdog_setup_update_clocks_nonadditive": true
+}

@@ -1,0 +1,704 @@
+{
+  "UTC": "2026-11-09T06:21:16.057143+00:00",
+  "aggregate_scenarios_NOT_rate_bounds": [
+    {
+      "BC_each_seconds": 1511.2326483749785,
+      "QV_context": "actual_completed_QV_two_attempt_chain_including723repeats_transfer_NOT_fresh_phase",
+      "QV_each_seconds": 1496.3311049174517,
+      "active_resume_already_complete_and_no_active_cap_added": true,
+      "arithmetic_within_current_remaining": true,
+      "current_remaining_snapshot": 37024.885896619875,
+      "factor": 1,
+      "future8BC_plus8QV_seconds": 24060.51002633944,
+      "individual_BC_and_QV_both_arithmetic_within7200": true,
+      "remaining_after_scenario_NOT_reservation": 12964.375870280433
+    },
+    {
+      "BC_each_seconds": 1739.040810468723,
+      "QV_context": "actual_completed_QV_two_attempt_chain_including723repeats_transfer_NOT_fresh_phase",
+      "QV_each_seconds": 1720.4138811468147,
+      "active_resume_already_complete_and_no_active_cap_added": true,
+      "arithmetic_within_current_remaining": true,
+      "current_remaining_snapshot": 37024.885896619875,
+      "factor": 1.25,
+      "future8BC_plus8QV_seconds": 27675.637532924302,
+      "individual_BC_and_QV_both_arithmetic_within7200": true,
+      "remaining_after_scenario_NOT_reservation": 9349.248363695573
+    },
+    {
+      "BC_each_seconds": 1966.8489725624677,
+      "QV_context": "actual_completed_QV_two_attempt_chain_including723repeats_transfer_NOT_fresh_phase",
+      "QV_each_seconds": 1944.4966573761776,
+      "active_resume_already_complete_and_no_active_cap_added": true,
+      "arithmetic_within_current_remaining": true,
+      "current_remaining_snapshot": 37024.885896619875,
+      "factor": 1.5,
+      "future8BC_plus8QV_seconds": 31290.765039509162,
+      "individual_BC_and_QV_both_arithmetic_within7200": true,
+      "remaining_after_scenario_NOT_reservation": 5734.120857110713
+    },
+    {
+      "BC_each_seconds": 2422.465296749957,
+      "QV_context": "actual_completed_QV_two_attempt_chain_including723repeats_transfer_NOT_fresh_phase",
+      "QV_each_seconds": 2392.6622098349035,
+      "active_resume_already_complete_and_no_active_cap_added": true,
+      "arithmetic_within_current_remaining": false,
+      "current_remaining_snapshot": 37024.885896619875,
+      "factor": 2,
+      "future8BC_plus8QV_seconds": 38521.02005267888,
+      "individual_BC_and_QV_both_arithmetic_within7200": true,
+      "remaining_after_scenario_NOT_reservation": -1496.134156059008
+    },
+    {
+      "BC_each_seconds": 3333.6979451249354,
+      "QV_context": "actual_completed_QV_two_attempt_chain_including723repeats_transfer_NOT_fresh_phase",
+      "QV_each_seconds": 3288.993314752355,
+      "active_resume_already_complete_and_no_active_cap_added": true,
+      "arithmetic_within_current_remaining": false,
+      "current_remaining_snapshot": 37024.885896619875,
+      "factor": 3,
+      "future8BC_plus8QV_seconds": 52981.530079018325,
+      "individual_BC_and_QV_both_arithmetic_within7200": true,
+      "remaining_after_scenario_NOT_reservation": -15956.64418239845
+    },
+    {
+      "BC_each_seconds": 1511.2326483749785,
+      "QV_context": "actual_successful35000_resume_whole_linear_transfer_NOT_fresh50000",
+      "QV_each_seconds": 1462.4346114289283,
+      "active_resume_already_complete_and_no_active_cap_added": true,
+      "arithmetic_within_current_remaining": true,
+      "current_remaining_snapshot": 37024.885896619875,
+      "factor": 1,
+      "future8BC_plus8QV_seconds": 23789.338078431254,
+      "individual_BC_and_QV_both_arithmetic_within7200": true,
+      "remaining_after_scenario_NOT_reservation": 13235.547818188621
+    },
+    {
+      "BC_each_seconds": 1739.040810468723,
+      "QV_context": "actual_successful35000_resume_whole_linear_transfer_NOT_fresh50000",
+      "QV_each_seconds": 1678.0432642861601,
+      "active_resume_already_complete_and_no_active_cap_added": true,
+      "arithmetic_within_current_remaining": true,
+      "current_remaining_snapshot": 37024.885896619875,
+      "factor": 1.25,
+      "future8BC_plus8QV_seconds": 27336.672598039066,
+      "individual_BC_and_QV_both_arithmetic_within7200": true,
+      "remaining_after_scenario_NOT_reservation": 9688.21329858081
+    },
+    {
+      "BC_each_seconds": 1966.8489725624677,
+      "QV_context": "actual_successful35000_resume_whole_linear_transfer_NOT_fresh50000",
+      "QV_each_seconds": 1893.6519171433922,
+      "active_resume_already_complete_and_no_active_cap_added": true,
+      "arithmetic_within_current_remaining": true,
+      "current_remaining_snapshot": 37024.885896619875,
+      "factor": 1.5,
+      "future8BC_plus8QV_seconds": 30884.007117646877,
+      "individual_BC_and_QV_both_arithmetic_within7200": true,
+      "remaining_after_scenario_NOT_reservation": 6140.878778972998
+    },
+    {
+      "BC_each_seconds": 2422.465296749957,
+      "QV_context": "actual_successful35000_resume_whole_linear_transfer_NOT_fresh50000",
+      "QV_each_seconds": 2324.8692228578566,
+      "active_resume_already_complete_and_no_active_cap_added": true,
+      "arithmetic_within_current_remaining": false,
+      "current_remaining_snapshot": 37024.885896619875,
+      "factor": 2,
+      "future8BC_plus8QV_seconds": 37978.67615686251,
+      "individual_BC_and_QV_both_arithmetic_within7200": true,
+      "remaining_after_scenario_NOT_reservation": -953.7902602426329
+    },
+    {
+      "BC_each_seconds": 3333.6979451249354,
+      "QV_context": "actual_successful35000_resume_whole_linear_transfer_NOT_fresh50000",
+      "QV_each_seconds": 3187.3038342867844,
+      "active_resume_already_complete_and_no_active_cap_added": true,
+      "arithmetic_within_current_remaining": false,
+      "current_remaining_snapshot": 37024.885896619875,
+      "factor": 3,
+      "future8BC_plus8QV_seconds": 52168.014235293755,
+      "individual_BC_and_QV_both_arithmetic_within7200": true,
+      "remaining_after_scenario_NOT_reservation": -15143.12833867388
+    },
+    {
+      "BC_each_seconds": 1511.2326483749785,
+      "QV_context": "old_failed15723_whole_linear_transfer_NOT_fullphase",
+      "QV_each_seconds": 1530.569474391662,
+      "active_resume_already_complete_and_no_active_cap_added": true,
+      "arithmetic_within_current_remaining": true,
+      "current_remaining_snapshot": 37024.885896619875,
+      "factor": 1,
+      "future8BC_plus8QV_seconds": 24334.416982133123,
+      "individual_BC_and_QV_both_arithmetic_within7200": true,
+      "remaining_after_scenario_NOT_reservation": 12690.468914486752
+    },
+    {
+      "BC_each_seconds": 1739.040810468723,
+      "QV_context": "old_failed15723_whole_linear_transfer_NOT_fullphase",
+      "QV_each_seconds": 1763.2118429895775,
+      "active_resume_already_complete_and_no_active_cap_added": true,
+      "arithmetic_within_current_remaining": true,
+      "current_remaining_snapshot": 37024.885896619875,
+      "factor": 1.25,
+      "future8BC_plus8QV_seconds": 28018.021227666402,
+      "individual_BC_and_QV_both_arithmetic_within7200": true,
+      "remaining_after_scenario_NOT_reservation": 9006.864668953473
+    },
+    {
+      "BC_each_seconds": 1966.8489725624677,
+      "QV_context": "old_failed15723_whole_linear_transfer_NOT_fullphase",
+      "QV_each_seconds": 1995.854211587493,
+      "active_resume_already_complete_and_no_active_cap_added": true,
+      "arithmetic_within_current_remaining": true,
+      "current_remaining_snapshot": 37024.885896619875,
+      "factor": 1.5,
+      "future8BC_plus8QV_seconds": 31701.625473199685,
+      "individual_BC_and_QV_both_arithmetic_within7200": true,
+      "remaining_after_scenario_NOT_reservation": 5323.26042342019
+    },
+    {
+      "BC_each_seconds": 2422.465296749957,
+      "QV_context": "old_failed15723_whole_linear_transfer_NOT_fullphase",
+      "QV_each_seconds": 2461.138948783324,
+      "active_resume_already_complete_and_no_active_cap_added": true,
+      "arithmetic_within_current_remaining": false,
+      "current_remaining_snapshot": 37024.885896619875,
+      "factor": 2,
+      "future8BC_plus8QV_seconds": 39068.83396426625,
+      "individual_BC_and_QV_both_arithmetic_within7200": true,
+      "remaining_after_scenario_NOT_reservation": -2043.9480676463718
+    },
+    {
+      "BC_each_seconds": 3333.6979451249354,
+      "QV_context": "old_failed15723_whole_linear_transfer_NOT_fullphase",
+      "QV_each_seconds": 3391.708423174986,
+      "active_resume_already_complete_and_no_active_cap_added": true,
+      "arithmetic_within_current_remaining": false,
+      "current_remaining_snapshot": 37024.885896619875,
+      "factor": 3,
+      "future8BC_plus8QV_seconds": 53803.25094639937,
+      "individual_BC_and_QV_both_arithmetic_within7200": true,
+      "remaining_after_scenario_NOT_reservation": -16778.365049779495
+    },
+    {
+      "BC_each_seconds": 1511.2326483749785,
+      "QV_context": "retained_P2_warm_plus_current_max_saved_mixed_context",
+      "QV_each_seconds": 1859.4425557049085,
+      "active_resume_already_complete_and_no_active_cap_added": true,
+      "arithmetic_within_current_remaining": true,
+      "current_remaining_snapshot": 37024.885896619875,
+      "factor": 1,
+      "future8BC_plus8QV_seconds": 26965.401632639096,
+      "individual_BC_and_QV_both_arithmetic_within7200": true,
+      "remaining_after_scenario_NOT_reservation": 10059.48426398078
+    },
+    {
+      "BC_each_seconds": 1739.040810468723,
+      "QV_context": "retained_P2_warm_plus_current_max_saved_mixed_context",
+      "QV_each_seconds": 2174.3031946311357,
+      "active_resume_already_complete_and_no_active_cap_added": true,
+      "arithmetic_within_current_remaining": true,
+      "current_remaining_snapshot": 37024.885896619875,
+      "factor": 1.25,
+      "future8BC_plus8QV_seconds": 31306.75204079887,
+      "individual_BC_and_QV_both_arithmetic_within7200": true,
+      "remaining_after_scenario_NOT_reservation": 5718.1338558210045
+    },
+    {
+      "BC_each_seconds": 1966.8489725624677,
+      "QV_context": "retained_P2_warm_plus_current_max_saved_mixed_context",
+      "QV_each_seconds": 2489.1638335573625,
+      "active_resume_already_complete_and_no_active_cap_added": true,
+      "arithmetic_within_current_remaining": true,
+      "current_remaining_snapshot": 37024.885896619875,
+      "factor": 1.5,
+      "future8BC_plus8QV_seconds": 35648.10244895864,
+      "individual_BC_and_QV_both_arithmetic_within7200": true,
+      "remaining_after_scenario_NOT_reservation": 1376.7834476612334
+    },
+    {
+      "BC_each_seconds": 2422.465296749957,
+      "QV_context": "retained_P2_warm_plus_current_max_saved_mixed_context",
+      "QV_each_seconds": 3118.885111409817,
+      "active_resume_already_complete_and_no_active_cap_added": true,
+      "arithmetic_within_current_remaining": false,
+      "current_remaining_snapshot": 37024.885896619875,
+      "factor": 2,
+      "future8BC_plus8QV_seconds": 44330.80326527819,
+      "individual_BC_and_QV_both_arithmetic_within7200": true,
+      "remaining_after_scenario_NOT_reservation": -7305.917368658316
+    },
+    {
+      "BC_each_seconds": 3333.6979451249354,
+      "QV_context": "retained_P2_warm_plus_current_max_saved_mixed_context",
+      "QV_each_seconds": 4378.327667114725,
+      "active_resume_already_complete_and_no_active_cap_added": true,
+      "arithmetic_within_current_remaining": false,
+      "current_remaining_snapshot": 37024.885896619875,
+      "factor": 3,
+      "future8BC_plus8QV_seconds": 61696.20489791728,
+      "individual_BC_and_QV_both_arithmetic_within7200": true,
+      "remaining_after_scenario_NOT_reservation": -24671.31900129741
+    },
+    {
+      "BC_each_seconds": 1511.2326483749785,
+      "QV_context": "largest_saved_QV_warm_RETURN_applied_to_every_remaining_call",
+      "QV_each_seconds": 5637.631592127784,
+      "active_resume_already_complete_and_no_active_cap_added": true,
+      "arithmetic_within_current_remaining": false,
+      "current_remaining_snapshot": 37024.885896619875,
+      "factor": 1,
+      "future8BC_plus8QV_seconds": 57190.9139240221,
+      "individual_BC_and_QV_both_arithmetic_within7200": true,
+      "remaining_after_scenario_NOT_reservation": -20166.028027402223
+    },
+    {
+      "BC_each_seconds": 1739.040810468723,
+      "QV_context": "largest_saved_QV_warm_RETURN_applied_to_every_remaining_call",
+      "QV_each_seconds": 6897.03949015973,
+      "active_resume_already_complete_and_no_active_cap_added": true,
+      "arithmetic_within_current_remaining": false,
+      "current_remaining_snapshot": 37024.885896619875,
+      "factor": 1.25,
+      "future8BC_plus8QV_seconds": 69088.64240502763,
+      "individual_BC_and_QV_both_arithmetic_within7200": true,
+      "remaining_after_scenario_NOT_reservation": -32063.75650840775
+    },
+    {
+      "BC_each_seconds": 1966.8489725624677,
+      "QV_context": "largest_saved_QV_warm_RETURN_applied_to_every_remaining_call",
+      "QV_each_seconds": 8156.447388191676,
+      "active_resume_already_complete_and_no_active_cap_added": true,
+      "arithmetic_within_current_remaining": false,
+      "current_remaining_snapshot": 37024.885896619875,
+      "factor": 1.5,
+      "future8BC_plus8QV_seconds": 80986.37088603314,
+      "individual_BC_and_QV_both_arithmetic_within7200": false,
+      "remaining_after_scenario_NOT_reservation": -43961.484989413264
+    },
+    {
+      "BC_each_seconds": 2422.465296749957,
+      "QV_context": "largest_saved_QV_warm_RETURN_applied_to_every_remaining_call",
+      "QV_each_seconds": 10675.263184255567,
+      "active_resume_already_complete_and_no_active_cap_added": true,
+      "arithmetic_within_current_remaining": false,
+      "current_remaining_snapshot": 37024.885896619875,
+      "factor": 2,
+      "future8BC_plus8QV_seconds": 104781.8278480442,
+      "individual_BC_and_QV_both_arithmetic_within7200": false,
+      "remaining_after_scenario_NOT_reservation": -67756.94195142432
+    },
+    {
+      "BC_each_seconds": 3333.6979451249354,
+      "QV_context": "largest_saved_QV_warm_RETURN_applied_to_every_remaining_call",
+      "QV_each_seconds": 15712.894776383351,
+      "active_resume_already_complete_and_no_active_cap_added": true,
+      "arithmetic_within_current_remaining": false,
+      "current_remaining_snapshot": 37024.885896619875,
+      "factor": 3,
+      "future8BC_plus8QV_seconds": 152372.74177206628,
+      "individual_BC_and_QV_both_arithmetic_within7200": false,
+      "remaining_after_scenario_NOT_reservation": -115347.8558754464
+    }
+  ],
+  "all18_roster": [
+    {
+      "effective_frontier": 50000,
+      "goal_id": 3,
+      "new_admission_candidate": false,
+      "original_first_admission_spent_forever": true,
+      "physical_updates": 50000,
+      "state": "ACTUAL_COMPLETE_AUDITED_AND_ROOT_RECONCILED",
+      "training_seed": 11,
+      "training_stage": "BC"
+    },
+    {
+      "effective_frontier": 50000,
+      "goal_id": 3,
+      "new_admission_candidate": false,
+      "original_first_admission_spent_forever": true,
+      "physical_updates": 50723,
+      "state": "ACTUAL_COMPLETE_AUDITED_AND_ROOT_RECONCILED",
+      "training_seed": 11,
+      "training_stage": "QV"
+    },
+    {
+      "cost_candidate": {
+        "path": "outputs/continued_research_20261107/review/cube_Quad_remaining16_training_reprice_SOURCE_proposal/20261109T062115_625402Z/phase_candidates/goal3_seed23_BC_COST_SOURCE_REVIEW_NOT_ADOPTED.json",
+        "sha256": "edc17012cd6a516d293cd533a3e7da7255e714240e7bef4f9d7be35d0dc3d5e8"
+      },
+      "goal_id": 3,
+      "new_admission_candidate": true,
+      "state": "NEVER_ADMITTED_SOURCE_COST_CANDIDATE_ONLY",
+      "training_seed": 23,
+      "training_stage": "BC"
+    },
+    {
+      "cost_candidate": {
+        "path": "outputs/continued_research_20261107/review/cube_Quad_remaining16_training_reprice_SOURCE_proposal/20261109T062115_625402Z/phase_candidates/goal3_seed23_QV_COST_SOURCE_REVIEW_NOT_ADOPTED.json",
+        "sha256": "2eb38900bc9f1268a2343944c19e2af47020dcc1ad9ec4dd89859ed69ab0c610"
+      },
+      "goal_id": 3,
+      "new_admission_candidate": true,
+      "state": "NEVER_ADMITTED_SOURCE_COST_CANDIDATE_ONLY",
+      "training_seed": 23,
+      "training_stage": "QV"
+    },
+    {
+      "cost_candidate": {
+        "path": "outputs/continued_research_20261107/review/cube_Quad_remaining16_training_reprice_SOURCE_proposal/20261109T062115_625402Z/phase_candidates/goal3_seed37_BC_COST_SOURCE_REVIEW_NOT_ADOPTED.json",
+        "sha256": "134cbc523015bd04d8ad8db6f29b26fe321c276f33b857392c6e8c16348de7a2"
+      },
+      "goal_id": 3,
+      "new_admission_candidate": true,
+      "state": "NEVER_ADMITTED_SOURCE_COST_CANDIDATE_ONLY",
+      "training_seed": 37,
+      "training_stage": "BC"
+    },
+    {
+      "cost_candidate": {
+        "path": "outputs/continued_research_20261107/review/cube_Quad_remaining16_training_reprice_SOURCE_proposal/20261109T062115_625402Z/phase_candidates/goal3_seed37_QV_COST_SOURCE_REVIEW_NOT_ADOPTED.json",
+        "sha256": "0c8d54a3566094d43d8e526f501fcc257ec7a6ed546e04b9f3f288df0d9373bd"
+      },
+      "goal_id": 3,
+      "new_admission_candidate": true,
+      "state": "NEVER_ADMITTED_SOURCE_COST_CANDIDATE_ONLY",
+      "training_seed": 37,
+      "training_stage": "QV"
+    },
+    {
+      "cost_candidate": {
+        "path": "outputs/continued_research_20261107/review/cube_Quad_remaining16_training_reprice_SOURCE_proposal/20261109T062115_625402Z/phase_candidates/goal4_seed11_BC_COST_SOURCE_REVIEW_NOT_ADOPTED.json",
+        "sha256": "ea5c7f062d0112b8d9abb9a722ad53091a2e9c005ddd4b698bfee96fef69f885"
+      },
+      "goal_id": 4,
+      "new_admission_candidate": true,
+      "state": "NEVER_ADMITTED_SOURCE_COST_CANDIDATE_ONLY",
+      "training_seed": 11,
+      "training_stage": "BC"
+    },
+    {
+      "cost_candidate": {
+        "path": "outputs/continued_research_20261107/review/cube_Quad_remaining16_training_reprice_SOURCE_proposal/20261109T062115_625402Z/phase_candidates/goal4_seed11_QV_COST_SOURCE_REVIEW_NOT_ADOPTED.json",
+        "sha256": "3c8fddfab508a72704c6e14a46e1d7e5c56adeb173a4a9b28a5cd4d88778dd11"
+      },
+      "goal_id": 4,
+      "new_admission_candidate": true,
+      "state": "NEVER_ADMITTED_SOURCE_COST_CANDIDATE_ONLY",
+      "training_seed": 11,
+      "training_stage": "QV"
+    },
+    {
+      "cost_candidate": {
+        "path": "outputs/continued_research_20261107/review/cube_Quad_remaining16_training_reprice_SOURCE_proposal/20261109T062115_625402Z/phase_candidates/goal4_seed23_BC_COST_SOURCE_REVIEW_NOT_ADOPTED.json",
+        "sha256": "80f948060642c67c6d618ca6caa4bf11e67ce3ff37f0f7a7305172446b9110a1"
+      },
+      "goal_id": 4,
+      "new_admission_candidate": true,
+      "state": "NEVER_ADMITTED_SOURCE_COST_CANDIDATE_ONLY",
+      "training_seed": 23,
+      "training_stage": "BC"
+    },
+    {
+      "cost_candidate": {
+        "path": "outputs/continued_research_20261107/review/cube_Quad_remaining16_training_reprice_SOURCE_proposal/20261109T062115_625402Z/phase_candidates/goal4_seed23_QV_COST_SOURCE_REVIEW_NOT_ADOPTED.json",
+        "sha256": "b77f47895027c81f98d4120a5eec430d79e4029df7cc515a26d59546eb753203"
+      },
+      "goal_id": 4,
+      "new_admission_candidate": true,
+      "state": "NEVER_ADMITTED_SOURCE_COST_CANDIDATE_ONLY",
+      "training_seed": 23,
+      "training_stage": "QV"
+    },
+    {
+      "cost_candidate": {
+        "path": "outputs/continued_research_20261107/review/cube_Quad_remaining16_training_reprice_SOURCE_proposal/20261109T062115_625402Z/phase_candidates/goal4_seed37_BC_COST_SOURCE_REVIEW_NOT_ADOPTED.json",
+        "sha256": "d84c0f803b754b1c29bf5c769b63009c6c05a479285b88d62bc80a94cdfe6beb"
+      },
+      "goal_id": 4,
+      "new_admission_candidate": true,
+      "state": "NEVER_ADMITTED_SOURCE_COST_CANDIDATE_ONLY",
+      "training_seed": 37,
+      "training_stage": "BC"
+    },
+    {
+      "cost_candidate": {
+        "path": "outputs/continued_research_20261107/review/cube_Quad_remaining16_training_reprice_SOURCE_proposal/20261109T062115_625402Z/phase_candidates/goal4_seed37_QV_COST_SOURCE_REVIEW_NOT_ADOPTED.json",
+        "sha256": "228e41b81efad3f6fcc9ba7bd68fc5dc7db189c7a56c4f8dd17acabdb704f46c"
+      },
+      "goal_id": 4,
+      "new_admission_candidate": true,
+      "state": "NEVER_ADMITTED_SOURCE_COST_CANDIDATE_ONLY",
+      "training_seed": 37,
+      "training_stage": "QV"
+    },
+    {
+      "cost_candidate": {
+        "path": "outputs/continued_research_20261107/review/cube_Quad_remaining16_training_reprice_SOURCE_proposal/20261109T062115_625402Z/phase_candidates/goal5_seed11_BC_COST_SOURCE_REVIEW_NOT_ADOPTED.json",
+        "sha256": "8361292b156694b31f2e1ffc4aec8b7d8cd97bee27d224344ccbb5d7a83bcf94"
+      },
+      "goal_id": 5,
+      "new_admission_candidate": true,
+      "state": "NEVER_ADMITTED_SOURCE_COST_CANDIDATE_ONLY",
+      "training_seed": 11,
+      "training_stage": "BC"
+    },
+    {
+      "cost_candidate": {
+        "path": "outputs/continued_research_20261107/review/cube_Quad_remaining16_training_reprice_SOURCE_proposal/20261109T062115_625402Z/phase_candidates/goal5_seed11_QV_COST_SOURCE_REVIEW_NOT_ADOPTED.json",
+        "sha256": "59e06051854f41c6e1a0af1630c2429dc1e88d2351828dc69ab6c6f7ee767685"
+      },
+      "goal_id": 5,
+      "new_admission_candidate": true,
+      "state": "NEVER_ADMITTED_SOURCE_COST_CANDIDATE_ONLY",
+      "training_seed": 11,
+      "training_stage": "QV"
+    },
+    {
+      "cost_candidate": {
+        "path": "outputs/continued_research_20261107/review/cube_Quad_remaining16_training_reprice_SOURCE_proposal/20261109T062115_625402Z/phase_candidates/goal5_seed23_BC_COST_SOURCE_REVIEW_NOT_ADOPTED.json",
+        "sha256": "0b6d34caa1fe6412fde48f4dcc798803b3a16de0a1a1adf035c4a30a72d3a972"
+      },
+      "goal_id": 5,
+      "new_admission_candidate": true,
+      "state": "NEVER_ADMITTED_SOURCE_COST_CANDIDATE_ONLY",
+      "training_seed": 23,
+      "training_stage": "BC"
+    },
+    {
+      "cost_candidate": {
+        "path": "outputs/continued_research_20261107/review/cube_Quad_remaining16_training_reprice_SOURCE_proposal/20261109T062115_625402Z/phase_candidates/goal5_seed23_QV_COST_SOURCE_REVIEW_NOT_ADOPTED.json",
+        "sha256": "4f82651bf8db745f7c3f7e049756c060381abfc5b5f5b9ef857cf03a76560781"
+      },
+      "goal_id": 5,
+      "new_admission_candidate": true,
+      "state": "NEVER_ADMITTED_SOURCE_COST_CANDIDATE_ONLY",
+      "training_seed": 23,
+      "training_stage": "QV"
+    },
+    {
+      "cost_candidate": {
+        "path": "outputs/continued_research_20261107/review/cube_Quad_remaining16_training_reprice_SOURCE_proposal/20261109T062115_625402Z/phase_candidates/goal5_seed37_BC_COST_SOURCE_REVIEW_NOT_ADOPTED.json",
+        "sha256": "eecfd2b482a7c53c8994295148e7459da83ba75d56ea0c3557698af86d2e5800"
+      },
+      "goal_id": 5,
+      "new_admission_candidate": true,
+      "state": "NEVER_ADMITTED_SOURCE_COST_CANDIDATE_ONLY",
+      "training_seed": 37,
+      "training_stage": "BC"
+    },
+    {
+      "cost_candidate": {
+        "path": "outputs/continued_research_20261107/review/cube_Quad_remaining16_training_reprice_SOURCE_proposal/20261109T062115_625402Z/phase_candidates/goal5_seed37_QV_COST_SOURCE_REVIEW_NOT_ADOPTED.json",
+        "sha256": "61dbc88765b6b956890c55072a426150cffcb8da1d7717f09bf00d0c3e5f0faf"
+      },
+      "goal_id": 5,
+      "new_admission_candidate": true,
+      "state": "NEVER_ADMITTED_SOURCE_COST_CANDIDATE_ONLY",
+      "training_seed": 37,
+      "training_stage": "QV"
+    }
+  ],
+  "captured_owner": {
+    "path": "outputs/continued_research_20261107/review/cube_Quad_remaining16_training_reprice_SOURCE_proposal/20261109T062115_625402Z/CAPTURED_OWNER_METADATA.json",
+    "sha256": "644e64093d5fc000a36a0c906a2e576b59f825907662c30bd5a474512cce0e58"
+  },
+  "captured_plan": {
+    "path": "outputs/continued_research_20261107/review/cube_Quad_remaining16_training_reprice_SOURCE_proposal/20261109T062115_625402Z/CAPTURED_PLAN_METADATA.json",
+    "sha256": "d98eabf84ba82d8da419ff6d2d2bba8b04e2b08f8bb1ba5a1d648e8bdc48b279"
+  },
+  "current_captured_accounting_not_future_admission": {
+    "active_caps": 0,
+    "all16_7200caps_NOT_committed": 115200,
+    "captured_revision": 457,
+    "existing_UNKNOWN_charge_seconds_separate_once": 600,
+    "hypothetical_next_single7200cap_remaining": 29824.885896619875,
+    "known_completed_actual_seconds_once": 48775.114103380125,
+    "live_plan_future_readmission_required": true,
+    "perphase600scenario_cushion_is_not_accounting_charge": true,
+    "uncommitted_remaining": 37024.885896619875,
+    "used": 49375.114103380125
+  },
+  "disk_capacity_scope": {
+    "future16_default1_2GB_thresholds_sum": 19200000000,
+    "future16_source_planning_bytes": 17569808384,
+    "future16_source_planning_plus8GiB_floor": 26159742976,
+    "historical_BC_output_times16_context_NOT_bound": 2143095328,
+    "no_current_disk_RSS_or_resource_probe": true,
+    "no_delete_overwrite_archive_cut_or_checkpoint_count_change_authorized": true,
+    "no_global_FS_reserve_or_whole_study_output_fit_theorem": true,
+    "perphase_fresh_payload_stat_SHA_disk8GiBplus_threshold_controls_required": true,
+    "resume_output_already_saved_not_future_reservation": 109687802,
+    "source_each_phase_operational_planning_max": 1098113024,
+    "unknown_inherited_logs_watchdog_canonical_inflight_and_library_buffers": true
+  },
+  "historical_revision454_scope": {
+    "path": "outputs/continued_research_20261107/review/cube_Quad_remaining16_training_reprice_SOURCE_proposal/20261109T062115_625402Z/HISTORICAL_REVISION454_ACTIVE_CONTINUATION_SCOPE_NOT_CURRENT.json",
+    "sha256": "e53e1eb320b19e2e2686a70f297d0bb87c1192f96aa2d10562ee9a752d3590ca"
+  },
+  "limits": [
+    "16 phase statusPASS means author SOURCE arithmetic/schema only; not independent ROOT adoption, calendar, ACK, cap or dispatch.",
+    "Actual BC911.2326483749785 and both QV attempts292.626876917202+603.7042280002497 have already been accounted once; mixed/body/setup/helper/admin clocks are not added again.",
+    "Known723 discarded/repeated updates remain; old QVFAILED and earlier DF/IPG failures and strictall33 primary barrier remain unchanged.",
+    "No C0 compatibility/native policy success/Qtruth/algorithm repair/heldout credit from training or cost proposal.",
+    "Limited1M data/128x128/H5F8 adaptation is not paper100M/architecture/F10 replication.",
+    "Actual future RSS, free disk, cold compilation, logging, IO and completion fit remain unknown."
+  ],
+  "required_measured_contexts": {
+    "path": "outputs/continued_research_20261107/review/cube_Quad_remaining16_training_reprice_SOURCE_proposal/20261109T062115_625402Z/SAVED_MEASURED_CONTEXTS_AND_FORMULAS_NOT_RATE_BOUNDS.json",
+    "sha256": "e0cf5986a46ba87a6c995b0b6e8b6f9fd9945d57393ea9cd819cf05c4053fe84"
+  },
+  "scheduling": "The original full-training namespace own EX serializes these16 phases. No divide-by-two worker speedup. One explicit never-admitted phase only after previous actual terminal audit/reconciliation and fresh phase cost/calendar/ACK/ROOT. Both firstgoal3seed11 admissions are spent; exact-resume authority is also spent.16*7200=115200 cannot be committed from current37024.885896619875. No automatic queue/chain/retry/resume.",
+  "scope": {
+    "active_scientific_phases": 0,
+    "actual_first_pair_pairs_encodes_decodes_proofs": [
+      103,
+      211,
+      107,
+      213
+    ],
+    "all9_logical_lineages": 9,
+    "audited_resume_new_physical_updates": 35000,
+    "complete_full_pairs": 1,
+    "complete_training_phases": 2,
+    "completed_effective_updates": 100000,
+    "completed_physical_updates_including_known723repeat": 100723,
+    "conditional_all9_pairs_encodes_decodes_proofs": [
+      919,
+      1875,
+      947,
+      1885
+    ],
+    "conditional_all9_physical_updates_if_no_further_repeat": 900723,
+    "each_BC_and_QV_target": 50000,
+    "future16_pairs_encodes_decodes_proofs": [
+      816,
+      1664,
+      840,
+      1672
+    ],
+    "goals": [
+      3,
+      4,
+      5
+    ],
+    "known_discarded_repeated": 723,
+    "known_old_QV_returned": 15723,
+    "never_admitted_BC_phases": 8,
+    "never_admitted_QV_phases": 8,
+    "no_new_native_performance_primary_heldout_or_sampler_qualification": true,
+    "nominal_all9_effective_updates": 900000,
+    "remaining_effective_updates": 800000,
+    "training_seeds": [
+      11,
+      23,
+      37
+    ],
+    "trusted_old_QV_durable": 15000
+  },
+  "sixteen_cost_candidate_receipts": [
+    {
+      "path": "outputs/continued_research_20261107/review/cube_Quad_remaining16_training_reprice_SOURCE_proposal/20261109T062115_625402Z/phase_candidates/goal3_seed23_BC_COST_SOURCE_REVIEW_NOT_ADOPTED.json",
+      "sha256": "edc17012cd6a516d293cd533a3e7da7255e714240e7bef4f9d7be35d0dc3d5e8"
+    },
+    {
+      "path": "outputs/continued_research_20261107/review/cube_Quad_remaining16_training_reprice_SOURCE_proposal/20261109T062115_625402Z/phase_candidates/goal3_seed23_QV_COST_SOURCE_REVIEW_NOT_ADOPTED.json",
+      "sha256": "2eb38900bc9f1268a2343944c19e2af47020dcc1ad9ec4dd89859ed69ab0c610"
+    },
+    {
+      "path": "outputs/continued_research_20261107/review/cube_Quad_remaining16_training_reprice_SOURCE_proposal/20261109T062115_625402Z/phase_candidates/goal3_seed37_BC_COST_SOURCE_REVIEW_NOT_ADOPTED.json",
+      "sha256": "134cbc523015bd04d8ad8db6f29b26fe321c276f33b857392c6e8c16348de7a2"
+    },
+    {
+      "path": "outputs/continued_research_20261107/review/cube_Quad_remaining16_training_reprice_SOURCE_proposal/20261109T062115_625402Z/phase_candidates/goal3_seed37_QV_COST_SOURCE_REVIEW_NOT_ADOPTED.json",
+      "sha256": "0c8d54a3566094d43d8e526f501fcc257ec7a6ed546e04b9f3f288df0d9373bd"
+    },
+    {
+      "path": "outputs/continued_research_20261107/review/cube_Quad_remaining16_training_reprice_SOURCE_proposal/20261109T062115_625402Z/phase_candidates/goal4_seed11_BC_COST_SOURCE_REVIEW_NOT_ADOPTED.json",
+      "sha256": "ea5c7f062d0112b8d9abb9a722ad53091a2e9c005ddd4b698bfee96fef69f885"
+    },
+    {
+      "path": "outputs/continued_research_20261107/review/cube_Quad_remaining16_training_reprice_SOURCE_proposal/20261109T062115_625402Z/phase_candidates/goal4_seed11_QV_COST_SOURCE_REVIEW_NOT_ADOPTED.json",
+      "sha256": "3c8fddfab508a72704c6e14a46e1d7e5c56adeb173a4a9b28a5cd4d88778dd11"
+    },
+    {
+      "path": "outputs/continued_research_20261107/review/cube_Quad_remaining16_training_reprice_SOURCE_proposal/20261109T062115_625402Z/phase_candidates/goal4_seed23_BC_COST_SOURCE_REVIEW_NOT_ADOPTED.json",
+      "sha256": "80f948060642c67c6d618ca6caa4bf11e67ce3ff37f0f7a7305172446b9110a1"
+    },
+    {
+      "path": "outputs/continued_research_20261107/review/cube_Quad_remaining16_training_reprice_SOURCE_proposal/20261109T062115_625402Z/phase_candidates/goal4_seed23_QV_COST_SOURCE_REVIEW_NOT_ADOPTED.json",
+      "sha256": "b77f47895027c81f98d4120a5eec430d79e4029df7cc515a26d59546eb753203"
+    },
+    {
+      "path": "outputs/continued_research_20261107/review/cube_Quad_remaining16_training_reprice_SOURCE_proposal/20261109T062115_625402Z/phase_candidates/goal4_seed37_BC_COST_SOURCE_REVIEW_NOT_ADOPTED.json",
+      "sha256": "d84c0f803b754b1c29bf5c769b63009c6c05a479285b88d62bc80a94cdfe6beb"
+    },
+    {
+      "path": "outputs/continued_research_20261107/review/cube_Quad_remaining16_training_reprice_SOURCE_proposal/20261109T062115_625402Z/phase_candidates/goal4_seed37_QV_COST_SOURCE_REVIEW_NOT_ADOPTED.json",
+      "sha256": "228e41b81efad3f6fcc9ba7bd68fc5dc7db189c7a56c4f8dd17acabdb704f46c"
+    },
+    {
+      "path": "outputs/continued_research_20261107/review/cube_Quad_remaining16_training_reprice_SOURCE_proposal/20261109T062115_625402Z/phase_candidates/goal5_seed11_BC_COST_SOURCE_REVIEW_NOT_ADOPTED.json",
+      "sha256": "8361292b156694b31f2e1ffc4aec8b7d8cd97bee27d224344ccbb5d7a83bcf94"
+    },
+    {
+      "path": "outputs/continued_research_20261107/review/cube_Quad_remaining16_training_reprice_SOURCE_proposal/20261109T062115_625402Z/phase_candidates/goal5_seed11_QV_COST_SOURCE_REVIEW_NOT_ADOPTED.json",
+      "sha256": "59e06051854f41c6e1a0af1630c2429dc1e88d2351828dc69ab6c6f7ee767685"
+    },
+    {
+      "path": "outputs/continued_research_20261107/review/cube_Quad_remaining16_training_reprice_SOURCE_proposal/20261109T062115_625402Z/phase_candidates/goal5_seed23_BC_COST_SOURCE_REVIEW_NOT_ADOPTED.json",
+      "sha256": "0b6d34caa1fe6412fde48f4dcc798803b3a16de0a1a1adf035c4a30a72d3a972"
+    },
+    {
+      "path": "outputs/continued_research_20261107/review/cube_Quad_remaining16_training_reprice_SOURCE_proposal/20261109T062115_625402Z/phase_candidates/goal5_seed23_QV_COST_SOURCE_REVIEW_NOT_ADOPTED.json",
+      "sha256": "4f82651bf8db745f7c3f7e049756c060381abfc5b5f5b9ef857cf03a76560781"
+    },
+    {
+      "path": "outputs/continued_research_20261107/review/cube_Quad_remaining16_training_reprice_SOURCE_proposal/20261109T062115_625402Z/phase_candidates/goal5_seed37_BC_COST_SOURCE_REVIEW_NOT_ADOPTED.json",
+      "sha256": "eecfd2b482a7c53c8994295148e7459da83ba75d56ea0c3557698af86d2e5800"
+    },
+    {
+      "path": "outputs/continued_research_20261107/review/cube_Quad_remaining16_training_reprice_SOURCE_proposal/20261109T062115_625402Z/phase_candidates/goal5_seed37_QV_COST_SOURCE_REVIEW_NOT_ADOPTED.json",
+      "sha256": "61dbc88765b6b956890c55072a426150cffcb8da1d7717f09bf00d0c3e5f0faf"
+    }
+  ],
+  "source_and_saved_scalar_pins": {
+    "outputs/continued_research_20261107/cube_quadruple_goal3_seed11_QV15000_to50000_resume_20261109/lineages/goal3_seed11/QV/attempts/Quad-goal3-seed11-QV15000-resume35000-d678db74b35c43a3a400d87f7d6e05ca/COMPLETION.json": "5583f58bc8e352e6ce62e3f88582a6290eb2af9621f6ed50f691dff4d714b405",
+    "outputs/continued_research_20261107/cube_quadruple_goal3_seed11_QV15000_to50000_resume_20261109/lineages/goal3_seed11/QV/attempts/Quad-goal3-seed11-QV15000-resume35000-d678db74b35c43a3a400d87f7d6e05ca/OPERATIONAL_RESULT.json": "479a63e587b5f99c41e2808dd919f5e37328ad19ebaa87954bb9767cc4dc8514",
+    "outputs/continued_research_20261107/cube_quadruple_goal3_seed11_QV15000_to50000_resume_20261109/lineages/goal3_seed11/QV/attempts/Quad-goal3-seed11-QV15000-resume35000-d678db74b35c43a3a400d87f7d6e05ca/UPDATES.jsonl": "fd9f09ae94b76cf7e59cbfa8205efbc336cfd65b57018bf6b4f5b6e65763b670",
+    "outputs/continued_research_20261107/cube_quadruple_tasks345_fresh_BC_QV50000_20261109/lineages/goal3_seed11/BC/attempts/Quad-goal3-seed11-fresh-BC50000-9c4bee397b594d1da9208990968f271a/UPDATES.jsonl": "3f177ae04aa258772694ef4310c8bb103ac0ef0f3d4bf9e1547f2de7b565ca59",
+    "outputs/continued_research_20261107/cube_quadruple_tasks345_fresh_BC_QV50000_20261109/lineages/goal3_seed11/QV/attempts/Quad-goal3-seed11-BC-parent-QV50000-ea9c4ec0704e497b81aaf53387691e7e/UPDATES.jsonl": "a8547e5c6d079118e8c9f73a9a7f710cf1390f4de0dc14337291993b3d7e9c3f",
+    "outputs/continued_research_20261107/cube_quadruple_tasks345_fresh_BC_QV50000_20261109/preparation/DESIGN.json": "d01a0dcee6dcd0cdb76548f034c47834bd2b0c3bc1b8bd01195c1a53bafff49b",
+    "outputs/continued_research_20261107/cube_quadruple_tasks345_fresh_BC_QV50000_20261109/preparation/PREPARATION.json": "0211602444b94f06626e9189c7a1605b0c8ec80e6ca293ea810227739b68cd42",
+    "outputs/continued_research_20261107/review/cube_Quad_QV15000_resume_ROOT_terminal_reconciliation/20261109T061034_207865Z/ROOT_RECONCILIATION.json": "5ca3c57ae2bdb64609d7fae1952e2e7f9523eda56f814f003a838f4c11777d26",
+    "outputs/continued_research_20261107/review/cube_Quad_QV15000_resume_terminal_independent/20261109T060731_929949Z/REQUIRED_INDEPENDENT_ACTIVITY_AND_SCOPE.json": "c010520a3abe9969e2c0d633cac9eb29d1a1adeb98cd6b6e21f257f4bf3a2900",
+    "outputs/continued_research_20261107/review/cube_Quad_QV15000_resume_terminal_independent/20261109T060731_929949Z/REVIEW.json": "fffb8d2c946f865c78080a2b3a44241b580e0922c188db60958e7da5f92a1aff",
+    "outputs/continued_research_20261107/review/cube_Quad_QV15000_resume_terminal_independent/20261109T060731_929949Z/SAVED_STOP_OBSERVER_AND_PROOF_PARTITION_ADDENDUM.json": "246d4b42caafd47a2c40892f871bb75cbb13025aee0c255cdb1a72d8546e6338",
+    "outputs/continued_research_20261107/review/cube_Quad_goal3_seed11_BC50000_ROOT_terminal_reconciliation/20261109T035832_765977Z/ROOT_RECONCILIATION.json": "c9576084e292bb3fa85688ccd7dd721bcd837259dee3dbe04b8209aab6d8929a",
+    "outputs/continued_research_20261107/review/cube_Quad_goal3_seed11_QV50000_ROOT_failed_partial_reconciliation/20261109T043143_323486Z/ROOT_RECONCILIATION.json": "013b525aa89f85fe23217b1d71148b0c29ab4975de4935f4b6899f81b329c5af",
+    "outputs/continued_research_20261107/review/cube_Quadruple_goal3_seed11_BC50000_completed_independent/20261109T035449_635187Z/REQUIRED_INDEPENDENT_ACTIVITY_AND_SCOPE.json": "7d3e97c0454f5695180f69affd911a34b4581b38c40e0ebdc497fd52514b8be4",
+    "outputs/continued_research_20261107/review/cube_Quadruple_goal3_seed11_BC50000_completed_independent/20261109T035449_635187Z/REVIEW.json": "d82d4bf4d7ae891fd1c1b53093a760c1ad09cb8d4b4b1f8c191637053156b724",
+    "outputs/continued_research_20261107/review/cube_Quadruple_goal3_seed11_QV50000_cost_calendar_SOURCE_proposal/20261109T034224_987893Z/SAVED_P2_QV_PROFILE_AND_COST_SCENARIOS.json": "4a2977c2c86e9982c8e4196607527e00f7810933e9ad68eee94346a0f9966251",
+    "outputs/continued_research_20261107/review/cube_Quadruple_goal3_seed11_QV50000_partial_failed_independent/20261109T042726_189284Z/REQUIRED_INDEPENDENT_ACTIVITY_AND_SCOPE.json": "27fc68db6b509db53148ef8136659e3c5d81eee1795d490370b8fa1c1b6d5dd4",
+    "outputs/continued_research_20261107/review/cube_Quadruple_goal3_seed11_QV50000_partial_failed_independent/20261109T042726_189284Z/REVIEW.json": "406bc9223442d9cade2265fd834186c03eb9797f7ff9acb6a2ba82b5e083aa79",
+    "outputs/continued_research_20261107/review/cube_Quadruple_one_explicit_phase_release_helper_preparation/INDEPENDENT_SOURCE_REVIEW.json": "a4fe6fc86ba0f8630caea0d9e79330025fb52773b9cd44dda53bc20e82bef1ab",
+    "outputs/continued_research_20261107/review/cube_Quadruple_one_explicit_phase_release_helper_preparation/PREPARATION.json": "28ee29fe364167a00ce7a546c4c4547f1849f651ea492df5ff5cc907cd2c3dc3",
+    "outputs/continued_research_20261107/review/cube_Quadruple_one_explicit_phase_release_helper_preparation/REQUIRED_ACTUAL_AUDIT_SCOPE_CORRECTION_AND_LITERAL_FIXTURES.json": "8744b741d074208a99da18d731dcc117450040f1b738bdd3b744f5a50daea15c",
+    "outputs/continued_research_20261107/review/cube_Quadruple_one_explicit_phase_release_helper_preparation/REQUIRED_INDEPENDENT_SOURCE_REVIEW_ACTIVITY_AND_LIMITS.json": "c0abeece56b597423a3ed4d72fcef22f01e1e2c1345a3c02f20c60d03b31599e",
+    "outputs/continued_research_20261107/review/cube_Quadruple_one_explicit_phase_release_helper_preparation/REQUIRED_INITIAL_VS_CORRECTED_TEXT_BINDING_COUNT_CLARIFIER.json": "9d7cc88f3bee705af6b4a33588f44b7f7b6816377988a7fb585ad3b68a116a6b",
+    "work/continued_research_20261107/cube_quadruple_tasks345_fresh_BC_QV50000_20261109/canonical_codec.py": "808f454e01d512c448888cb7d4a666f1bc1e1b133b3a7510bae5c1fffedca8a1",
+    "work/continued_research_20261107/cube_quadruple_tasks345_fresh_BC_QV50000_20261109/checkpoint.py": "4e9116f67ab2ab62420249ed9f6a339c273d6d92a76250f4bf1b4ff90c3c3510",
+    "work/continued_research_20261107/cube_quadruple_tasks345_fresh_BC_QV50000_20261109/data.py": "93221329066b413c8ef4881006ed9324fa3e643440e1066e6c974e7c4984e653",
+    "work/continued_research_20261107/cube_quadruple_tasks345_fresh_BC_QV50000_20261109/guard.py": "1cb23844ced32944332ab86d6e8d6ec6f4fa58abdbdcc300be8b6753b44eef2f",
+    "work/continued_research_20261107/cube_quadruple_tasks345_fresh_BC_QV50000_20261109/hard_watchdog.py": "9019f9786570d16c418c984b8d535b5839db5fe14e1f7681b14a26c8f8a6fc35",
+    "work/continued_research_20261107/cube_quadruple_tasks345_fresh_BC_QV50000_20261109/model.py": "b89791e4ab2cd67c302104377cdace90644f5b760d9ac1639f519a8247060c24",
+    "work/continued_research_20261107/cube_quadruple_tasks345_fresh_BC_QV50000_20261109/parent.py": "a73e0548b47f82059145be39e3e15cfc621298964890fb98c2a141534222534e",
+    "work/continued_research_20261107/cube_quadruple_tasks345_fresh_BC_QV50000_20261109/prepare.py": "a912deb875750dddb433d5fc4a1ead1d666898e494a0cd00fddbdd9cc790e4d9",
+    "work/continued_research_20261107/cube_quadruple_tasks345_fresh_BC_QV50000_20261109/supervise.py": "7e0506cebc7dc84822b4f637bd329789a37b25b7e8959ab60901202b5b3c4a5d",
+    "work/continued_research_20261107/cube_quadruple_tasks345_fresh_BC_QV50000_20261109/worker.py": "1737be59b5850c140a4271e5b6b6d7b9197ed6997f41f7105621880d26db01b2",
+    "work/continued_research_20261107/root_control/release_cube_Quadruple_one_explicit_phase_first.py": "5a8341f5e0552c697187f811319c498fedda9465189d3ca0615357efa5839e8f"
+  },
+  "status": "SOURCE_ONLY_MEASURED_SCOPE_AND_SENSITIVITY_PROPOSAL_NOT_PHASE_ADOPTION",
+  "study_affordability": "Transfer scenarios span fit and non-fit within current37024.885896619875; neither same-goal first-pair evidence nor warm/P2 extrapolation promises all remaining training, C0/C1, family gates or native comparison fit initial86400. Largest-warm stress can exceed even a single7200 cap. Preserve all3goals x3seeds x50kBC+50kQV; any later budget/continuation change needs separate saved evidence and authority, not silent cuts."
+}

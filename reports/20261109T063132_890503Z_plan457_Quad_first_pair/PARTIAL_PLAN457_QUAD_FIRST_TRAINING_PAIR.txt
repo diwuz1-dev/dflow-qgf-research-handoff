@@ -1,0 +1,172 @@
+PAGE 1 OF 4 | PARTIAL | FIXED PLAN457
+First Quadruple training pair complete
+Fixed snapshot: plan457, 2026-11-09 06:12:46 UTC. New local report; not yet uploaded.
+Fixed snapshot: plan457, 2026-11-09 06:12:46 UTC. New local report; not yet uploaded.
+1 of 9 goal-seed pairs complete. 2 of 18 training phases complete.
+Eight BC and eight QV phases remain unrun: 800,000 target updates.
+This is a PARTIAL training and reproducibility checkpoint. Quadruple native evaluation is UNRUN for BC, original QGF, all eight DFlow variants, original IPG and FK. UNRUN does not mean zero successes. No algorithm-performance or study-completion claim follows from this pair.
+Exact pilot configuration
+Scope | Configuration
+Tasks and first lineage | Official Cube Quadruple Tasks3/4/5; first completed pair is Task3 / seed11.
+Observed / action representation | 55 observation dimensions; 5 native controls per step; H=5 action chunk flattened to 25 dimensions.
+Training adaptation | 128 x 128 networks; flow steps F=8; temperature T=1; local official 1M TRAIN shard000; 996,000 full-H5 eligible starts per goal.
+Credit and paper contrast | Fresh 50,000 BC + 50,000 goal-specific QV updates; unaugmented data. This limited pilot is not the paper100M / 500k / F10 setup.
+Three actual attempts, with the failed prefix preserved
+Attempt | Actual outcome | Parent seconds
+Fresh BC | 50,000 complete; 51 checkpoint pairs; audited and reconciled. | 911.232648
+Original QV | FAILED / bounded partial: 15,723 returned; 15,000 durable; 723 later discarded and repeated. Stop trigger unknown. | 292.626877
+Exact continuation | 35,000 new original-index updates; trusted15k -> effective50k; 36 checkpoint pairs; audited and reconciled. | 603.704228
+The continuation saved 70,446 PASS / 0 FAIL predicates. Its 75 full-state proofs comprise 1 fresh-template zero-credit proof + 74 proofs with actor FULL TrainState and RNG frozen. Final disk restore passed semantic and canonical-blob equality. Final payload 33bf6e496d84...; manifest de0c33a88fa1.... These are reproducibility gates, not competence or Q-truth tests.
+
+PAGE 2 OF 4 | PARTIAL | FIXED PLAN457
+One pair done; eight pairs remain
+No goal, seed, phase, numerical gate or primary-study arm is removed by this checkpoint.
+No goal, seed, phase, numerical gate or primary-study arm is removed by this checkpoint.
+Goal / official task | Seed | BC50k | QV50k
+3 / pnp_from_square | 11 | COMPLETE | COMPLETE*
+3 / pnp_from_square | 23 | UNRUN | UNRUN
+3 / pnp_from_square | 37 | UNRUN | UNRUN
+4 / cycle | 11 | UNRUN | UNRUN
+4 / cycle | 23 | UNRUN | UNRUN
+4 / cycle | 37 | UNRUN | UNRUN
+5 / stack | 11 | UNRUN | UNRUN
+5 / stack | 23 | UNRUN | UNRUN
+5 / stack | 37 | UNRUN | UNRUN
+* Goal3/seed11 QV reached effective50k via the audited exact15k + 35k continuation. Its combined physical QV returns are 50,723, including the known723 repeats. The original failed attempt and its unknown stop trigger remain in the record.
+What the data and source checks establish
+P1 covered all three goal labels over the full1M TRAIN starts. Each goal has 996,000 critic-eligible / actor-full5 starts and no native-short prefixes. All three strict joint-goal TRAIN counts are zero. This is descriptive dataset support, not policy competence, impossibility, Q-truth or a hidden full-goal BC-success cutoff. No BC sharing across goals is adopted.
+Corrected C0 three-context source e2d263fa / PREP cc38380e has SCI e737870e and OPS f5a00c7a PASS, accepted SOURCE-only at Root457. It links complete BC, old failed QV15k and resumed complete QV50k. C0 is UNRUN at this snapshot; helper, fresh admission and any actual engineering execution are separate. The old blocked source and review history remain immutable.
+Remaining evaluation dependencies
+After the remaining training and exact frozen-parent checks, each family still needs its own admitted callback / H5 boundary / numerical readiness checks, validation and fresh confirmation. Original QGF and FK can follow their own reviewed gates; DFlow and IPG do not inherit a numerical waiver. No native policy-success result is supplied here.
+The primary Task2 study still requires all33 guided conditions before main100: 30 are frozen and IPG3 remain unqualified. Fresh confirmation and matched held-out evaluation remain distinct. New main100 held-out episodes = 0; the 540 matched curve points x100 remain pending. Quad training is not a substitute for that barrier.
+
+PAGE 3 OF 4 | PARTIAL | FIXED PLAN457
+Fresh40 outcomes, own selected settings
+Successes / 40 on seeds11,23,37. Different selected settings; this table is not held-out or a causal averaging comparison.
+Successes / 40 on seeds11,23,37. Different selected settings; this table is not held-out or a causal averaging comparison.
+Condition | lambda | seed11 | seed23 | seed37
+Regular / raw Q | 0 | 35/40 | 40/40 | 37/40
+Regular / raw Q | 1 | 28/40 | 40/40 | 40/40
+Stochastic / raw Q | 0 | 40/40 | 40/40 | 39/40
+Stochastic / raw Q | 1 | 37/40 | 40/40 | 40/40
+Regular / averaged Q | 0 | 38/40 | 40/40 | 37/40
+Regular / averaged Q | 1 | 25/40 | 40/40 | 40/40
+Stochastic / averaged Q | 0 | 40/40 | 40/40 | 40/40
+Stochastic / averaged Q | 1 | 35/40 | 40/40 | 40/40
+Original QGF | - | 40/40 | 40/40 | 40/40
+Original FK | - | 40/40 | 40/40 | 40/40
+Original IPG | - | Unqualified | Unqualified | Unqualified
+QGF and FK are original families. DFlow rows retain regular/stochastic x raw/averaged-Q x lambda0/1 identities. The selected kappa, eta, iteration count and related settings differ across rows and seeds. Therefore these scores do not establish that averaging helps, a tuned DFlow advantage, Q-truth, or a held-out win. IPG unqualified is not zero success.
+Full tables and cohort scopes remain available
+The unchanged plan365 tables retain all24 selected DF tuples [D1], all72 literal fresh40 DF alternatives [D4], QGF/FK selected tuples [D2], full27,720 DF TRAIN score rows [D5], QGF648 Task2/Task5 rows [D6] and FK2,160 TRAIN rows [D7]. The DF TRAIN scores are repeated scores on one paired TRAIN16 panel, not native episodes.
+The newer saved QGF Task2 sweep view [Q1-Q2] covers 324 validation configurations / 6,480 episode views: 1,620 inherited M8 reference episodes + 4,860 new joint-scan episodes. Nine fresh40 confirmation alternatives represent360 episodes. Inherited and new views are explicitly separated; no new queries were made to build the table view.
+Full selected configuration fields and immutable CSV paths are in SOURCE_PINS.json and the copied small tables under evidence/. This report does not replace, overwrite or reselect those old tuples. Task5 QGF confirmation40/36/40, old DF numerical failures and IPG failures remain unchanged.
+
+PAGE 4 OF 4 | PARTIAL | FIXED PLAN457
+Measured time and preserved evidence
+All clocks below are fixed-plan457 saved accounting, not a promise that the remaining study fits.
+All clocks below are fixed-plan457 saved accounting, not a promise that the remaining study fits.
+Accounting category | Seconds
+Measured completed scientific outer-parent, once | 48,775.114103380125
+Separate UNKNOWN conservative charge; not measured time | 600
+Used / committed; active scientific caps = 0 | 49,375.114103380125
+Remaining from initial86,400-second tranche | 37,024.885896619875
+BC911.232648 + old QV292.626877 + resumed QV603.704228 seconds are already included once. Worker, watchdog, update-body, setup, helper, acquisition, archive and publication/admin clocks are nonadditive. Future600/7200 caps and disk/RSS/output fit require separate current admission; no bulk cap, parallel speedup or new phase is authorized by this PDF.
+Evidence key; full SHA256 and exact paths are in SOURCE_PINS.json
+Saved evidence | SHA prefixes / scope
+BC audit + required scope / Root442 | d82d4bf4 + 7d3e97c0 / c9576084
+Failed QV audit + required scope / Root447 | 406bc922 + 27fc68db / 013b525a
+Resume audit + mandatory scope and addendum / Root456 | fffb8d2c + c010520a + 246d4b42 / 5ca3c57a
+C0 schema compatibility companion; no new checks | c30a2374 + a5af163d
+Corrected C0 source + PREP / SCI + OPS / Root457 | e2d263fa + cc38380e / e737870e + f5a00c7a / 72843da9
+Public archive boundaries and this new local report
+The public complete-campaigns snapshot stops at 2026-11-08 23:35:08.740055 UTC / plan409; it excludes later Quad work. The separate public 4MB P1 code + saved QA metadata release excludes BC/QV weights and raw binary arrays. The existing public PDF directory does not yet include this checkpoint.
+This new PDF/TXT is not yet uploaded. The local manifest is a reference bundle, not a whole portable backup. All three audited canonical states are indexed but no checkpoint bytes, raw data, scientific NPZ or runtime are embedded; no ZIP was created. Full attempts remain external and uncut. Root independent content and all-four-page review is pending author handoff. This remains PARTIAL.
+
+SOURCE REFERENCE INDEX (workspace paths; no payloads embedded)
+[PLAN457] outputs/continued_research_20261107/review/cube_Quad_remaining16_training_reprice_SOURCE_proposal/20261109T062115_625402Z/CAPTURED_PLAN_METADATA.json
+SHA256 d98eabf84ba82d8da419ff6d2d2bba8b04e2b08f8bb1ba5a1d648e8bdc48b279
+[OWNER457] outputs/continued_research_20261107/review/cube_Quad_remaining16_training_reprice_SOURCE_proposal/20261109T062115_625402Z/CAPTURED_OWNER_METADATA.json
+SHA256 644e64093d5fc000a36a0c906a2e576b59f825907662c30bd5a474512cce0e58
+[STATUS457] outputs/continued_research_20261107/STATUS.txt
+SHA256 c117ada04463bf5b1deca76b93ef47abb7b75217db4c4800359b160cffddb8c6
+[BC_AUDIT] outputs/continued_research_20261107/review/cube_Quadruple_goal3_seed11_BC50000_completed_independent/20261109T035449_635187Z/REVIEW.json
+SHA256 d82d4bf4d7ae891fd1c1b53093a760c1ad09cb8d4b4b1f8c191637053156b724
+[OLD_QV_AUDIT] outputs/continued_research_20261107/review/cube_Quadruple_goal3_seed11_QV50000_partial_failed_independent/20261109T042726_189284Z/REVIEW.json
+SHA256 406bc9223442d9cade2265fd834186c03eb9797f7ff9acb6a2ba82b5e083aa79
+[RESUME_AUDIT] outputs/continued_research_20261107/review/cube_Quad_QV15000_resume_terminal_independent/20261109T060731_929949Z/REVIEW.json
+SHA256 fffb8d2c946f865c78080a2b3a44241b580e0922c188db60958e7da5f92a1aff
+[BC_SCOPE] outputs/continued_research_20261107/review/cube_Quadruple_goal3_seed11_BC50000_completed_independent/20261109T035449_635187Z/REQUIRED_INDEPENDENT_ACTIVITY_AND_SCOPE.json
+SHA256 7d3e97c0454f5695180f69affd911a34b4581b38c40e0ebdc497fd52514b8be4
+[OLD_QV_SCOPE] outputs/continued_research_20261107/review/cube_Quadruple_goal3_seed11_QV50000_partial_failed_independent/20261109T042726_189284Z/REQUIRED_INDEPENDENT_ACTIVITY_AND_SCOPE.json
+SHA256 27fc68db6b509db53148ef8136659e3c5d81eee1795d490370b8fa1c1b6d5dd4
+[RESUME_SCOPE] outputs/continued_research_20261107/review/cube_Quad_QV15000_resume_terminal_independent/20261109T060731_929949Z/REQUIRED_INDEPENDENT_ACTIVITY_AND_SCOPE.json
+SHA256 c010520a3abe9969e2c0d633cac9eb29d1a1adeb98cd6b6e21f257f4bf3a2900
+[RESUME_PROOF_PARTITION] outputs/continued_research_20261107/review/cube_Quad_QV15000_resume_terminal_independent/20261109T060731_929949Z/SAVED_STOP_OBSERVER_AND_PROOF_PARTITION_ADDENDUM.json
+SHA256 246d4b42caafd47a2c40892f871bb75cbb13025aee0c255cdb1a72d8546e6338
+[ROOT442] outputs/continued_research_20261107/review/cube_Quad_goal3_seed11_BC50000_ROOT_terminal_reconciliation/20261109T035832_765977Z/ROOT_RECONCILIATION.json
+SHA256 c9576084e292bb3fa85688ccd7dd721bcd837259dee3dbe04b8209aab6d8929a
+[ROOT447] outputs/continued_research_20261107/review/cube_Quad_goal3_seed11_QV50000_ROOT_failed_partial_reconciliation/20261109T043143_323486Z/ROOT_RECONCILIATION.json
+SHA256 013b525aa89f85fe23217b1d71148b0c29ab4975de4935f4b6899f81b329c5af
+[ROOT456] outputs/continued_research_20261107/review/cube_Quad_QV15000_resume_ROOT_terminal_reconciliation/20261109T061034_207865Z/ROOT_RECONCILIATION.json
+SHA256 5ca3c57ae2bdb64609d7fae1952e2e7f9523eda56f814f003a838f4c11777d26
+[C0_SCHEMA_COMPANION] outputs/continued_research_20261107/review/cube_Quad_QV15000_resume_terminal_independent/20261109T060731_929949Z/C0_PARENT_COMPATIBLE_TERMINAL_REVIEW.json
+SHA256 c30a2374162cbb84ac09230c9744adb991d4c38ed25cca70081d7c201ea75066
+[C0_SCHEMA_SCOPE] outputs/continued_research_20261107/review/cube_Quad_QV15000_resume_terminal_independent/20261109T060731_929949Z/C0_PARENT_COMPATIBLE_TERMINAL_ACTIVITY_AND_SCOPE.json
+SHA256 a5af163de55687e9812ed812679d74a7c23980b66d2365c791802ee007a70e2c
+[ROOT457_C0_SOURCE] outputs/continued_research_20261107/review/cube_Quad_C0_three_context_ROOT_executor_calendar_adoption/20261109T061246_086394Z/ROOT_SOURCE_CALENDAR_ACCEPTANCE_AND_DRY_FIRST_HELPER_AUTHORITY_NO_RUNTIME.json
+SHA256 72843da94a5c18cc8977fe9bfa47ce81ed714520f10155cf161bccca74d4887a
+[C0_SCI] outputs/continued_research_20261107/review/cube_quadruple_goal3_seed11_C0_three_context_math/corrected_20261109T060706_090041Z/REVIEW.json
+SHA256 e737870e7ad4e52a669ee3ef7d043d1da789eb4a06513bc608e81fd71aa12a43
+[C0_OPS] outputs/continued_research_20261107/review/cube_quadruple_goal3_seed11_C0_three_context_corrected_ops/REVIEW.json
+SHA256 f5a00c7a4c4dd7c3bdcea5cff459882b814a54920bd21cee5eeddee12e8bf23d
+[C0_SCI_SCOPE] outputs/continued_research_20261107/review/cube_quadruple_goal3_seed11_C0_three_context_math/corrected_20261109T060706_090041Z/REQUIRED_INDEPENDENT_SCI_ACTIVITY_AND_LIMITS.json
+SHA256 ce5b7280e9b5ace835839032d343927ba07f0e2a82469b04071a1e59ace1f420
+[C0_OPS_SCOPE] outputs/continued_research_20261107/review/cube_quadruple_goal3_seed11_C0_three_context_corrected_ops/REQUIRED_INDEPENDENT_CORRECTED_SOURCE_ACTIVITY_AND_REVIEWER_HISTORY.json
+SHA256 3b7d463bab5eb404c013c6b934038028f7ea8cce4682e21906008b81fe0ff302
+[FULLTRAIN_SOURCE_DESIGN] outputs/continued_research_20261107/cube_quadruple_tasks345_fresh_BC_QV50000_20261109/preparation/DESIGN.json
+SHA256 d01a0dcee6dcd0cdb76548f034c47834bd2b0c3bc1b8bd01195c1a53bafff49b
+[FULLTRAIN_SOURCE_PREP] outputs/continued_research_20261107/cube_quadruple_tasks345_fresh_BC_QV50000_20261109/preparation/PREPARATION.json
+SHA256 0211602444b94f06626e9189c7a1605b0c8ec80e6ca293ea810227739b68cd42
+[RESUME_SOURCE_DESIGN] outputs/continued_research_20261107/cube_quadruple_goal3_seed11_QV15000_to50000_resume_20261109/preparation/DESIGN.json
+SHA256 26ae9bb6fc8e6b42420b04146344697b57efc5d696be584db32ae12976a04b27
+[RESUME_SOURCE_PREP] outputs/continued_research_20261107/cube_quadruple_goal3_seed11_QV15000_to50000_resume_20261109/preparation/PREPARATION.json
+SHA256 47380cd69709185180aa9cde05ef614f6590599a30fff225fe92bd51a4f65556
+[C0_SOURCE_DESIGN] outputs/continued_research_20261107/cube_quadruple_goal3_seed11_C0_three_context_frozen55_callbacks_20261109/preparation/DESIGN.json
+SHA256 e2d263fa942f00adf8e967c3b5cef660aefb4ca6cba7672b572ed4d696cf5351
+[C0_SOURCE_PREP] outputs/continued_research_20261107/cube_quadruple_goal3_seed11_C0_three_context_frozen55_callbacks_20261109/preparation/PREPARATION.json
+SHA256 cc38380e8bed40a777fe6611f170f7c9687b486bb3e9fc2c86104fbf8e46dec3
+[P1_ROOT428] outputs/continued_research_20261107/review/cube_Quadruple_T345_P1_ROOT_terminal_reconciliation/20261109T020951_609079Z/ROOT_RECONCILIATION.json
+SHA256 1f33a1f9a0c0127780dc849d36782d73df04f2127cdd1471c84057a1ee26aa50
+[REPRICE_SOURCE] outputs/continued_research_20261107/review/cube_Quad_remaining16_training_reprice_SOURCE_proposal/20261109T062115_625402Z/REMAINING16_AFTER_AUDITED_FIRST_PAIR_MEASURED_SCOPE_COST_PROPOSAL_NOT_ADOPTED.json
+SHA256 b45e8269c80b976dc7fa939557703729f8aff2124e68b642e97f28702316aa0c
+[D1] outputs/continued_research_20261107/current_results/20261108T180816_652947Z_plan365/DF24_SELECTED_TUPLES.csv
+SHA256 0082d0c5173ac324470a4b14c3115d7cad83568a4b5e98a3b7cab1b20e3b1754
+[D2] outputs/continued_research_20261107/current_results/20261108T180816_652947Z_plan365/QGF_FK_TASK2_AND_TASK5_SELECTED_TUPLES.csv
+SHA256 cb06b1d45846e1cfc03d1db7eed4aae0ec75a0f38780c66468db85a692f3dac3
+[D3] outputs/continued_research_20261107/current_results/20261108T180816_652947Z_plan365/TASK2_PRIMARY_SUCCESS_OVERVIEW.csv
+SHA256 ada30ac9e1c6857832faca2b0368b6c11d339d79a71a797d20babe1adbaf1f69
+[D4] outputs/continued_research_20261107/current_results/20261108T180816_652947Z_plan365/DF72_LITERAL_FRESH40_ALTERNATIVES.csv
+SHA256 3375d4782eaeb202bbd92e0f5d9e1a5ce7f10f2a17be9b7bb0dd30fbe5f0ccd8
+[D5] outputs/continued_research_20261107/current_results/20261108T180816_652947Z_plan365/DF_ALL27720_TRAIN_SCORE_ROWS.csv
+SHA256 f9a96b68e3126176c74e7a9c4dce4be883d9a56bd6e1af57750ebf69fc845120
+[D6] outputs/continued_research_20261107/current_results/20261108T180816_652947Z_plan365/QGF_ALL648_TASK2_TASK5_FULL27KAPPA_X4M_X3MODELS.csv
+SHA256 de8d1c8a88462ab8e90d81ab438fca8b81904fa3a36af5ca2b3892957aa909cb
+[D7] outputs/continued_research_20261107/current_results/20261108T180816_652947Z_plan365/FK_ALL2160_TRAIN_SCORE_ROWS_FULL720_PER_MODEL.csv
+SHA256 f4f8cf8878266dd82ae00577f4b74970103a4120f1b8c06ef5f36b8cdfcc6547
+[QGF_SWEEP_MANIFEST] outputs/continued_research_20261107/qgf_task2_full_sweep_view/20261109T052157_908778Z/MANIFEST.json
+SHA256 5c6743321890155da9119a379d08e3fbbc393f3b75ad2938c7445cb0fdcd1ee3
+[QGF_SWEEP_QA] outputs/continued_research_20261107/qgf_task2_full_sweep_view/20261109T052157_908778Z/INDEPENDENT_SAVED_TABLE_VIEW_QA.json
+SHA256 5ea0172cfb4d8a2dbbc7a0327609bc81ba10f01c9d8e25899abfd696910f3f91
+[Q1] outputs/continued_research_20261107/qgf_task2_full_sweep_view/20261109T052157_908778Z/TASK2_QGF_ALL324_VALIDATION_CONFIGURATIONS.csv
+SHA256 956453f7a2bcd6ffd5187712fa8ec915fc76927e2911219b7af6f2370d5930c9
+[Q2] outputs/continued_research_20261107/qgf_task2_full_sweep_view/20261109T052157_908778Z/TASK2_QGF_ALL9_FRESH40_CONFIRMATION_ALTERNATIVES.csv
+SHA256 64b22aadbf1ab5b4a2a3c33eabcc0e03c05d2938463adfc9e495f355bd0d4de1
+
+CANONICAL PAYLOAD REFERENCES ONLY (not accessed or embedded)
+BC_COMPLETE50000: outputs/continued_research_20261107/cube_quadruple_tasks345_fresh_BC_QV50000_20261109/lineages/goal3_seed11/BC/attempts/Quad-goal3-seed11-fresh-BC50000-9c4bee397b594d1da9208990968f271a/STAGES/goal3_seed11_BC/checkpoints/Quad-goal3-seed11-fresh-BC50000-9c4bee397b594d1da9208990968f271a-50000-durable_fullstate/FULL_STATE.msgpack
+SHA256 247783361b8888a6df934843b4ccc92785dda7146a3671233de9fcab59e3dad0
+QV_FAILED_ORIGINAL_DURABLE15000: outputs/continued_research_20261107/cube_quadruple_tasks345_fresh_BC_QV50000_20261109/lineages/goal3_seed11/QV/attempts/Quad-goal3-seed11-BC-parent-QV50000-ea9c4ec0704e497b81aaf53387691e7e/STAGES/goal3_seed11_QV/checkpoints/Quad-goal3-seed11-BC-parent-QV50000-ea9c4ec0704e497b81aaf53387691e7e-15000-durable_fullstate/FULL_STATE.msgpack
+SHA256 d042ae4c5c095356b1727670fc689b1060cbc1f2eb9f5e0403a6c01ac6e43595
+QV_RESUMED_COMPLETE50000: outputs/continued_research_20261107/cube_quadruple_goal3_seed11_QV15000_to50000_resume_20261109/lineages/goal3_seed11/QV/attempts/Quad-goal3-seed11-QV15000-resume35000-d678db74b35c43a3a400d87f7d6e05ca/STAGES/goal3_seed11_QV/checkpoints/Quad-goal3-seed11-QV15000-resume35000-d678db74b35c43a3a400d87f7d6e05ca-50000-durable_fullstate/FULL_STATE.msgpack
+SHA256 33bf6e496d84f68433829a623d2cf06d6c781c9a3c8b666ee41b375a915eb5e1

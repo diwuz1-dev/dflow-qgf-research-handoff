@@ -1,0 +1,36 @@
+{
+  "ROOT_plan_owner_calendar_roles_remote_mutations": 0,
+  "actual_PS_flock_disk_probes": 0,
+  "actual_activity": [
+    "Read/hash4619UTF8TEXT/current12sourcecopies; verify261preservedcandidate/peerhistoryfiles",
+    "Reconstructsingle-sitefulltext/ASTinverseandsameSAFEbody; verifyother11wholebytesandupdatedlegacyinverses/sixcallbacks",
+    "Independentlyevaluate15PurePosixPath-onlymetadata/restore/writeboundarycases; verify300oldliteralfixturebytesunchanged",
+    "CheckROOTandall6ACKtemplatesupdatedcurrentdesign/sourcehashesandunauthorized,13futureparentrolesNULL"
+  ],
+  "limits": [
+    "Metadata-pathcorrectiononly;originalall53opaque/currentparent/runtimedataunobserved",
+    "Noactualcompleteparent/calendar/helper/ROOTadmissionorperformancequalification;futuretypedpacketcompatibility/currentPSlocksbudgetchecksremainrequired"
+  ],
+  "model_array_NumPy_JAX_native_RNG_runtime": 0,
+  "opaque_stat_SHA_header_payload_decode_copy": 0,
+  "original_OPS_review": {
+    "path": "outputs/continued_research_20261107/review/cube_quadruple_goal3_seed11_C0_three_context_ops/REVIEW.json",
+    "sha256": "ee3e77ff8293776678c9fc3764747a34c9774130beb11adadd93eb295b7e5208"
+  },
+  "proofs": {
+    "path": "outputs/continued_research_20261107/review/cube_quadruple_goal3_seed11_C0_three_context_corrected_ops/INDEPENDENT_CORRECTED_BOUNDARY_SOURCE_AND_PATH_PROOFS.json",
+    "sha256": "9ac2e9ce7ea42b3adb16d7ed09b622614209156b2b2d2de1ceff485d878e7e52"
+  },
+  "review_utility": {
+    "path": "work/continued_research_20261107/analysis/review_Quad_C0_corrected_metadata_boundary_OPS_20261109.py",
+    "sha256": "c229dcfa3adea09329bff2e5c2fdaf62e40434b7c59ce7ccb420a0a052e087fa"
+  },
+  "reviewer": "/root/explain_robot_limits",
+  "reviewer_history": "Initial OPS ee3e missed that safe(directory,external_context_base) needs final restore whitelist before it exists. SCI453889 proved the first-context source rejection. Old OPS/source/PREP/findings preserved, no target execution. This fresh review verifies one metadata-site correction with immediate exact context-base containment; it does not retroactively qualify the original candidate.",
+  "reviewer_preoutput_tooling_history": {
+    "path": "outputs/continued_research_20261107/review/cube_quadruple_goal3_seed11_C0_three_context_corrected_ops/REVIEWER_PREOUTPUT_MANIFEST_LABEL_HISTORY.json",
+    "sha256": "9d8f0fdecb67e54b83a168d27eed7f6c61cc3d5a061a48efcef20f3acc544d8a"
+  },
+  "status": "REQUIRED_SOURCE_AST_JSON_PATH_ONLY",
+  "target_import_compile_execute": 0
+}

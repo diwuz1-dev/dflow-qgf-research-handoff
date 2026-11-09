@@ -1,0 +1,95 @@
+{
+  "different_settings_not_Qavg_causality_or_DF_win": true,
+  "header": [
+    "Condition",
+    "lambda",
+    "seed11",
+    "seed23",
+    "seed37"
+  ],
+  "rows": [
+    [
+      "Regular / raw Q",
+      "0",
+      "35/40",
+      "40/40",
+      "37/40"
+    ],
+    [
+      "Regular / raw Q",
+      "1",
+      "28/40",
+      "40/40",
+      "40/40"
+    ],
+    [
+      "Stochastic / raw Q",
+      "0",
+      "40/40",
+      "40/40",
+      "39/40"
+    ],
+    [
+      "Stochastic / raw Q",
+      "1",
+      "37/40",
+      "40/40",
+      "40/40"
+    ],
+    [
+      "Regular / averaged Q",
+      "0",
+      "38/40",
+      "40/40",
+      "37/40"
+    ],
+    [
+      "Regular / averaged Q",
+      "1",
+      "25/40",
+      "40/40",
+      "40/40"
+    ],
+    [
+      "Stochastic / averaged Q",
+      "0",
+      "40/40",
+      "40/40",
+      "40/40"
+    ],
+    [
+      "Stochastic / averaged Q",
+      "1",
+      "35/40",
+      "40/40",
+      "40/40"
+    ],
+    [
+      "Original QGF",
+      "-",
+      "40/40",
+      "40/40",
+      "40/40"
+    ],
+    [
+      "Original FK",
+      "-",
+      "40/40",
+      "40/40",
+      "40/40"
+    ],
+    [
+      "Original IPG",
+      "-",
+      "Unqualified",
+      "Unqualified",
+      "Unqualified"
+    ]
+  ],
+  "selected_tuple_sources": [
+    "D1",
+    "D2"
+  ],
+  "source_overview": "D3",
+  "status": "HISTORICAL_PRIMARY_NOT_HELDOUT_OR_MATCHED_PARAMETER_CAUSAL_COMPARISON"
+}

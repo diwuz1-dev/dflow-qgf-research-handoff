@@ -1,0 +1,68 @@
+{
+  "M_grid": [
+    8,
+    16,
+    32,
+    64
+  ],
+  "UTC": "2026-11-09T05:21:57.908778+00:00",
+  "files": {
+    "TASK2_QGF_ALL324_VALIDATION_CONFIGURATIONS.csv": "956453f7a2bcd6ffd5187712fa8ec915fc76927e2911219b7af6f2370d5930c9",
+    "TASK2_QGF_ALL9_FRESH40_CONFIRMATION_ALTERNATIVES.csv": "64b22aadbf1ab5b4a2a3c33eabcc0e03c05d2938463adfc9e495f355bd0d4de1",
+    "TASK2_QGF_FULL_SWEEP.png": "46609d927e34d8b4ecd5adddb4151acbf42ee92f665ba705ba53a1ec91589c83",
+    "TASK2_QGF_FULL_SWEEP.svg": "d1f002bcd1926521087ebcd286c3c62a52a89390a32b634efdbca5de850fe362",
+    "TASK2_QGF_SWEEP_108_ROWS_ALL3_SEEDS.csv": "d0e2eb474f7a735fb780dabf87c3795c3feb8bbc1d2d349c45c9dc5025e0991a"
+  },
+  "fresh_confirmation_alternatives": 9,
+  "inherited_M8_reference_episodes": 1620,
+  "kappa_grid": [
+    0.0,
+    0.02,
+    0.04,
+    0.08,
+    0.1,
+    0.2,
+    0.4,
+    0.8,
+    1.0,
+    2.0,
+    3.0,
+    5.0,
+    8.0,
+    12.0,
+    16.0,
+    20.0,
+    24.0,
+    32.0,
+    40.0,
+    48.0,
+    64.0,
+    80.0,
+    96.0,
+    128.0,
+    160.0,
+    256.0,
+    320.0
+  ],
+  "new_joint_scan_episodes": 4860,
+  "new_model_sampler_native_queries": 0,
+  "not_heldout": true,
+  "represented_fresh_confirmation_episodes": 360,
+  "represented_validation_episodes": 6480,
+  "source_confirmation_csv": {
+    "path": "outputs/continued_research_20261107/current_results/20261108T180816_652947Z_plan365/QGF_TASK2_TASK5_ALL18_LITERAL_FRESH40_ALTERNATIVES.csv",
+    "sha256": "79b1b5c443c2049043cd85dfa3eb8b60b93f885f273725c67fdfcbcd2045b1f5"
+  },
+  "source_csv": {
+    "path": "outputs/continued_research_20261107/current_results/20261108T180816_652947Z_plan365/QGF_ALL648_TASK2_TASK5_FULL27KAPPA_X4M_X3MODELS.csv",
+    "sha256": "de8d1c8a88462ab8e90d81ab438fca8b81904fa3a36af5ca2b3892957aa909cb"
+  },
+  "source_snapshot": "Immutable plan365 Task2 data; excludes later Quadruple studies.",
+  "status": "READONLY_SAVED_RESULT_VIEW_NO_NEW_SCIENTIFIC_EXECUTIONS",
+  "training_seeds": [
+    11,
+    23,
+    37
+  ],
+  "validation_unique_configs": 324
+}

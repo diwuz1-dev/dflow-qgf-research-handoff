@@ -1,0 +1,53 @@
+{
+  "GitHub_network_remote_publication": 0,
+  "NumPy_JAX_model_array_RNG_native_scientific_queries": 0,
+  "PDF": {
+    "bytes": 14010,
+    "path": "outputs/continued_research_20261107/progress_snapshots/20261109T063132_890503Z_plan457_Quad_first_pair/PARTIAL_PLAN457_QUAD_FIRST_TRAINING_PAIR.pdf",
+    "sha256": "d6309d23aed4a06a2a776e5cb84dfba90036d683a2e5f63edeadd97a5147db0c"
+  },
+  "ROOT_plan_owner_roles_keys_caps_mutations": 0,
+  "Root_independent_everypage_content_review": "PENDING_SEPARATE_ROOT_ACTION",
+  "TXT": {
+    "bytes": 19071,
+    "path": "outputs/continued_research_20261107/progress_snapshots/20261109T063132_890503Z_plan457_Quad_first_pair/PARTIAL_PLAN457_QUAD_FIRST_TRAINING_PAIR.txt",
+    "sha256": "3f4353767769655db9a67221636867868f99f6d9f5d0c59a50ec5bdb38d823ee"
+  },
+  "UTC": "2026-11-09T06:33:29.567307+00:00",
+  "ZIP_created": false,
+  "actual_PDF_render_commands": 1,
+  "actual_author_page_image_views": 4,
+  "actual_generation_commands": 1,
+  "actual_pdfinfo_commands": 1,
+  "author": "/root/explain_robot_limits",
+  "author_utility": {
+    "path": "work/continued_research_20261107/analysis/create_plan457_Quad_first_pair_PARTIAL_pdf_20261109.py",
+    "sha256": "557618bb53102e1bb85ae14203393657912b4b57e198dc4861e146c1d0f7741b"
+  },
+  "bundled_runtime": "26.1103.20233 bundled Python/ReportLab/pypdf and Poppler; no installation",
+  "fixed_plan_revision": 457,
+  "no_study_completion_algorithm_performance_or_Qtruth_claim": true,
+  "operation_marker": {
+    "expected_output_count": 1,
+    "immediately_before_document_author_command": true,
+    "operation_kind": "create",
+    "output_format": "pdf",
+    "successful_invocations": 1
+  },
+  "reference_bundle_not_full_portable_backup": true,
+  "rendered_all4_pages_at_dpi": 135,
+  "renderer_exit_code": 0,
+  "renderer_stderr_preserved_scope": "Fontconfig error: Cannot load default config file: File not found. Poppler completed all4 pages; actual inspection found no missing glyph or layout defect.",
+  "saved_content_checks": [
+    "Bind BC d82d+7d3e/root442c957, failedQV406bc+27fc/root447013b, resumefffb+c010+246d/root4565ca3 before completion counts.",
+    "Bind schema companionc30a/a5af as metadata compatibility with0newscientific checks; source C0e2d263/cc383 SCIe737 OPSf5a0/root45772843 remains SOURCE-only UNRUN.",
+    "Join all24 DF selected scalar CSV rows with STATUS/old365overview; QGF/FK6 selected rows each40/40. No reselecting settings or new evaluation.",
+    "Preserve all9 goal-seed lineages and800000 remaining target; all Quad native rates UNRUN not zero success.",
+    "Check39 source/CSV pins at author generation;36 report copies rehashed after rendering. Fixed snapshot copies authoritative; no claim mutable live status remains unchanged later.",
+    "PDF exactly4 pages, every page actually viewed by author; old reports/public archives unchanged."
+  ],
+  "scientific_opaque_stat_hash_header_payload_decode_copy": 0,
+  "scientific_payloads_referenced_from_audits_not_rehashed_or_embedded": 3,
+  "status": "REQUIRED_AUTHOR_ACTIVITY_NOT_INDEPENDENT_REVIEW",
+  "target_guard_helper_preparer_or_scientific_module_import_compile_execute": 0
+}

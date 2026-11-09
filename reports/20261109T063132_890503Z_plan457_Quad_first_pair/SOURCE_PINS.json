@@ -1,0 +1,320 @@
+{
+  "author_utility": {
+    "path": "work/continued_research_20261107/analysis/create_plan457_Quad_first_pair_PARTIAL_pdf_20261109.py",
+    "sha256": "557618bb53102e1bb85ae14203393657912b4b57e198dc4861e146c1d0f7741b"
+  },
+  "no_opaque_file_access_or_scientific_replay": true,
+  "pins": [
+    {
+      "bytes": 887634,
+      "kind": "UTF8_SOURCE_OR_SAVED_SCALAR_METADATA",
+      "label": "PLAN457",
+      "path": "outputs/continued_research_20261107/review/cube_Quad_remaining16_training_reprice_SOURCE_proposal/20261109T062115_625402Z/CAPTURED_PLAN_METADATA.json",
+      "report_copy": "outputs/continued_research_20261107/progress_snapshots/20261109T063132_890503Z_plan457_Quad_first_pair/evidence/PLAN457__CAPTURED_PLAN_METADATA.json",
+      "sha256": "d98eabf84ba82d8da419ff6d2d2bba8b04e2b08f8bb1ba5a1d648e8bdc48b279"
+    },
+    {
+      "bytes": 187,
+      "kind": "UTF8_SOURCE_OR_SAVED_SCALAR_METADATA",
+      "label": "OWNER457",
+      "path": "outputs/continued_research_20261107/review/cube_Quad_remaining16_training_reprice_SOURCE_proposal/20261109T062115_625402Z/CAPTURED_OWNER_METADATA.json",
+      "report_copy": "outputs/continued_research_20261107/progress_snapshots/20261109T063132_890503Z_plan457_Quad_first_pair/evidence/OWNER457__CAPTURED_OWNER_METADATA.json",
+      "sha256": "644e64093d5fc000a36a0c906a2e576b59f825907662c30bd5a474512cce0e58"
+    },
+    {
+      "bytes": 18137,
+      "kind": "UTF8_SOURCE_OR_SAVED_SCALAR_METADATA",
+      "label": "STATUS457",
+      "path": "outputs/continued_research_20261107/STATUS.txt",
+      "report_copy": "outputs/continued_research_20261107/progress_snapshots/20261109T063132_890503Z_plan457_Quad_first_pair/evidence/STATUS457__STATUS.txt",
+      "sha256": "c117ada04463bf5b1deca76b93ef47abb7b75217db4c4800359b160cffddb8c6"
+    },
+    {
+      "bytes": 4425,
+      "kind": "UTF8_SOURCE_OR_SAVED_SCALAR_METADATA",
+      "label": "BC_AUDIT",
+      "path": "outputs/continued_research_20261107/review/cube_Quadruple_goal3_seed11_BC50000_completed_independent/20261109T035449_635187Z/REVIEW.json",
+      "report_copy": "outputs/continued_research_20261107/progress_snapshots/20261109T063132_890503Z_plan457_Quad_first_pair/evidence/BC_AUDIT__REVIEW.json",
+      "sha256": "d82d4bf4d7ae891fd1c1b53093a760c1ad09cb8d4b4b1f8c191637053156b724"
+    },
+    {
+      "bytes": 3797,
+      "kind": "UTF8_SOURCE_OR_SAVED_SCALAR_METADATA",
+      "label": "OLD_QV_AUDIT",
+      "path": "outputs/continued_research_20261107/review/cube_Quadruple_goal3_seed11_QV50000_partial_failed_independent/20261109T042726_189284Z/REVIEW.json",
+      "report_copy": "outputs/continued_research_20261107/progress_snapshots/20261109T063132_890503Z_plan457_Quad_first_pair/evidence/OLD_QV_AUDIT__REVIEW.json",
+      "sha256": "406bc9223442d9cade2265fd834186c03eb9797f7ff9acb6a2ba82b5e083aa79"
+    },
+    {
+      "bytes": 116590,
+      "kind": "UTF8_SOURCE_OR_SAVED_SCALAR_METADATA",
+      "label": "RESUME_AUDIT",
+      "path": "outputs/continued_research_20261107/review/cube_Quad_QV15000_resume_terminal_independent/20261109T060731_929949Z/REVIEW.json",
+      "report_copy": "outputs/continued_research_20261107/progress_snapshots/20261109T063132_890503Z_plan457_Quad_first_pair/evidence/RESUME_AUDIT__REVIEW.json",
+      "sha256": "fffb8d2c946f865c78080a2b3a44241b580e0922c188db60958e7da5f92a1aff"
+    },
+    {
+      "bytes": 1315,
+      "kind": "UTF8_SOURCE_OR_SAVED_SCALAR_METADATA",
+      "label": "BC_SCOPE",
+      "path": "outputs/continued_research_20261107/review/cube_Quadruple_goal3_seed11_BC50000_completed_independent/20261109T035449_635187Z/REQUIRED_INDEPENDENT_ACTIVITY_AND_SCOPE.json",
+      "report_copy": "outputs/continued_research_20261107/progress_snapshots/20261109T063132_890503Z_plan457_Quad_first_pair/evidence/BC_SCOPE__REQUIRED_INDEPENDENT_ACTIVITY_AND_SCOPE.json",
+      "sha256": "7d3e97c0454f5695180f69affd911a34b4581b38c40e0ebdc497fd52514b8be4"
+    },
+    {
+      "bytes": 1231,
+      "kind": "UTF8_SOURCE_OR_SAVED_SCALAR_METADATA",
+      "label": "OLD_QV_SCOPE",
+      "path": "outputs/continued_research_20261107/review/cube_Quadruple_goal3_seed11_QV50000_partial_failed_independent/20261109T042726_189284Z/REQUIRED_INDEPENDENT_ACTIVITY_AND_SCOPE.json",
+      "report_copy": "outputs/continued_research_20261107/progress_snapshots/20261109T063132_890503Z_plan457_Quad_first_pair/evidence/OLD_QV_SCOPE__REQUIRED_INDEPENDENT_ACTIVITY_AND_SCOPE.json",
+      "sha256": "27fc68db6b509db53148ef8136659e3c5d81eee1795d490370b8fa1c1b6d5dd4"
+    },
+    {
+      "bytes": 1614,
+      "kind": "UTF8_SOURCE_OR_SAVED_SCALAR_METADATA",
+      "label": "RESUME_SCOPE",
+      "path": "outputs/continued_research_20261107/review/cube_Quad_QV15000_resume_terminal_independent/20261109T060731_929949Z/REQUIRED_INDEPENDENT_ACTIVITY_AND_SCOPE.json",
+      "report_copy": "outputs/continued_research_20261107/progress_snapshots/20261109T063132_890503Z_plan457_Quad_first_pair/evidence/RESUME_SCOPE__REQUIRED_INDEPENDENT_ACTIVITY_AND_SCOPE.json",
+      "sha256": "c010520a3abe9969e2c0d633cac9eb29d1a1adeb98cd6b6e21f257f4bf3a2900"
+    },
+    {
+      "bytes": 2096,
+      "kind": "UTF8_SOURCE_OR_SAVED_SCALAR_METADATA",
+      "label": "RESUME_PROOF_PARTITION",
+      "path": "outputs/continued_research_20261107/review/cube_Quad_QV15000_resume_terminal_independent/20261109T060731_929949Z/SAVED_STOP_OBSERVER_AND_PROOF_PARTITION_ADDENDUM.json",
+      "report_copy": "outputs/continued_research_20261107/progress_snapshots/20261109T063132_890503Z_plan457_Quad_first_pair/evidence/RESUME_PROOF_PARTITION__SAVED_STOP_OBSERVER_AND_PROOF_PARTITION_ADDENDUM.json",
+      "sha256": "246d4b42caafd47a2c40892f871bb75cbb13025aee0c255cdb1a72d8546e6338"
+    },
+    {
+      "bytes": 5262,
+      "kind": "UTF8_SOURCE_OR_SAVED_SCALAR_METADATA",
+      "label": "ROOT442",
+      "path": "outputs/continued_research_20261107/review/cube_Quad_goal3_seed11_BC50000_ROOT_terminal_reconciliation/20261109T035832_765977Z/ROOT_RECONCILIATION.json",
+      "report_copy": "outputs/continued_research_20261107/progress_snapshots/20261109T063132_890503Z_plan457_Quad_first_pair/evidence/ROOT442__ROOT_RECONCILIATION.json",
+      "sha256": "c9576084e292bb3fa85688ccd7dd721bcd837259dee3dbe04b8209aab6d8929a"
+    },
+    {
+      "bytes": 6373,
+      "kind": "UTF8_SOURCE_OR_SAVED_SCALAR_METADATA",
+      "label": "ROOT447",
+      "path": "outputs/continued_research_20261107/review/cube_Quad_goal3_seed11_QV50000_ROOT_failed_partial_reconciliation/20261109T043143_323486Z/ROOT_RECONCILIATION.json",
+      "report_copy": "outputs/continued_research_20261107/progress_snapshots/20261109T063132_890503Z_plan457_Quad_first_pair/evidence/ROOT447__ROOT_RECONCILIATION.json",
+      "sha256": "013b525aa89f85fe23217b1d71148b0c29ab4975de4935f4b6899f81b329c5af"
+    },
+    {
+      "bytes": 8044,
+      "kind": "UTF8_SOURCE_OR_SAVED_SCALAR_METADATA",
+      "label": "ROOT456",
+      "path": "outputs/continued_research_20261107/review/cube_Quad_QV15000_resume_ROOT_terminal_reconciliation/20261109T061034_207865Z/ROOT_RECONCILIATION.json",
+      "report_copy": "outputs/continued_research_20261107/progress_snapshots/20261109T063132_890503Z_plan457_Quad_first_pair/evidence/ROOT456__ROOT_RECONCILIATION.json",
+      "sha256": "5ca3c57ae2bdb64609d7fae1952e2e7f9523eda56f814f003a838f4c11777d26"
+    },
+    {
+      "bytes": 6813,
+      "kind": "UTF8_SOURCE_OR_SAVED_SCALAR_METADATA",
+      "label": "C0_SCHEMA_COMPANION",
+      "path": "outputs/continued_research_20261107/review/cube_Quad_QV15000_resume_terminal_independent/20261109T060731_929949Z/C0_PARENT_COMPATIBLE_TERMINAL_REVIEW.json",
+      "report_copy": "outputs/continued_research_20261107/progress_snapshots/20261109T063132_890503Z_plan457_Quad_first_pair/evidence/C0_SCHEMA_COMPANION__C0_PARENT_COMPATIBLE_TERMINAL_REVIEW.json",
+      "sha256": "c30a2374162cbb84ac09230c9744adb991d4c38ed25cca70081d7c201ea75066"
+    },
+    {
+      "bytes": 2147,
+      "kind": "UTF8_SOURCE_OR_SAVED_SCALAR_METADATA",
+      "label": "C0_SCHEMA_SCOPE",
+      "path": "outputs/continued_research_20261107/review/cube_Quad_QV15000_resume_terminal_independent/20261109T060731_929949Z/C0_PARENT_COMPATIBLE_TERMINAL_ACTIVITY_AND_SCOPE.json",
+      "report_copy": "outputs/continued_research_20261107/progress_snapshots/20261109T063132_890503Z_plan457_Quad_first_pair/evidence/C0_SCHEMA_SCOPE__C0_PARENT_COMPATIBLE_TERMINAL_ACTIVITY_AND_SCOPE.json",
+      "sha256": "a5af163de55687e9812ed812679d74a7c23980b66d2365c791802ee007a70e2c"
+    },
+    {
+      "bytes": 29947,
+      "kind": "UTF8_SOURCE_OR_SAVED_SCALAR_METADATA",
+      "label": "ROOT457_C0_SOURCE",
+      "path": "outputs/continued_research_20261107/review/cube_Quad_C0_three_context_ROOT_executor_calendar_adoption/20261109T061246_086394Z/ROOT_SOURCE_CALENDAR_ACCEPTANCE_AND_DRY_FIRST_HELPER_AUTHORITY_NO_RUNTIME.json",
+      "report_copy": "outputs/continued_research_20261107/progress_snapshots/20261109T063132_890503Z_plan457_Quad_first_pair/evidence/ROOT457_C0_SOURCE__ROOT_SOURCE_CALENDAR_ACCEPTANCE_AND_DRY_FIRST_HELPER_AUTHORITY_NO_RUNTIME.json",
+      "sha256": "72843da94a5c18cc8977fe9bfa47ce81ed714520f10155cf161bccca74d4887a"
+    },
+    {
+      "bytes": 5175,
+      "kind": "UTF8_SOURCE_OR_SAVED_SCALAR_METADATA",
+      "label": "C0_SCI",
+      "path": "outputs/continued_research_20261107/review/cube_quadruple_goal3_seed11_C0_three_context_math/corrected_20261109T060706_090041Z/REVIEW.json",
+      "report_copy": "outputs/continued_research_20261107/progress_snapshots/20261109T063132_890503Z_plan457_Quad_first_pair/evidence/C0_SCI__REVIEW.json",
+      "sha256": "e737870e7ad4e52a669ee3ef7d043d1da789eb4a06513bc608e81fd71aa12a43"
+    },
+    {
+      "bytes": 5471,
+      "kind": "UTF8_SOURCE_OR_SAVED_SCALAR_METADATA",
+      "label": "C0_OPS",
+      "path": "outputs/continued_research_20261107/review/cube_quadruple_goal3_seed11_C0_three_context_corrected_ops/REVIEW.json",
+      "report_copy": "outputs/continued_research_20261107/progress_snapshots/20261109T063132_890503Z_plan457_Quad_first_pair/evidence/C0_OPS__REVIEW.json",
+      "sha256": "f5a00c7a4c4dd7c3bdcea5cff459882b814a54920bd21cee5eeddee12e8bf23d"
+    },
+    {
+      "bytes": 1097,
+      "kind": "UTF8_SOURCE_OR_SAVED_SCALAR_METADATA",
+      "label": "C0_SCI_SCOPE",
+      "path": "outputs/continued_research_20261107/review/cube_quadruple_goal3_seed11_C0_three_context_math/corrected_20261109T060706_090041Z/REQUIRED_INDEPENDENT_SCI_ACTIVITY_AND_LIMITS.json",
+      "report_copy": "outputs/continued_research_20261107/progress_snapshots/20261109T063132_890503Z_plan457_Quad_first_pair/evidence/C0_SCI_SCOPE__REQUIRED_INDEPENDENT_SCI_ACTIVITY_AND_LIMITS.json",
+      "sha256": "ce5b7280e9b5ace835839032d343927ba07f0e2a82469b04071a1e59ace1f420"
+    },
+    {
+      "bytes": 2517,
+      "kind": "UTF8_SOURCE_OR_SAVED_SCALAR_METADATA",
+      "label": "C0_OPS_SCOPE",
+      "path": "outputs/continued_research_20261107/review/cube_quadruple_goal3_seed11_C0_three_context_corrected_ops/REQUIRED_INDEPENDENT_CORRECTED_SOURCE_ACTIVITY_AND_REVIEWER_HISTORY.json",
+      "report_copy": "outputs/continued_research_20261107/progress_snapshots/20261109T063132_890503Z_plan457_Quad_first_pair/evidence/C0_OPS_SCOPE__REQUIRED_INDEPENDENT_CORRECTED_SOURCE_ACTIVITY_AND_REVIEWER_HISTORY.json",
+      "sha256": "3b7d463bab5eb404c013c6b934038028f7ea8cce4682e21906008b81fe0ff302"
+    },
+    {
+      "bytes": 761564,
+      "kind": "UTF8_SOURCE_OR_SAVED_SCALAR_METADATA",
+      "label": "FULLTRAIN_SOURCE_DESIGN",
+      "path": "outputs/continued_research_20261107/cube_quadruple_tasks345_fresh_BC_QV50000_20261109/preparation/DESIGN.json",
+      "report_copy": "outputs/continued_research_20261107/progress_snapshots/20261109T063132_890503Z_plan457_Quad_first_pair/evidence/FULLTRAIN_SOURCE_DESIGN__DESIGN.json",
+      "sha256": "d01a0dcee6dcd0cdb76548f034c47834bd2b0c3bc1b8bd01195c1a53bafff49b"
+    },
+    {
+      "bytes": 2596,
+      "kind": "UTF8_SOURCE_OR_SAVED_SCALAR_METADATA",
+      "label": "FULLTRAIN_SOURCE_PREP",
+      "path": "outputs/continued_research_20261107/cube_quadruple_tasks345_fresh_BC_QV50000_20261109/preparation/PREPARATION.json",
+      "report_copy": "outputs/continued_research_20261107/progress_snapshots/20261109T063132_890503Z_plan457_Quad_first_pair/evidence/FULLTRAIN_SOURCE_PREP__PREPARATION.json",
+      "sha256": "0211602444b94f06626e9189c7a1605b0c8ec80e6ca293ea810227739b68cd42"
+    },
+    {
+      "bytes": 1563435,
+      "kind": "UTF8_SOURCE_OR_SAVED_SCALAR_METADATA",
+      "label": "RESUME_SOURCE_DESIGN",
+      "path": "outputs/continued_research_20261107/cube_quadruple_goal3_seed11_QV15000_to50000_resume_20261109/preparation/DESIGN.json",
+      "report_copy": "outputs/continued_research_20261107/progress_snapshots/20261109T063132_890503Z_plan457_Quad_first_pair/evidence/RESUME_SOURCE_DESIGN__DESIGN.json",
+      "sha256": "26ae9bb6fc8e6b42420b04146344697b57efc5d696be584db32ae12976a04b27"
+    },
+    {
+      "bytes": 5567,
+      "kind": "UTF8_SOURCE_OR_SAVED_SCALAR_METADATA",
+      "label": "RESUME_SOURCE_PREP",
+      "path": "outputs/continued_research_20261107/cube_quadruple_goal3_seed11_QV15000_to50000_resume_20261109/preparation/PREPARATION.json",
+      "report_copy": "outputs/continued_research_20261107/progress_snapshots/20261109T063132_890503Z_plan457_Quad_first_pair/evidence/RESUME_SOURCE_PREP__PREPARATION.json",
+      "sha256": "47380cd69709185180aa9cde05ef614f6590599a30fff225fe92bd51a4f65556"
+    },
+    {
+      "bytes": 2607488,
+      "kind": "UTF8_SOURCE_OR_SAVED_SCALAR_METADATA",
+      "label": "C0_SOURCE_DESIGN",
+      "path": "outputs/continued_research_20261107/cube_quadruple_goal3_seed11_C0_three_context_frozen55_callbacks_20261109/preparation/DESIGN.json",
+      "report_copy": "outputs/continued_research_20261107/progress_snapshots/20261109T063132_890503Z_plan457_Quad_first_pair/evidence/C0_SOURCE_DESIGN__DESIGN.json",
+      "sha256": "e2d263fa942f00adf8e967c3b5cef660aefb4ca6cba7672b572ed4d696cf5351"
+    },
+    {
+      "bytes": 5822,
+      "kind": "UTF8_SOURCE_OR_SAVED_SCALAR_METADATA",
+      "label": "C0_SOURCE_PREP",
+      "path": "outputs/continued_research_20261107/cube_quadruple_goal3_seed11_C0_three_context_frozen55_callbacks_20261109/preparation/PREPARATION.json",
+      "report_copy": "outputs/continued_research_20261107/progress_snapshots/20261109T063132_890503Z_plan457_Quad_first_pair/evidence/C0_SOURCE_PREP__PREPARATION.json",
+      "sha256": "cc38380e8bed40a777fe6611f170f7c9687b486bb3e9fc2c86104fbf8e46dec3"
+    },
+    {
+      "bytes": 6888,
+      "kind": "UTF8_SOURCE_OR_SAVED_SCALAR_METADATA",
+      "label": "P1_ROOT428",
+      "path": "outputs/continued_research_20261107/review/cube_Quadruple_T345_P1_ROOT_terminal_reconciliation/20261109T020951_609079Z/ROOT_RECONCILIATION.json",
+      "report_copy": "outputs/continued_research_20261107/progress_snapshots/20261109T063132_890503Z_plan457_Quad_first_pair/evidence/P1_ROOT428__ROOT_RECONCILIATION.json",
+      "sha256": "1f33a1f9a0c0127780dc849d36782d73df04f2127cdd1471c84057a1ee26aa50"
+    },
+    {
+      "bytes": 41087,
+      "kind": "UTF8_SOURCE_OR_SAVED_SCALAR_METADATA",
+      "label": "REPRICE_SOURCE",
+      "path": "outputs/continued_research_20261107/review/cube_Quad_remaining16_training_reprice_SOURCE_proposal/20261109T062115_625402Z/REMAINING16_AFTER_AUDITED_FIRST_PAIR_MEASURED_SCOPE_COST_PROPOSAL_NOT_ADOPTED.json",
+      "report_copy": "outputs/continued_research_20261107/progress_snapshots/20261109T063132_890503Z_plan457_Quad_first_pair/evidence/REPRICE_SOURCE__REMAINING16_AFTER_AUDITED_FIRST_PAIR_MEASURED_SCOPE_COST_PROPOSAL_NOT_ADOPTED.json",
+      "sha256": "b45e8269c80b976dc7fa939557703729f8aff2124e68b642e97f28702316aa0c"
+    },
+    {
+      "bytes": 10721,
+      "kind": "UTF8_SOURCE_OR_SAVED_SCALAR_METADATA",
+      "label": "D1",
+      "path": "outputs/continued_research_20261107/current_results/20261108T180816_652947Z_plan365/DF24_SELECTED_TUPLES.csv",
+      "report_copy": "outputs/continued_research_20261107/progress_snapshots/20261109T063132_890503Z_plan457_Quad_first_pair/evidence/D1__DF24_SELECTED_TUPLES.csv",
+      "sha256": "0082d0c5173ac324470a4b14c3115d7cad83568a4b5e98a3b7cab1b20e3b1754"
+    },
+    {
+      "bytes": 6987,
+      "kind": "UTF8_SOURCE_OR_SAVED_SCALAR_METADATA",
+      "label": "D2",
+      "path": "outputs/continued_research_20261107/current_results/20261108T180816_652947Z_plan365/QGF_FK_TASK2_AND_TASK5_SELECTED_TUPLES.csv",
+      "report_copy": "outputs/continued_research_20261107/progress_snapshots/20261109T063132_890503Z_plan457_Quad_first_pair/evidence/D2__QGF_FK_TASK2_AND_TASK5_SELECTED_TUPLES.csv",
+      "sha256": "cb06b1d45846e1cfc03d1db7eed4aae0ec75a0f38780c66468db85a692f3dac3"
+    },
+    {
+      "bytes": 878,
+      "kind": "UTF8_SOURCE_OR_SAVED_SCALAR_METADATA",
+      "label": "D3",
+      "path": "outputs/continued_research_20261107/current_results/20261108T180816_652947Z_plan365/TASK2_PRIMARY_SUCCESS_OVERVIEW.csv",
+      "report_copy": "outputs/continued_research_20261107/progress_snapshots/20261109T063132_890503Z_plan457_Quad_first_pair/evidence/D3__TASK2_PRIMARY_SUCCESS_OVERVIEW.csv",
+      "sha256": "ada30ac9e1c6857832faca2b0368b6c11d339d79a71a797d20babe1adbaf1f69"
+    },
+    {
+      "bytes": 66928,
+      "kind": "UTF8_SOURCE_OR_SAVED_SCALAR_METADATA",
+      "label": "D4",
+      "path": "outputs/continued_research_20261107/current_results/20261108T180816_652947Z_plan365/DF72_LITERAL_FRESH40_ALTERNATIVES.csv",
+      "report_copy": "outputs/continued_research_20261107/progress_snapshots/20261109T063132_890503Z_plan457_Quad_first_pair/evidence/D4__DF72_LITERAL_FRESH40_ALTERNATIVES.csv",
+      "sha256": "3375d4782eaeb202bbd92e0f5d9e1a5ce7f10f2a17be9b7bb0dd30fbe5f0ccd8"
+    },
+    {
+      "bytes": 13766671,
+      "kind": "UTF8_SOURCE_OR_SAVED_SCALAR_METADATA",
+      "label": "D5",
+      "path": "outputs/continued_research_20261107/current_results/20261108T180816_652947Z_plan365/DF_ALL27720_TRAIN_SCORE_ROWS.csv",
+      "sha256": "f9a96b68e3126176c74e7a9c4dce4be883d9a56bd6e1af57750ebf69fc845120"
+    },
+    {
+      "bytes": 5293183,
+      "kind": "UTF8_SOURCE_OR_SAVED_SCALAR_METADATA",
+      "label": "D6",
+      "path": "outputs/continued_research_20261107/current_results/20261108T180816_652947Z_plan365/QGF_ALL648_TASK2_TASK5_FULL27KAPPA_X4M_X3MODELS.csv",
+      "sha256": "de8d1c8a88462ab8e90d81ab438fca8b81904fa3a36af5ca2b3892957aa909cb"
+    },
+    {
+      "bytes": 935779,
+      "kind": "UTF8_SOURCE_OR_SAVED_SCALAR_METADATA",
+      "label": "D7",
+      "path": "outputs/continued_research_20261107/current_results/20261108T180816_652947Z_plan365/FK_ALL2160_TRAIN_SCORE_ROWS_FULL720_PER_MODEL.csv",
+      "sha256": "f4f8cf8878266dd82ae00577f4b74970103a4120f1b8c06ef5f36b8cdfcc6547"
+    },
+    {
+      "bytes": 2011,
+      "kind": "UTF8_SOURCE_OR_SAVED_SCALAR_METADATA",
+      "label": "QGF_SWEEP_MANIFEST",
+      "path": "outputs/continued_research_20261107/qgf_task2_full_sweep_view/20261109T052157_908778Z/MANIFEST.json",
+      "report_copy": "outputs/continued_research_20261107/progress_snapshots/20261109T063132_890503Z_plan457_Quad_first_pair/evidence/QGF_SWEEP_MANIFEST__MANIFEST.json",
+      "sha256": "5c6743321890155da9119a379d08e3fbbc393f3b75ad2938c7445cb0fdcd1ee3"
+    },
+    {
+      "bytes": 15523,
+      "kind": "UTF8_SOURCE_OR_SAVED_SCALAR_METADATA",
+      "label": "QGF_SWEEP_QA",
+      "path": "outputs/continued_research_20261107/qgf_task2_full_sweep_view/20261109T052157_908778Z/INDEPENDENT_SAVED_TABLE_VIEW_QA.json",
+      "report_copy": "outputs/continued_research_20261107/progress_snapshots/20261109T063132_890503Z_plan457_Quad_first_pair/evidence/QGF_SWEEP_QA__INDEPENDENT_SAVED_TABLE_VIEW_QA.json",
+      "sha256": "5ea0172cfb4d8a2dbbc7a0327609bc81ba10f01c9d8e25899abfd696910f3f91"
+    },
+    {
+      "bytes": 2606670,
+      "kind": "UTF8_SOURCE_OR_SAVED_SCALAR_METADATA",
+      "label": "Q1",
+      "path": "outputs/continued_research_20261107/qgf_task2_full_sweep_view/20261109T052157_908778Z/TASK2_QGF_ALL324_VALIDATION_CONFIGURATIONS.csv",
+      "report_copy": "outputs/continued_research_20261107/progress_snapshots/20261109T063132_890503Z_plan457_Quad_first_pair/evidence/Q1__TASK2_QGF_ALL324_VALIDATION_CONFIGURATIONS.csv",
+      "sha256": "956453f7a2bcd6ffd5187712fa8ec915fc76927e2911219b7af6f2370d5930c9"
+    },
+    {
+      "bytes": 17458,
+      "kind": "UTF8_SOURCE_OR_SAVED_SCALAR_METADATA",
+      "label": "Q2",
+      "path": "outputs/continued_research_20261107/qgf_task2_full_sweep_view/20261109T052157_908778Z/TASK2_QGF_ALL9_FRESH40_CONFIRMATION_ALTERNATIVES.csv",
+      "report_copy": "outputs/continued_research_20261107/progress_snapshots/20261109T063132_890503Z_plan457_Quad_first_pair/evidence/Q2__TASK2_QGF_ALL9_FRESH40_CONFIRMATION_ALTERNATIVES.csv",
+      "sha256": "64b22aadbf1ab5b4a2a3c33eabcc0e03c05d2938463adfc9e495f355bd0d4de1"
+    }
+  ],
+  "snapshot_plan_revision": 457,
+  "status": "SAVED_TEXT_CSV_SOURCE_PINS_FOR_FIXED_PARTIAL_CHECKPOINT"
+}

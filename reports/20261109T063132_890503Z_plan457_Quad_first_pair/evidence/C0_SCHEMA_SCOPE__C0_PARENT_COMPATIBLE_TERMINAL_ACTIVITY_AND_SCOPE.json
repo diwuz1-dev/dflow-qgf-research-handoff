@@ -1,0 +1,32 @@
+{
+  "UTC": "2026-11-09T06:10:17.981704+00:00",
+  "status": "REQUIRED_METADATA_SCHEMA_COMPATIBILITY_ACTIVITY_AND_SCOPE",
+  "reviewer": "/root/q_scale_sanity",
+  "activity": "Read and SHA-256 checked only the three named saved JSON audit records; copied the original observed top-level terminal fields into nested summary for the separately reviewed C0 parent contract.",
+  "original_actual_checks_retained": 502,
+  "new_scientific_or_runtime_checks": 0,
+  "new_process_lock_disk_or_opaque_stat_hash_queries": 0,
+  "target_helper_guard_preparer_worker_checkpoint_model_import_or_execution": 0,
+  "NumPy_JAX_array_model_RNG_numerical_native_environment_work": 0,
+  "checkpoint_or_array_header_decode_replay_or_reencoding": 0,
+  "ROOT_plan_owner_or_original_audit_mutations": 0,
+  "original_audit_mandatory_scope_and_addendum": {
+    "original_terminal_audit": {
+      "path": "outputs/continued_research_20261107/review/cube_Quad_QV15000_resume_terminal_independent/20261109T060731_929949Z/REVIEW.json",
+      "sha256": "fffb8d2c946f865c78080a2b3a44241b580e0922c188db60958e7da5f92a1aff"
+    },
+    "original_terminal_required_activity_and_scope": {
+      "path": "outputs/continued_research_20261107/review/cube_Quad_QV15000_resume_terminal_independent/20261109T060731_929949Z/REQUIRED_INDEPENDENT_ACTIVITY_AND_SCOPE.json",
+      "sha256": "c010520a3abe9969e2c0d633cac9eb29d1a1adeb98cd6b6e21f257f4bf3a2900"
+    },
+    "original_saved_metadata_addendum": {
+      "path": "outputs/continued_research_20261107/review/cube_Quad_QV15000_resume_terminal_independent/20261109T060731_929949Z/SAVED_STOP_OBSERVER_AND_PROOF_PARTITION_ADDENDUM.json",
+      "sha256": "246d4b42caafd47a2c40892f871bb75cbb13025aee0c255cdb1a72d8546e6338"
+    }
+  },
+  "no_expanded_proof_or_C0_runtime_authority": true,
+  "new_files_only": [
+    "outputs/continued_research_20261107/review/cube_Quad_QV15000_resume_terminal_independent/20261109T060731_929949Z/C0_PARENT_COMPATIBLE_TERMINAL_ACTIVITY_AND_SCOPE.json",
+    "outputs/continued_research_20261107/review/cube_Quad_QV15000_resume_terminal_independent/20261109T060731_929949Z/C0_PARENT_COMPATIBLE_TERMINAL_REVIEW.json"
+  ]
+}

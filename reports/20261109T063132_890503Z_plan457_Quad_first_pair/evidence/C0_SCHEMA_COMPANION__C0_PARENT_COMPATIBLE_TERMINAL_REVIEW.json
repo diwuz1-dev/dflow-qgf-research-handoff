@@ -1,0 +1,90 @@
+{
+  "goal_id": 3,
+  "training_seed": 11,
+  "training_stage": "QV",
+  "effective_frontier": 50000,
+  "design_sha256": "26ae9bb6fc8e6b42420b04146344697b57efc5d696be584db32ae12976a04b27",
+  "source_sha256": {
+    "work/continued_research_20261107/cube_quadruple_goal3_seed11_QV15000_to50000_resume_20261109/canonical_codec.py": "808f454e01d512c448888cb7d4a666f1bc1e1b133b3a7510bae5c1fffedca8a1",
+    "work/continued_research_20261107/cube_quadruple_goal3_seed11_QV15000_to50000_resume_20261109/checkpoint.py": "bb813e9e0e9677c141f41d0cb01bede0aa18011afe6e8128ac2b983b34e1f4d7",
+    "work/continued_research_20261107/cube_quadruple_goal3_seed11_QV15000_to50000_resume_20261109/data.py": "93221329066b413c8ef4881006ed9324fa3e643440e1066e6c974e7c4984e653",
+    "work/continued_research_20261107/cube_quadruple_goal3_seed11_QV15000_to50000_resume_20261109/guard.py": "92dd25f70eb1e92752939ba39ccf2ab22a10ad0a67d0d153362ab0dba46352f2",
+    "work/continued_research_20261107/cube_quadruple_goal3_seed11_QV15000_to50000_resume_20261109/hard_watchdog.py": "9019f9786570d16c418c984b8d535b5839db5fe14e1f7681b14a26c8f8a6fc35",
+    "work/continued_research_20261107/cube_quadruple_goal3_seed11_QV15000_to50000_resume_20261109/legacy_checkpoint.py": "4e9116f67ab2ab62420249ed9f6a339c273d6d92a76250f4bf1b4ff90c3c3510",
+    "work/continued_research_20261107/cube_quadruple_goal3_seed11_QV15000_to50000_resume_20261109/model.py": "b89791e4ab2cd67c302104377cdace90644f5b760d9ac1639f519a8247060c24",
+    "work/continued_research_20261107/cube_quadruple_goal3_seed11_QV15000_to50000_resume_20261109/parent.py": "b6353e498a484ebee97348ceb8642d65d65772f90d86c689f1ccf9171a5c9512",
+    "work/continued_research_20261107/cube_quadruple_goal3_seed11_QV15000_to50000_resume_20261109/prepare.py": "ab8d3aada41bf8c1482b3d0644778efd97ae7aed5fc6819782df49a8173c3377",
+    "work/continued_research_20261107/cube_quadruple_goal3_seed11_QV15000_to50000_resume_20261109/stop_observer.py": "7e627cda9c0d2b8d7fbefe4e5fdeb65422e514576d0156a0646cf68e44515934",
+    "work/continued_research_20261107/cube_quadruple_goal3_seed11_QV15000_to50000_resume_20261109/supervise.py": "7f6b6197d1b2aefa948fd15fce2f1268883893bd9c8f168ae9ad677aa1125275",
+    "work/continued_research_20261107/cube_quadruple_goal3_seed11_QV15000_to50000_resume_20261109/worker.py": "de6cada1909e4641994a0dd3def4f28898bc7e8c4c1fcb792ef4614a396edc32"
+  },
+  "root_release_sha256": "fcb9abf35309e41be8773f345cbe28ae81b81a302138b3eab72036d836a1910f",
+  "root_release": {
+    "path": "outputs/continued_research_20261107/cube_quadruple_goal3_seed11_QV15000_to50000_resume_20261109/lineages/goal3_seed11/QV/ROOT_RELEASE.json",
+    "sha256": "fcb9abf35309e41be8773f345cbe28ae81b81a302138b3eab72036d836a1910f"
+  },
+  "job_id": "Quad-goal3-seed11-QV15000-resume35000-d678db74b35c43a3a400d87f7d6e05ca",
+  "new_physical_QV_updates": 35000,
+  "trusted_prior_durable_QV": 15000,
+  "known_old_nondurable_repeated": 723,
+  "known_oldplusnew_QV_physical_returns": 50723,
+  "physical_and_logical_slots_FREE": true,
+  "both_global_slots_FREE": true,
+  "current62_readonly_locks_FREE": true,
+  "completion": {
+    "path": "outputs/continued_research_20261107/cube_quadruple_goal3_seed11_QV15000_to50000_resume_20261109/lineages/goal3_seed11/QV/attempts/Quad-goal3-seed11-QV15000-resume35000-d678db74b35c43a3a400d87f7d6e05ca/COMPLETION.json",
+    "sha256": "5583f58bc8e352e6ce62e3f88582a6290eb2af9621f6ed50f691dff4d714b405"
+  },
+  "operational_result": {
+    "path": "outputs/continued_research_20261107/cube_quadruple_goal3_seed11_QV15000_to50000_resume_20261109/lineages/goal3_seed11/QV/attempts/Quad-goal3-seed11-QV15000-resume35000-d678db74b35c43a3a400d87f7d6e05ca/OPERATIONAL_RESULT.json",
+    "sha256": "479a63e587b5f99c41e2808dd919f5e37328ad19ebaa87954bb9767cc4dc8514"
+  },
+  "watchdog_state": {
+    "path": "outputs/continued_research_20261107/cube_quadruple_goal3_seed11_QV15000_to50000_resume_20261109/lineages/goal3_seed11/QV/attempts/Quad-goal3-seed11-QV15000-resume35000-d678db74b35c43a3a400d87f7d6e05ca/watchdog_state.json",
+    "sha256": "e3e720b1e3bb75d37322082ad9fd98279a1bb78c71ba68bd3a5a6f36aa03041c"
+  },
+  "actorFULL_RNG_proof_partition": {
+    "proof1": "Fresh matching template, zero training credit; separately checked initial counters/shape/static and freshtargetcopy.",
+    "BC_actorFULL_RNG_frozen_proofs": {
+      "first_index": 2,
+      "last_index": 75,
+      "count": 74
+    }
+  },
+  "measured_outer_parent_seconds_charge_once": 603.7042280002497,
+  "no_auditor_payload_replay": true,
+  "runtime_native_or_Qtruth_or_C0_adoption": false,
+  "UTC": "2026-11-09T06:10:17.981704+00:00",
+  "status": "PASS",
+  "record_kind": "SAVED_TERMINAL_AUDIT_SCHEMA_COMPATIBILITY_COMPANION_ONLY",
+  "reviewer": "/root/q_scale_sanity",
+  "summary": {
+    "goal_id": 3,
+    "training_seed": 11,
+    "training_stage": "QV",
+    "effective_frontier": 50000
+  },
+  "required_activity_and_scope": {
+    "path": "outputs/continued_research_20261107/review/cube_Quad_QV15000_resume_terminal_independent/20261109T060731_929949Z/C0_PARENT_COMPATIBLE_TERMINAL_ACTIVITY_AND_SCOPE.json",
+    "sha256": "a5af163de55687e9812ed812679d74a7c23980b66d2365c791802ee007a70e2c"
+  },
+  "original_terminal_audit": {
+    "path": "outputs/continued_research_20261107/review/cube_Quad_QV15000_resume_terminal_independent/20261109T060731_929949Z/REVIEW.json",
+    "sha256": "fffb8d2c946f865c78080a2b3a44241b580e0922c188db60958e7da5f92a1aff"
+  },
+  "original_terminal_required_activity_and_scope": {
+    "path": "outputs/continued_research_20261107/review/cube_Quad_QV15000_resume_terminal_independent/20261109T060731_929949Z/REQUIRED_INDEPENDENT_ACTIVITY_AND_SCOPE.json",
+    "sha256": "c010520a3abe9969e2c0d633cac9eb29d1a1adeb98cd6b6e21f257f4bf3a2900"
+  },
+  "original_saved_metadata_addendum": {
+    "path": "outputs/continued_research_20261107/review/cube_Quad_QV15000_resume_terminal_independent/20261109T060731_929949Z/SAVED_STOP_OBSERVER_AND_PROOF_PARTITION_ADDENDUM.json",
+    "sha256": "246d4b42caafd47a2c40892f871bb75cbb13025aee0c255cdb1a72d8546e6338"
+  },
+  "original_actual_checks_total": 502,
+  "original_actual_checks_passed": 502,
+  "checks_total": 502,
+  "checks_passed": 502,
+  "new_checks_performed": 0,
+  "findings": [],
+  "scope": "Schema compatibility companion for the separately reviewed C0 parent contract. PASS and all terminal observations are retained from the hash-bound original502/502 independent actual terminal audit, its mandatory activity scope, and saved stop-observer/proof-partition addendum. No new scientific evidence or runtime/resource/model activity is asserted. Original files remain immutable. Both original audit and this companion must remain bound with all mandatory addenda. This record grants no C0 execution, sampler/native/Q-truth qualification, or expanded proof."
+}

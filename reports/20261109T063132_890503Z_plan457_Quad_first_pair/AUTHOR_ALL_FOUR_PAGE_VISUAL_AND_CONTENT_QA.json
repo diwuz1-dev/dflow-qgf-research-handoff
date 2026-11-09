@@ -1,0 +1,89 @@
+{
+  "PDF": {
+    "bytes": 14010,
+    "path": "outputs/continued_research_20261107/progress_snapshots/20261109T063132_890503Z_plan457_Quad_first_pair/PARTIAL_PLAN457_QUAD_FIRST_TRAINING_PAIR.pdf",
+    "sha256": "d6309d23aed4a06a2a776e5cb84dfba90036d683a2e5f63edeadd97a5147db0c"
+  },
+  "Root_independent_review": "PENDING",
+  "TXT": {
+    "bytes": 19071,
+    "path": "outputs/continued_research_20261107/progress_snapshots/20261109T063132_890503Z_plan457_Quad_first_pair/PARTIAL_PLAN457_QUAD_FIRST_TRAINING_PAIR.txt",
+    "sha256": "3f4353767769655db9a67221636867868f99f6d9f5d0c59a50ec5bdb38d823ee"
+  },
+  "UTC": "2026-11-09T06:33:29.567784+00:00",
+  "actual_page_count": 4,
+  "fixed_scope": {
+    "complete_pairs": 1,
+    "complete_phases": 2,
+    "new_Quad_native_rates": "UNRUN",
+    "new_primary_main100_heldout": 0,
+    "remaining_target_updates": 800000,
+    "remaining_unrun_phases": 16
+  },
+  "frozen_report_copy_hashes_checked": 36,
+  "new_report_uploaded": false,
+  "pages": [
+    {
+      "actual_author_viewed": true,
+      "page": 1,
+      "render": {
+        "bytes": 249172,
+        "path": "outputs/continued_research_20261107/progress_snapshots/20261109T063132_890503Z_plan457_Quad_first_pair/rendered-page-1.png",
+        "sha256": "18071de36cd0905c37063763fe1f6bb56915c54c9a1e508a7bad5afaa85d574e"
+      },
+      "visual": "PASS: headline, configuration and three-attempt table legible; failed prefix and non-performance caveat visible; no clipping, overlap or missing glyphs."
+    },
+    {
+      "actual_author_viewed": true,
+      "page": 2,
+      "render": {
+        "bytes": 264491,
+        "path": "outputs/continued_research_20261107/progress_snapshots/20261109T063132_890503Z_plan457_Quad_first_pair/rendered-page-2.png",
+        "sha256": "d8f0078cac4ed8b80b4e342e681d4f3b5cc076a9794466322c7421c5008e4b6e"
+      },
+      "visual": "PASS: all9 goal-seed rows and UNRUN cells visible; complete50000 via15000+35000 footnote and retained all33 barrier legible; no clipping or overlap."
+    },
+    {
+      "actual_author_viewed": true,
+      "page": 3,
+      "render": {
+        "bytes": 244281,
+        "path": "outputs/continued_research_20261107/progress_snapshots/20261109T063132_890503Z_plan457_Quad_first_pair/rendered-page-3.png",
+        "sha256": "ae7345fcb0322cff7c75fc57caaa68976dc6baa4d000fad4ce11fa818d67bb77"
+      },
+      "visual": "PASS: all8DFx3seed values plus QGF/FK and unqualified IPG row legible; denominator and different-settings caveat clear; no clipped cells."
+    },
+    {
+      "actual_author_viewed": true,
+      "page": 4,
+      "render": {
+        "bytes": 263363,
+        "path": "outputs/continued_research_20261107/progress_snapshots/20261109T063132_890503Z_plan457_Quad_first_pair/rendered-page-4.png",
+        "sha256": "09841ed824879fffd5b8ea614a414d43c4e1530d9c8369bd6eda38795cc4d498"
+      },
+      "visual": "PASS: exact accounting digits, source SHA prefixes, clickable publication boundaries and not-yet-uploaded statement legible; no clipping or overlap."
+    }
+  ],
+  "phase_grid": {
+    "bytes": 4593,
+    "path": "outputs/continued_research_20261107/progress_snapshots/20261109T063132_890503Z_plan457_Quad_first_pair/PHASE_GRID_AND_SCOPE.json",
+    "sha256": "97a3d2d71a7f160cd7e54062f9de812993eca0301eac3017657a0c5a6707b963"
+  },
+  "reference_manifest": {
+    "bytes": 1911,
+    "path": "outputs/continued_research_20261107/progress_snapshots/20261109T063132_890503Z_plan457_Quad_first_pair/REFERENCE_BUNDLE_MANIFEST.json",
+    "sha256": "b4203806049b77d26734b3637e590ea1dc0d4557a09d7d22e7fc086c2ad14d62"
+  },
+  "required_activity_and_scope": {
+    "bytes": 3152,
+    "path": "outputs/continued_research_20261107/progress_snapshots/20261109T063132_890503Z_plan457_Quad_first_pair/REQUIRED_AUTHOR_ACTIVITY_AND_REVIEW_SCOPE.json",
+    "sha256": "f308237ae125479621607a3432ccca2528e41828cd1788286e0cfc69fd17a77c"
+  },
+  "source_pin_count": 39,
+  "source_pins": {
+    "bytes": 20901,
+    "path": "outputs/continued_research_20261107/progress_snapshots/20261109T063132_890503Z_plan457_Quad_first_pair/SOURCE_PINS.json",
+    "sha256": "994e6ece38a44ba3b2cc1aaa32d6eb1742334ff7fb50bf0571f885585e94d488"
+  },
+  "status": "AUTHOR_PASS_ALL4_ACTUALLY_VIEWED_CONTENT_AND_LAYOUT_NOT_STUDY_CLOSURE"
+}

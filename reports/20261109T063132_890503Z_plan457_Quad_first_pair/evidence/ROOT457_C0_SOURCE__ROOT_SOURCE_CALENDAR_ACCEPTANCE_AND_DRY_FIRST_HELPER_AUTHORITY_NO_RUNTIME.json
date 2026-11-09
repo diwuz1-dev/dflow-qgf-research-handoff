@@ -1,0 +1,384 @@
+{
+  "OPS": {
+    "path": "outputs/continued_research_20261107/review/cube_quadruple_goal3_seed11_C0_three_context_corrected_ops/REVIEW.json",
+    "sha256": "f5a00c7a4c4dd7c3bdcea5cff459882b814a54920bd21cee5eeddee12e8bf23d"
+  },
+  "SCI": {
+    "path": "outputs/continued_research_20261107/review/cube_quadruple_goal3_seed11_C0_three_context_math/corrected_20261109T060706_090041Z/REVIEW.json",
+    "sha256": "e737870e7ad4e52a669ee3ef7d043d1da789eb4a06513bc608e81fd71aa12a43"
+  },
+  "UTC": "2026-11-09T06:12:46.086394+00:00",
+  "actual_parent_schema_companion": {
+    "path": "outputs/continued_research_20261107/review/cube_Quad_QV15000_resume_terminal_independent/20261109T060731_929949Z/C0_PARENT_COMPATIBLE_TERMINAL_REVIEW.json",
+    "sha256": "c30a2374162cbb84ac09230c9744adb991d4c38ed25cca70081d7c201ea75066"
+  },
+  "actual_terminal_root_reconciliation": {
+    "path": "outputs/continued_research_20261107/review/cube_Quad_QV15000_resume_ROOT_terminal_reconciliation/20261109T061034_207865Z/ROOT_RECONCILIATION.json",
+    "sha256": "5ca3c57ae2bdb64609d7fae1952e2e7f9523eda56f814f003a838f4c11777d26"
+  },
+  "authorized_by_root": true,
+  "calendar_scope": {
+    "borrowed_prior_calendar": false,
+    "earliest_new_ROOT_publication_and_start_UTC": "2026-11-09T06:20:00+00:00",
+    "latest_new_ROOT_publication_UTC": "2026-11-09T09:00:00+00:00",
+    "publication_plus600_not_after_UTC": "2026-11-09T09:10:00+00:00",
+    "start_window_seconds_inside_same600": 60,
+    "status": "ROOT_EXPLICITLY_REVIEWED_NEW_C0_CALENDAR"
+  },
+  "cold_cost_RSS_fit_unknown": true,
+  "counts": {
+    "BC_QV_sampler_native_evaluation_APIs": 0,
+    "F8_endpoint_and_exact_replay_callbacks": 2,
+    "NPY_headers_before_NumPy": 43,
+    "Qavg_value_grad_callbacks_K4_K16": 2,
+    "Store_proof_counter_is_subset_not_extra_callback": 1,
+    "TRAIN_NPZ_decodes": 0,
+    "additional_original_Store_prove_JSON_artifacts": 1,
+    "all_direct_plus_nested_restore_plus_negative_validator_calls": 5,
+    "anchor_index_np_asarray_APIs": 2,
+    "antithetic_bank_scalar_values": 10000,
+    "bank_base_normal_scalar_values": 5000,
+    "bank_logical_normal_rows": 40,
+    "bank_vmap_constructions": 2,
+    "callback_outer_blocks": 10,
+    "canonical_encodings": 2,
+    "canonical_explicit_to_state_dict_APIs": 2,
+    "canonical_low_level_msgpack_serialize_APIs": 2,
+    "checkpoint_device_put_APIs": 1,
+    "checkpoint_restore_block_APIs": 1,
+    "common_source_keys_logical_APIs": 2,
+    "constructor_restore_sourcebank_blocks": 3,
+    "eligible_astype_int64_calls": 6,
+    "eligible_flatnonzero_calls": 6,
+    "engineering_ID_jnp_asarray_APIs": 1,
+    "engineering_master_PRNGKey_constructors": 1,
+    "explicit_callback_JIT_wrapper_definitions": 6,
+    "explicit_known_wrapper_blocks": 13,
+    "explicit_make_jaxpr_lower_compile_calls": 0,
+    "explicit_source_vmap_calls_including_helper_internals": 7,
+    "explicit_time_scalar_float32_APIs": 4,
+    "explicit_time_vector_full_APIs": 4,
+    "field_helpers_configure_calls": 1,
+    "field_helpers_identity_metadata_predicates": 1,
+    "fixed_TRAIN_anchors": 16,
+    "fullproof_None_records": 3,
+    "fullproof_callbacks": 3,
+    "fullproof_extra_step_RNG_np_asarray_APIs": 18,
+    "fullproof_metadata_artifacts_C0_wrapper": 3,
+    "fullproof_numeric_leaf_np_asarray_APIs": 306,
+    "goal_eligibility_vector_payload_bytes": 23904000,
+    "goal_eligibility_vectors_retained": 3,
+    "highlevel_B20_callback_entries_and_returns_each": 10,
+    "inactive_context_views": 40,
+    "inactive_padding_rows": 4,
+    "legacy_two_context_direct_count_is_historical_not_current": true,
+    "logical_policy_B20_computations": 20,
+    "logical_policy_conditioning_rowviews": 400,
+    "logical_targetcritic_computations": 4,
+    "logical_targetcritic_conditioning_rowviews": 440,
+    "logical_value_and_grad_API_computations": 3,
+    "mapped_logical_payload_bytes": 727564000,
+    "new_checkpoint_pairs": 0,
+    "new_resumed_final_fullstate_decodes": 1,
+    "new_training_selection_heldout_or_native_credit": 0,
+    "old_BC_payload_additional_decodes": 0,
+    "old_partial_payload_additional_decodes": 0,
+    "original_full_Store_restore_entries_and_returns_each": 1,
+    "original_phase_validator_direct_calls_BC_QV": 2,
+    "original_phase_validator_negative_calls": 1,
+    "original_phase_validator_nested_restore_calls": 1,
+    "original_restore_payload_reads": 1,
+    "output_NPZ": 1,
+    "output_array_payload_bytes": 66880,
+    "output_arrays": 19,
+    "padded_context_views": 200,
+    "paired_source0_logical_APIs": 1,
+    "panel_jnp_asarray_APIs": 2,
+    "parent_canonical_comparison_payload_direct_reads": 1,
+    "qavg_sigma_float32_APIs": 2,
+    "raw_serialization_to_bytes_APIs": 0,
+    "raw_targetQ_callbacks": 1,
+    "raw_value_grad_callbacks": 1,
+    "readonly_NPY_mmap_entries_and_returns_each": 43,
+    "readonly_Store_context_allocations_without_constructor": 1,
+    "readonly_mmap_close_APIs": 43,
+    "returned_callback_array_np_asarray_APIs": 14,
+    "selected_panel_copy_APIs": 2,
+    "selected_panel_pad_APIs": 2,
+    "serialization_from_bytes_entries_and_returns_each": 1,
+    "source_bank_np_asarray_APIs_before_after": 6,
+    "source_latent_base_normal_scalar_values": 500,
+    "source_latent_logical_normal_rows": 20,
+    "template_example_zero_APIs": 2,
+    "template_model_create_entries_and_returns_each": 1,
+    "template_step_pin_asarray_APIs": 4,
+    "three_context_direct_metadata_validator_calls": 3,
+    "three_context_direct_validator_contracts": {
+      "legacy_BC50000_d01a": 1,
+      "legacy_failed_QV15000_d01a": 1,
+      "resumed_QV50000_26ae": 1
+    },
+    "training_Store_constructor_calls": 0,
+    "unused_constructor_training_JIT_wrapper_definitions": 2,
+    "valid_TRAIN_context_views": 160,
+    "velocity_callback_calls": 4
+  },
+  "current_context_catalog": {
+    "path": "outputs/continued_research_20261107/review/cube_Quad_C0_three_context_ROOT_executor_calendar_adoption/20261109T061246_086394Z/ROOT_CURRENT31_CONTEXT_CATALOG.json",
+    "sha256": "ccb77d636fe16d43e14fdddeabbb59cca7cbae77b35cea9246aed6ff493f2291"
+  },
+  "design_sha256": "e2d263fa942f00adf8e967c3b5cef660aefb4ca6cba7672b572ed4d696cf5351",
+  "dry_first_helper_SOURCE_implementation_authorized": true,
+  "engineering_keys_roles_or_IDs_not_assigned_here": true,
+  "full_parent_packet": {
+    "BC_COMPLETE50000": {
+      "COMPLETION": {
+        "path": "outputs/continued_research_20261107/cube_quadruple_tasks345_fresh_BC_QV50000_20261109/lineages/goal3_seed11/BC/attempts/Quad-goal3-seed11-fresh-BC50000-9c4bee397b594d1da9208990968f271a/COMPLETION.json",
+        "sha256": "326c2af4a559eb0420392b9a788492f6dcb5f7ea466434e5860026f4d0ab31df"
+      },
+      "LATEST_CHECKPOINT": {
+        "path": "outputs/continued_research_20261107/cube_quadruple_tasks345_fresh_BC_QV50000_20261109/lineages/goal3_seed11/BC/attempts/Quad-goal3-seed11-fresh-BC50000-9c4bee397b594d1da9208990968f271a/STAGES/goal3_seed11_BC/LATEST_CHECKPOINT.json",
+        "sha256": "0f495f8fb04d4abfd6eb1f9a9a2bbe8c8ac0496e270f20b0b64abaad5bb4a2f5"
+      },
+      "OPERATIONAL_RESULT": {
+        "path": "outputs/continued_research_20261107/cube_quadruple_tasks345_fresh_BC_QV50000_20261109/lineages/goal3_seed11/BC/attempts/Quad-goal3-seed11-fresh-BC50000-9c4bee397b594d1da9208990968f271a/OPERATIONAL_RESULT.json",
+        "sha256": "ddf1cbd9942c71864dc1a88d41bf4ecfc4e4250142299e493ce3ee706c48f804"
+      },
+      "ROOT_release": {
+        "path": "outputs/continued_research_20261107/cube_quadruple_tasks345_fresh_BC_QV50000_20261109/lineages/goal3_seed11/BC/ROOT_RELEASE.json",
+        "sha256": "7ff5284a3bf7b0a68713c4673700e204be9c1bdfac3bd215815a0f56f8d951a1"
+      },
+      "ROOT_terminal_reconciliation": {
+        "path": "outputs/continued_research_20261107/review/cube_Quad_goal3_seed11_BC50000_ROOT_terminal_reconciliation/20261109T035832_765977Z/ROOT_RECONCILIATION.json",
+        "sha256": "c9576084e292bb3fa85688ccd7dd721bcd837259dee3dbe04b8209aab6d8929a"
+      },
+      "independent_terminal_audit": {
+        "path": "outputs/continued_research_20261107/review/cube_Quadruple_goal3_seed11_BC50000_completed_independent/20261109T035449_635187Z/REVIEW.json",
+        "sha256": "d82d4bf4d7ae891fd1c1b53093a760c1ad09cb8d4b4b1f8c191637053156b724"
+      },
+      "manifest": {
+        "path": "outputs/continued_research_20261107/cube_quadruple_tasks345_fresh_BC_QV50000_20261109/lineages/goal3_seed11/BC/attempts/Quad-goal3-seed11-fresh-BC50000-9c4bee397b594d1da9208990968f271a/STAGES/goal3_seed11_BC/checkpoints/Quad-goal3-seed11-fresh-BC50000-9c4bee397b594d1da9208990968f271a-50000-durable_fullstate/MANIFEST.json",
+        "sha256": "df520049d467e3f3d55303f11766939576a4408d8a80fa6ac1765696aefb43ea"
+      },
+      "payload": {
+        "path": "outputs/continued_research_20261107/cube_quadruple_tasks345_fresh_BC_QV50000_20261109/lineages/goal3_seed11/BC/attempts/Quad-goal3-seed11-fresh-BC50000-9c4bee397b594d1da9208990968f271a/STAGES/goal3_seed11_BC/checkpoints/Quad-goal3-seed11-fresh-BC50000-9c4bee397b594d1da9208990968f271a-50000-durable_fullstate/FULL_STATE.msgpack",
+        "sha256": "247783361b8888a6df934843b4ccc92785dda7146a3671233de9fcab59e3dad0"
+      },
+      "required_audit_activity_and_scope": {
+        "path": "outputs/continued_research_20261107/review/cube_Quadruple_goal3_seed11_BC50000_completed_independent/20261109T035449_635187Z/REQUIRED_INDEPENDENT_ACTIVITY_AND_SCOPE.json",
+        "sha256": "7d3e97c0454f5695180f69affd911a34b4581b38c40e0ebdc497fd52514b8be4"
+      },
+      "required_audit_addenda": {
+        "outputs/continued_research_20261107/review/cube_Quadruple_goal3_seed11_BC50000_completed_independent/20261109T035449_635187Z/REQUIRED_INDEPENDENT_ACTIVITY_AND_SCOPE.json": "7d3e97c0454f5695180f69affd911a34b4581b38c40e0ebdc497fd52514b8be4"
+      },
+      "watchdog_cleanup_boolean_key": "cleanup_verified_no_live_members",
+      "watchdog_state": {
+        "path": "outputs/continued_research_20261107/cube_quadruple_tasks345_fresh_BC_QV50000_20261109/lineages/goal3_seed11/BC/attempts/Quad-goal3-seed11-fresh-BC50000-9c4bee397b594d1da9208990968f271a/watchdog_state.json",
+        "sha256": "9e1bdc58f31f9f675e99d0eb17df7f009b707f5d98ca2a3e538a1b44ca9a7c5c"
+      }
+    },
+    "QV_FAILED_ORIGINAL_DURABLE15000": {
+      "LATEST_CHECKPOINT": {
+        "path": "outputs/continued_research_20261107/cube_quadruple_tasks345_fresh_BC_QV50000_20261109/lineages/goal3_seed11/QV/attempts/Quad-goal3-seed11-BC-parent-QV50000-ea9c4ec0704e497b81aaf53387691e7e/STAGES/goal3_seed11_QV/LATEST_CHECKPOINT.json",
+        "sha256": "fb8fa22bb09bee4f10d6eb1ced231c1185d51f0133c7fa6fca84d09132a074d6"
+      },
+      "OPERATIONAL_RESULT": {
+        "path": "outputs/continued_research_20261107/cube_quadruple_tasks345_fresh_BC_QV50000_20261109/lineages/goal3_seed11/QV/attempts/Quad-goal3-seed11-BC-parent-QV50000-ea9c4ec0704e497b81aaf53387691e7e/OPERATIONAL_RESULT.json",
+        "sha256": "13d5bcab7a00216a5f30b97ac9566ddc1cb1954db46f15005b48ff5b76ce3e2f"
+      },
+      "ROOT_release": {
+        "path": "outputs/continued_research_20261107/cube_quadruple_tasks345_fresh_BC_QV50000_20261109/lineages/goal3_seed11/QV/ROOT_RELEASE.json",
+        "sha256": "c87f8acb89684405dde6789489cef9ca8f3348886881cb7600d17e096cfbcf47"
+      },
+      "ROOT_terminal_reconciliation": {
+        "path": "outputs/continued_research_20261107/review/cube_Quad_goal3_seed11_QV50000_ROOT_failed_partial_reconciliation/20261109T043143_323486Z/ROOT_RECONCILIATION.json",
+        "sha256": "013b525aa89f85fe23217b1d71148b0c29ab4975de4935f4b6899f81b329c5af"
+      },
+      "independent_terminal_audit": {
+        "path": "outputs/continued_research_20261107/review/cube_Quadruple_goal3_seed11_QV50000_partial_failed_independent/20261109T042726_189284Z/REVIEW.json",
+        "sha256": "406bc9223442d9cade2265fd834186c03eb9797f7ff9acb6a2ba82b5e083aa79"
+      },
+      "manifest": {
+        "path": "outputs/continued_research_20261107/cube_quadruple_tasks345_fresh_BC_QV50000_20261109/lineages/goal3_seed11/QV/attempts/Quad-goal3-seed11-BC-parent-QV50000-ea9c4ec0704e497b81aaf53387691e7e/STAGES/goal3_seed11_QV/checkpoints/Quad-goal3-seed11-BC-parent-QV50000-ea9c4ec0704e497b81aaf53387691e7e-15000-durable_fullstate/MANIFEST.json",
+        "sha256": "48a00f6b16669891c101d4b4f5d78e662d4732588cfe04059518d60078e93a57"
+      },
+      "payload": {
+        "path": "outputs/continued_research_20261107/cube_quadruple_tasks345_fresh_BC_QV50000_20261109/lineages/goal3_seed11/QV/attempts/Quad-goal3-seed11-BC-parent-QV50000-ea9c4ec0704e497b81aaf53387691e7e/STAGES/goal3_seed11_QV/checkpoints/Quad-goal3-seed11-BC-parent-QV50000-ea9c4ec0704e497b81aaf53387691e7e-15000-durable_fullstate/FULL_STATE.msgpack",
+        "sha256": "d042ae4c5c095356b1727670fc689b1060cbc1f2eb9f5e0403a6c01ac6e43595"
+      },
+      "required_audit_activity_and_scope": {
+        "path": "outputs/continued_research_20261107/review/cube_Quadruple_goal3_seed11_QV50000_partial_failed_independent/20261109T042726_189284Z/REQUIRED_INDEPENDENT_ACTIVITY_AND_SCOPE.json",
+        "sha256": "27fc68db6b509db53148ef8136659e3c5d81eee1795d490370b8fa1c1b6d5dd4"
+      },
+      "required_audit_addenda": {
+        "outputs/continued_research_20261107/review/cube_Quadruple_goal3_seed11_QV50000_partial_failed_independent/20261109T042726_189284Z/REQUIRED_INDEPENDENT_ACTIVITY_AND_SCOPE.json": "27fc68db6b509db53148ef8136659e3c5d81eee1795d490370b8fa1c1b6d5dd4"
+      },
+      "watchdog_cleanup_boolean_key": "cleanup_verified_no_live_members",
+      "watchdog_state": {
+        "path": "outputs/continued_research_20261107/cube_quadruple_tasks345_fresh_BC_QV50000_20261109/lineages/goal3_seed11/QV/attempts/Quad-goal3-seed11-BC-parent-QV50000-ea9c4ec0704e497b81aaf53387691e7e/watchdog_state.json",
+        "sha256": "e05ac5d4e1c053803db63799bf7a57cbaeaf819e80fa40e2dde6f6b8257b6f0c"
+      }
+    },
+    "QV_RESUMED_COMPLETE50000": {
+      "COMPLETION": {
+        "path": "outputs/continued_research_20261107/cube_quadruple_goal3_seed11_QV15000_to50000_resume_20261109/lineages/goal3_seed11/QV/attempts/Quad-goal3-seed11-QV15000-resume35000-d678db74b35c43a3a400d87f7d6e05ca/COMPLETION.json",
+        "sha256": "5583f58bc8e352e6ce62e3f88582a6290eb2af9621f6ed50f691dff4d714b405"
+      },
+      "LATEST_CHECKPOINT": {
+        "path": "outputs/continued_research_20261107/cube_quadruple_goal3_seed11_QV15000_to50000_resume_20261109/lineages/goal3_seed11/QV/attempts/Quad-goal3-seed11-QV15000-resume35000-d678db74b35c43a3a400d87f7d6e05ca/STAGES/goal3_seed11_QV/LATEST_CHECKPOINT.json",
+        "sha256": "c517111f80696d810d5e7d332dbc9bf7fff84a6b420f2cfbc297ed19017738b5"
+      },
+      "OPERATIONAL_RESULT": {
+        "path": "outputs/continued_research_20261107/cube_quadruple_goal3_seed11_QV15000_to50000_resume_20261109/lineages/goal3_seed11/QV/attempts/Quad-goal3-seed11-QV15000-resume35000-d678db74b35c43a3a400d87f7d6e05ca/OPERATIONAL_RESULT.json",
+        "sha256": "479a63e587b5f99c41e2808dd919f5e37328ad19ebaa87954bb9767cc4dc8514"
+      },
+      "ROOT_release": {
+        "path": "outputs/continued_research_20261107/cube_quadruple_goal3_seed11_QV15000_to50000_resume_20261109/lineages/goal3_seed11/QV/ROOT_RELEASE.json",
+        "sha256": "fcb9abf35309e41be8773f345cbe28ae81b81a302138b3eab72036d836a1910f"
+      },
+      "ROOT_source_calendar_acceptance": {
+        "path": "outputs/continued_research_20261107/review/cube_Quad_QV15000_resume_ROOT_executor_calendar_adoption/20261109T053306_839575Z/ROOT_SOURCE_CALENDAR_ACCEPTANCE_AND_DRY_FIRST_HELPER_AUTHORITY_NO_RUNTIME.json",
+        "sha256": "0729ee07688c5c9f4ce765a67844889dd6e5b14d0ecade53eac75edba22b79f3"
+      },
+      "ROOT_terminal_reconciliation": {
+        "path": "outputs/continued_research_20261107/review/cube_Quad_QV15000_resume_ROOT_terminal_reconciliation/20261109T061034_207865Z/ROOT_RECONCILIATION.json",
+        "sha256": "5ca3c57ae2bdb64609d7fae1952e2e7f9523eda56f814f003a838f4c11777d26"
+      },
+      "independent_terminal_audit": {
+        "path": "outputs/continued_research_20261107/review/cube_Quad_QV15000_resume_terminal_independent/20261109T060731_929949Z/C0_PARENT_COMPATIBLE_TERMINAL_REVIEW.json",
+        "sha256": "c30a2374162cbb84ac09230c9744adb991d4c38ed25cca70081d7c201ea75066"
+      },
+      "manifest": {
+        "path": "outputs/continued_research_20261107/cube_quadruple_goal3_seed11_QV15000_to50000_resume_20261109/lineages/goal3_seed11/QV/attempts/Quad-goal3-seed11-QV15000-resume35000-d678db74b35c43a3a400d87f7d6e05ca/STAGES/goal3_seed11_QV/checkpoints/Quad-goal3-seed11-QV15000-resume35000-d678db74b35c43a3a400d87f7d6e05ca-50000-durable_fullstate/MANIFEST.json",
+        "sha256": "de0c33a88fa1b6838a94890ba0f4954323d0f597f0d3cb7f68247577f11f1054"
+      },
+      "payload": {
+        "path": "outputs/continued_research_20261107/cube_quadruple_goal3_seed11_QV15000_to50000_resume_20261109/lineages/goal3_seed11/QV/attempts/Quad-goal3-seed11-QV15000-resume35000-d678db74b35c43a3a400d87f7d6e05ca/STAGES/goal3_seed11_QV/checkpoints/Quad-goal3-seed11-QV15000-resume35000-d678db74b35c43a3a400d87f7d6e05ca-50000-durable_fullstate/FULL_STATE.msgpack",
+        "sha256": "33bf6e496d84f68433829a623d2cf06d6c781c9a3c8b666ee41b375a915eb5e1"
+      },
+      "required_audit_activity_and_scope": {
+        "path": "outputs/continued_research_20261107/review/cube_Quad_QV15000_resume_terminal_independent/20261109T060731_929949Z/C0_PARENT_COMPATIBLE_TERMINAL_ACTIVITY_AND_SCOPE.json",
+        "sha256": "a5af163de55687e9812ed812679d74a7c23980b66d2365c791802ee007a70e2c"
+      },
+      "required_audit_addenda": {
+        "outputs/continued_research_20261107/review/cube_Quad_QV15000_resume_terminal_independent/20261109T060731_929949Z/C0_PARENT_COMPATIBLE_TERMINAL_ACTIVITY_AND_SCOPE.json": "a5af163de55687e9812ed812679d74a7c23980b66d2365c791802ee007a70e2c",
+        "outputs/continued_research_20261107/review/cube_Quad_QV15000_resume_terminal_independent/20261109T060731_929949Z/REQUIRED_INDEPENDENT_ACTIVITY_AND_SCOPE.json": "c010520a3abe9969e2c0d633cac9eb29d1a1adeb98cd6b6e21f257f4bf3a2900",
+        "outputs/continued_research_20261107/review/cube_Quad_QV15000_resume_terminal_independent/20261109T060731_929949Z/REVIEW.json": "fffb8d2c946f865c78080a2b3a44241b580e0922c188db60958e7da5f92a1aff",
+        "outputs/continued_research_20261107/review/cube_Quad_QV15000_resume_terminal_independent/20261109T060731_929949Z/SAVED_STOP_OBSERVER_AND_PROOF_PARTITION_ADDENDUM.json": "246d4b42caafd47a2c40892f871bb75cbb13025aee0c255cdb1a72d8546e6338"
+      },
+      "source_reviews_and_required_addenda": {
+        "outputs/continued_research_20261107/cube_quadruple_goal3_seed11_QV15000_to50000_resume_20261109/preparation/AUTHOR_FINAL_CURRENT_TEXT_RECHECK_NO_RUNTIME.json": "eff99bb44813fd20a03965aeb4764e53ad15bff199dac5789d03245f0da493a6",
+        "outputs/continued_research_20261107/cube_quadruple_goal3_seed11_QV15000_to50000_resume_20261109/preparation/PREPARATION.json": "47380cd69709185180aa9cde05ef614f6590599a30fff225fe92bd51a4f65556",
+        "outputs/continued_research_20261107/cube_quadruple_goal3_seed11_QV15000_to50000_resume_20261109/preparation/REQUIRED_ADDITIVE_ACTUAL_INHERITED_LIMIT_FIXTURE_RECHECK.json": "3cbae00d8cb71e31e23e5e0fb4dbe3f6d81fb95e0ceb98873f32da230fd6383b",
+        "outputs/continued_research_20261107/cube_quadruple_goal3_seed11_QV15000_to50000_resume_20261109/preparation/REQUIRED_AUTHOR_SELF_REVIEW_INHERITED_LIMIT_AND_OUTPUT_SCOPE_CORRECTION.json": "ec1e8a6b46f5590d2b8cbfdef90a869927d90e74ddcae2d17c0933374ca658cf",
+        "outputs/continued_research_20261107/cube_quadruple_goal3_seed11_QV15000_to50000_resume_20261109/preparation/REQUIRED_SOURCE_ACTIVITY_COUNTS_STOP_AND_LINEAGE_LIMITS.json": "b23ff823f0438ce6652825123667ddfc8f801f667f86c1f1faf2e6a109a0042a",
+        "outputs/continued_research_20261107/cube_quadruple_goal3_seed11_QV15000_to50000_resume_20261109/preparation/STOP_OBSERVER_SOURCE_INTERFACE_AND_FAKE_IO_PROOFS.json": "4aa36f46716149e9bf3010638b4297f398a4b9b52ea89df6d10753335a4c5da7",
+        "outputs/continued_research_20261107/review/cube_Quad_QV15000_resume_SCI_support/20261109T053138_491545Z/INDEPENDENT_SCI_SOURCE_COUNTS_INVERSE_AND_HASH_RECEIPT.json": "c284acdccbab916a5a1b9adbcea7ca343c26a7ddc9bfc1e1731e8382610432e2",
+        "outputs/continued_research_20261107/review/cube_quadruple_goal3_seed11_QV15000_resume_math/REQUIRED_INDEPENDENT_ACTIVITY_AND_SCOPE.json": "b4f22024e296a08f54d6263db695f74fd6f57adcbc3869bbaa27200180ecea00",
+        "outputs/continued_research_20261107/review/cube_quadruple_goal3_seed11_QV15000_resume_math/REVIEW.json": "288550a2273420775cb787ca02cfddcd5ae50bd2c515211e05e2da78bb501061",
+        "outputs/continued_research_20261107/review/cube_quadruple_goal3_seed11_QV15000_resume_math/ROOT_SOURCE_BODY_AND_COUNT_PROOFS.json": "4ebda0c91f423d9627fe16595030d32654866f34c392985b13b2b9f47073d105",
+        "outputs/continued_research_20261107/review/cube_quadruple_goal3_seed11_QV15000_resume_ops/INDEPENDENT_SOURCE_CHECKPOINT_STOP_COUNT_AND_LINEAGE_PROOFS.json": "bcfefd172846ca53192620045bf1f5dc00e90ae54a8de0a299747c6affe1f50b",
+        "outputs/continued_research_20261107/review/cube_quadruple_goal3_seed11_QV15000_resume_ops/REQUIRED_INDEPENDENT_OPS_ACTIVITY_AND_LIMITS.json": "145b4f38d205a479257c7342d5e3559171998a4e59498793b3885642b0d4c466",
+        "outputs/continued_research_20261107/review/cube_quadruple_goal3_seed11_QV15000_resume_ops/REVIEW.json": "60f2a035ac4db9229122a6c9e97ea23ce5c5e077bfd12cfc9e2274aa226148fa"
+      },
+      "watchdog_cleanup_boolean_key": "cleanup_verified_no_live_members",
+      "watchdog_state": {
+        "path": "outputs/continued_research_20261107/cube_quadruple_goal3_seed11_QV15000_to50000_resume_20261109/lineages/goal3_seed11/QV/attempts/Quad-goal3-seed11-QV15000-resume35000-d678db74b35c43a3a400d87f7d6e05ca/watchdog_state.json",
+        "sha256": "e3e720b1e3bb75d37322082ad9fd98279a1bb78c71ba68bd3a5a6f36aa03041c"
+      }
+    },
+    "goal_id": 3,
+    "training_seed": 11
+  },
+  "goal_id": 3,
+  "helper_REQUIREMENTS": [
+    "drydefault/stdlibrarymetadataONLY/no automaticdispatcher",
+    "fresh6ROOTACKs exactcost/TRAIN/fullparent/oldengineeringkeyREUSE/failure/calendar/checkpoint",
+    "current31catalog/actualsource-reviews+allmandatoryscopes/53opaque+finalpayload statBEFOREhash/currentPSPGID/bothreadonlyglobals+60readonlyoldownerlocks/own2newcontrolsROOTcreatesonlylater",
+    "allcounts10callbacks19arrays66880B/1decode3proof2enc/5validators/actorFULLRNG/static/fullsemanticANDwholecanonical prepost/fixedbanks",
+    "COPY2wholeoldROOT ifany; fixedfirstattempt rejectsANYownROOT/auth/runtime/latch; one --writeROOT +separateROOTdispatchONCE inside60INSIDE600",
+    "SOURCEpeer +standalonepuremetadatafixtures beforeactualROOTACKs/admission; no oldmodelparams-only/reset/reseed/oldphaseguardbypass/newnativeauthority"
+  ],
+  "helper_author": "/root/runner_reports",
+  "helper_path": "work/continued_research_20261107/root_control/release_cube_Quad_C0_three_context_first.py",
+  "helper_peer": "/root/quad_resume_source",
+  "namespace": "cube_quadruple_goal3_seed11_C0_three_context_frozen55_callbacks_20261109",
+  "no_sampler_native_training_main100_or_heldout_authority": true,
+  "old_candidate_and_OPS_SOURCE_miss_preserved_no_false_retroPASS": true,
+  "old_static_SOURCE13NULLs_NOT_mutated": true,
+  "original_terminal_audit_also_required": {
+    "path": "outputs/continued_research_20261107/review/cube_Quad_QV15000_resume_terminal_independent/20261109T060731_929949Z/REVIEW.json",
+    "sha256": "fffb8d2c946f865c78080a2b3a44241b580e0922c188db60958e7da5f92a1aff"
+  },
+  "output_scope": {
+    "NPZ_count": 1,
+    "NPZ_preflight_and_actual_ceiling_bytes": 131072,
+    "additional_original_Store_prove_JSONs": 1,
+    "canonical_artifacts": 2,
+    "canonical_each_byte_ceiling": 2097152,
+    "free_floor_bytes": 8589934592,
+    "fullproof_callback_JSONs": 3,
+    "header_JSON_each_ceiling": 8192,
+    "headers_JSONs": 43,
+    "operational_directory_threshold_bytes": 64000000,
+    "partial_output_scope": "Only schema-valid completed callback returns are kept in host memory and final NPZ after all gates. CALL_PROGRESS/COUNTERS retain returned-prefix metadata; no promise that a failing/timeout partial has returned-array payloads. No AFTER/COMPLETION invented.",
+    "predicate_JSONL_file_ceiling": 8000000,
+    "predicate_JSONL_record_ceiling": 65536,
+    "proof_JSON_each_ceiling": 262144,
+    "prospective_admission_free_bytes": 8653934592,
+    "routed_JSON_record_ceiling": 2097152,
+    "selected_arrays": 19,
+    "selected_payload_bytes": 66880,
+    "unknown_exceptions": "9019 worker_stdout.log and watchdog state/log/inflight/library output are not universal-prewrite bounded. Directory64MB is operational only, no atomic global cap/reserved failure metadata guarantee or exact overshoot bound. Actual directory/log size and unknown tails must be audited."
+  },
+  "preparation": {
+    "path": "outputs/continued_research_20261107/cube_quadruple_goal3_seed11_C0_three_context_frozen55_callbacks_20261109/preparation/PREPARATION.json",
+    "sha256": "cc38380e8bed40a777fe6611f170f7c9687b486bb3e9fc2c86104fbf8e46dec3"
+  },
+  "prospective_cap600_not_committed": true,
+  "required_OPS_activity": {
+    "path": "outputs/continued_research_20261107/review/cube_quadruple_goal3_seed11_C0_three_context_corrected_ops/REQUIRED_INDEPENDENT_CORRECTED_SOURCE_ACTIVITY_AND_REVIEWER_HISTORY.json",
+    "sha256": "3b7d463bab5eb404c013c6b934038028f7ea8cce4682e21906008b81fe0ff302"
+  },
+  "required_SCI_activity": {
+    "path": "outputs/continued_research_20261107/review/cube_quadruple_goal3_seed11_C0_three_context_math/corrected_20261109T060706_090041Z/REQUIRED_INDEPENDENT_SCI_ACTIVITY_AND_LIMITS.json",
+    "sha256": "ce5b7280e9b5ace835839032d343927ba07f0e2a82469b04071a1e59ace1f420"
+  },
+  "resources_context_only": {
+    "accounting_actual_vs_unmeasured_policy": "Completed scientific outer-parent seconds are measuredactual only. Separately retain600 conservative accounting charge for compact publishedROOT pre-admission supervisor wall UNKNOWN_NOT_PERSISTED (0scienceworker). Used/committed = knowncompletedactual + explicitunmeasuredconservativecharges + activecaps. Charge is not asserted actual spent time.",
+    "attempt_wall_seconds_max": 7200,
+    "budget_extension_policy": "User explicitly requested continue research,dontstop. Further tranches require explicit saved measured-cost/scope review and source-bound released bounded attempts, within localCPU/two-worker cap; no unbounded loops or silently reduced grids.",
+    "budget_policy": "Separate measured runtime review and explicit source/config/review-bound release before each phase/resume; first QGF scan7200cap. 24workerhours is root-selected continuation ceiling, not a user-specified amount. No automatic retries after error.",
+    "completed_attempt_actual_worker_seconds": 48775.114103380125,
+    "global_slot_files": [
+      "outputs/overnight_research_20261106_night/slots/slot0.lock",
+      "outputs/overnight_research_20261106_night/slots/slot1.lock"
+    ],
+    "initial_reviewed_worker_hour_tranche": 24,
+    "initial_tranche_seconds_remaining": 37024.885896619875,
+    "local_cpu": true,
+    "max_scientific_worker_hours_prospective": 24,
+    "scientific_worker_seconds_committed_or_used": 49375.114103380125,
+    "slot_content_writes": false,
+    "unmeasured_failed_admission_conservative_charges_seconds": 600,
+    "workers_max": 2
+  },
+  "runtime_or_ROOT_created": false,
+  "same86400_tranche": true,
+  "source_sha256": {
+    "work/continued_research_20261107/cube_quadruple_goal3_seed11_C0_three_context_frozen55_callbacks_20261109/canonical_codec.py": "808f454e01d512c448888cb7d4a666f1bc1e1b133b3a7510bae5c1fffedca8a1",
+    "work/continued_research_20261107/cube_quadruple_goal3_seed11_C0_three_context_frozen55_callbacks_20261109/checkpoint.py": "bb813e9e0e9677c141f41d0cb01bede0aa18011afe6e8128ac2b983b34e1f4d7",
+    "work/continued_research_20261107/cube_quadruple_goal3_seed11_C0_three_context_frozen55_callbacks_20261109/data.py": "93221329066b413c8ef4881006ed9324fa3e643440e1066e6c974e7c4984e653",
+    "work/continued_research_20261107/cube_quadruple_goal3_seed11_C0_three_context_frozen55_callbacks_20261109/field_helpers.py": "086cd15c96e50467d5a212fc024a8f5fb54991df2dc6fe9a17f057baa0236ed4",
+    "work/continued_research_20261107/cube_quadruple_goal3_seed11_C0_three_context_frozen55_callbacks_20261109/guard.py": "c7e44036bd82d9aeecb3983cf1f44db32db882c6fe027ee6ae529ab9c51e1c68",
+    "work/continued_research_20261107/cube_quadruple_goal3_seed11_C0_three_context_frozen55_callbacks_20261109/hard_watchdog.py": "9019f9786570d16c418c984b8d535b5839db5fe14e1f7681b14a26c8f8a6fc35",
+    "work/continued_research_20261107/cube_quadruple_goal3_seed11_C0_three_context_frozen55_callbacks_20261109/legacy_checkpoint.py": "4e9116f67ab2ab62420249ed9f6a339c273d6d92a76250f4bf1b4ff90c3c3510",
+    "work/continued_research_20261107/cube_quadruple_goal3_seed11_C0_three_context_frozen55_callbacks_20261109/model.py": "b89791e4ab2cd67c302104377cdace90644f5b760d9ac1639f519a8247060c24",
+    "work/continued_research_20261107/cube_quadruple_goal3_seed11_C0_three_context_frozen55_callbacks_20261109/prepare.py": "ca645fdb3ace1bda440590a27d21bf5a32fd1252270f784961df7247bcc1858b",
+    "work/continued_research_20261107/cube_quadruple_goal3_seed11_C0_three_context_frozen55_callbacks_20261109/restore_final.py": "31b84596f18b75e8e3ec82c557dbaf74ccd3355e6a5447b6231070f8645e7ccf",
+    "work/continued_research_20261107/cube_quadruple_goal3_seed11_C0_three_context_frozen55_callbacks_20261109/supervise.py": "0c7c862af99b4cd52d4cd7caf655131f27b3cb39d18aa8fbbecfae7bde4fa453",
+    "work/continued_research_20261107/cube_quadruple_goal3_seed11_C0_three_context_frozen55_callbacks_20261109/worker.py": "c35bc402a2dbbcd52542f2029078951459def49ef6cd583f9c53cf204cc71407"
+  },
+  "status": "ROOT_ACCEPTS_REVIEWED_QUAD_C0_THREE_CONTEXT_SOURCE_AND_OWN600_CALENDAR_NO_RUNTIME",
+  "training_seed": 11
+}

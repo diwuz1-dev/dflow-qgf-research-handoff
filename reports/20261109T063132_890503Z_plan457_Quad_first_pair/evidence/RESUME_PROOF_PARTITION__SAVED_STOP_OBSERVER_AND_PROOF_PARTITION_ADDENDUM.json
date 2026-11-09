@@ -1,0 +1,67 @@
+{
+  "UTC": "2026-11-09T06:08:43.284965+00:00",
+  "status": "PASS",
+  "scope": "Additional checks of the terminal audit savedJSON only; no new runtime, process, lock, opaque, model or numerical probes.",
+  "checks": [
+    {
+      "name": "actual_stop_observer35087_observations456131_captures",
+      "passed": true,
+      "actual": {
+        "new_observation_entries": 35087,
+        "capture_entries": 456131
+      },
+      "expected": {
+        "new_observation_entries": 35087,
+        "capture_entries": 456131
+      }
+    },
+    {
+      "name": "actual_success_no_stop_emit_write_fsync_or_metadata_error",
+      "passed": true,
+      "actual": {
+        "emit_entries": 0,
+        "emission_attempts": 0,
+        "json_encode_entries": 0,
+        "json_encode_returns": 0,
+        "encoded_bytes": 0,
+        "write_attempts": 0,
+        "write_returns": 0,
+        "write_returned_bytes": 0,
+        "fsync_attempts": 0,
+        "fsync_returns": 0,
+        "metadata_error_observed": 0
+      },
+      "expected": "all zero"
+    },
+    {
+      "name": "actual_final50000_payload_and_manifest_exact_ROOT_observation",
+      "passed": true,
+      "actual": {
+        "payload": "33bf6e496d84f68433829a623d2cf06d6c781c9a3c8b666ee41b375a915eb5e1",
+        "manifest": "de0c33a88fa1b6838a94890ba0f4954323d0f597f0d3cb7f68247577f11f1054"
+      },
+      "expected": {
+        "payload": "33bf6e496d84f68433829a623d2cf06d6c781c9a3c8b666ee41b375a915eb5e1",
+        "manifest": "de0c33a88fa1b6838a94890ba0f4954323d0f597f0d3cb7f68247577f11f1054"
+      }
+    },
+    {
+      "name": "proof1_template_zero_credit_distinct_from74_BC_actorFULL_RNG_checks",
+      "passed": true,
+      "actual": {
+        "template_proof_index": 1,
+        "template_credit": 0,
+        "BC_actorFULL_RNG_frozen_proof_count": 74,
+        "frozen_proof_first": 2,
+        "frozen_proof_last": 75
+      },
+      "expected": {
+        "template_proof_index": 1,
+        "template_credit": 0,
+        "BC_actorFULL_RNG_frozen_proof_count": 74,
+        "frozen_proof_first": 2,
+        "frozen_proof_last": 75
+      }
+    }
+  ]
+}

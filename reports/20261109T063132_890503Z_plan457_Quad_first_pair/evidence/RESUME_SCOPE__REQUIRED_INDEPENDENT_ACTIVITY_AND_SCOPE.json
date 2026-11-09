@@ -1,0 +1,21 @@
+{
+  "UTC": "2026-11-09T06:07:33.703456+00:00",
+  "status": "REQUIRED_INDEPENDENT_COMPLETED_EXACT_RESUME_ACTIVITY_AND_SCOPE",
+  "reviewer": "/root/q_scale_sanity",
+  "goal_id": 3,
+  "training_seed": 11,
+  "training_stage": "QV",
+  "effective_frontier": 50000,
+  "new_physical_QV_updates": 35000,
+  "known_old_nondurable_repeated": 723,
+  "actual_activity": "Saved JSON/JSONL and source-text hash verification; exactly53 declared opaque paths stat-bounded before wholefile SHA streaming;36 new checkpoint wholefile SHA only; one current fullPS and62 simultaneous readonlyEX_NB lock probes.",
+  "target_helper_guard_preparer_worker_checkpoint_model_import_or_execution": 0,
+  "NumPy_JAX_array_model_RNG_numerical_native_environment_work": 0,
+  "opaque_NPY_NPZ_checkpoint_header_decode_or_payload_replay": 0,
+  "auditor_reencoding_or_restoring_checkpoint_payload": 0,
+  "ROOT_plan_owner_control_or_scientific_source_mutations": 0,
+  "lockfile_creation_content_write_or_signal": 0,
+  "writes_only_this_new_audit_directory": "outputs/continued_research_20261107/review/cube_Quad_QV15000_resume_terminal_independent/20261109T060731_929949Z",
+  "no_doublecount_wall": "Measured outer-parent603.7042280002497seconds is the sole prospective reconciliation charge. Watchdog603.703379875049 and per-update timing are component/context records, not additional charges.",
+  "status_scope": "Independent terminal verification only; ROOT accounting reconciliation and any separately reviewed C0 lineage bridge/adoption remain ROOT responsibilities. Original C0616009 cannot be bypassed. No sampler/native/Qtruth qualification."
+}

@@ -1,0 +1,22 @@
+{
+  "NPY_NPZ_model_msgpack_payload_decode_or_numeric_replay": 0,
+  "NumPy_JAX_model_RNG_native_solver_matvec_calls": 0,
+  "ROOT_plan_owner_mutations": 0,
+  "current_resource_snapshot_not_historical_stop_cause": true,
+  "no_algorithm_failure_cause_repair_resume_success_zero_tail_or_Qtruth_claim": true,
+  "no_final50000_parent_or_C0_admission": true,
+  "opaque_stat_wholeSHA_only": true,
+  "parent_OP292point626876917202_count_once_only_pendingROOT": true,
+  "proof_record_conversion_scope_source_named_not_globalphysicaltransfers": true,
+  "status": "SAVED_FAILED_TERMINAL_PREFIX_AUDIT_NOT_COMPLETION",
+  "success_only_reader_preserved_UNRUN": {
+    "path": "work/continued_research_20261107/analysis/revisions/Quad_QV_success_reader_UNRUN_before_actual_partial_20261109T042419_003540Z/MANIFEST.json",
+    "sha256": "8459fbbc177ac35804a7e9628e6ef1c3108f1f0fedf1eaa8e41f2c139b14a6a8"
+  },
+  "target_helper_guard_preparer_worker_supervisor_invocation": 0,
+  "utility": {
+    "path": "work/continued_research_20261107/analysis/audit_Quad_goal3_seed11_QV50000_PARTIAL_terminal_SAVED.py",
+    "sha256": "ad03426d76d56b84959e4eb4d88298b45fc815a81cecd174e5778e21fd983c5a"
+  },
+  "watchdog_update_helper_admin_clocks_nonadditive": true
+}

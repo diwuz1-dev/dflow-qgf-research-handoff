@@ -1,0 +1,76 @@
+{
+  "P2_or_oldTriple_training_credit": 0,
+  "UTC": "2026-11-09T03:58:32.765977+00:00",
+  "actual_parent_seconds_counted_once": 911.2326483749785,
+  "canonical_encodes": 104,
+  "checkpoint_pairs": 51,
+  "decode_deviceput_block_each": 52,
+  "design_sha256": "d01a0dcee6dcd0cdb76548f034c47834bd2b0c3bc1b8bd01195c1a53bafff49b",
+  "effective_frontier": 50000,
+  "extra6step_RNG_asarray_perproof_source_APIs_not_global_transfers": 624,
+  "first_helper_and_job_SPENT_never_rerun": true,
+  "fullproofs": 104,
+  "goal_id": 3,
+  "independent_terminal_audit": {
+    "path": "outputs/continued_research_20261107/review/cube_Quadruple_goal3_seed11_BC50000_completed_independent/20261109T035449_635187Z/REVIEW.json",
+    "sha256": "d82d4bf4d7ae891fd1c1b53093a760c1ad09cb8d4b4b1f8c191637053156b724"
+  },
+  "job_id": "Quad-goal3-seed11-fresh-BC50000-9c4bee397b594d1da9208990968f271a",
+  "native_VAL_CONF_actionrows_added": 0,
+  "no_QV_native_policy_success_Qtruth_or_sampler_adoption": true,
+  "numeric_proof_leaves": 10608,
+  "physical_and_logical_slots_FREE": true,
+  "physical_updates": 50000,
+  "proof_descriptor_records_including104None": 10712,
+  "required_activity_and_scope": {
+    "path": "outputs/continued_research_20261107/review/cube_Quadruple_goal3_seed11_BC50000_completed_independent/20261109T035449_635187Z/REQUIRED_INDEPENDENT_ACTIVITY_AND_SCOPE.json",
+    "sha256": "7d3e97c0454f5695180f69affd911a34b4581b38c40e0ebdc497fd52514b8be4"
+  },
+  "resources_after": {
+    "accounting_actual_vs_unmeasured_policy": "Completed scientific outer-parent seconds are measuredactual only. Separately retain600 conservative accounting charge for compact publishedROOT pre-admission supervisor wall UNKNOWN_NOT_PERSISTED (0scienceworker). Used/committed = knowncompletedactual + explicitunmeasuredconservativecharges + activecaps. Charge is not asserted actual spent time.",
+    "attempt_wall_seconds_max": 7200,
+    "budget_extension_policy": "User explicitly requested continue research,dontstop. Further tranches require explicit saved measured-cost/scope review and source-bound released bounded attempts, within localCPU/two-worker cap; no unbounded loops or silently reduced grids.",
+    "budget_policy": "Separate measured runtime review and explicit source/config/review-bound release before each phase/resume; first QGF scan7200cap. 24workerhours is root-selected continuation ceiling, not a user-specified amount. No automatic retries after error.",
+    "completed_attempt_actual_worker_seconds": 47878.78299846267,
+    "global_slot_files": [
+      "outputs/overnight_research_20261106_night/slots/slot0.lock",
+      "outputs/overnight_research_20261106_night/slots/slot1.lock"
+    ],
+    "initial_reviewed_worker_hour_tranche": 24,
+    "initial_tranche_seconds_remaining": 37921.21700153733,
+    "local_cpu": true,
+    "max_scientific_worker_hours_prospective": 24,
+    "scientific_worker_seconds_committed_or_used": 48478.78299846267,
+    "slot_content_writes": false,
+    "unmeasured_failed_admission_conservative_charges_seconds": 600,
+    "workers_max": 2
+  },
+  "resources_before": {
+    "accounting_actual_vs_unmeasured_policy": "Completed scientific outer-parent seconds are measuredactual only. Separately retain600 conservative accounting charge for compact publishedROOT pre-admission supervisor wall UNKNOWN_NOT_PERSISTED (0scienceworker). Used/committed = knowncompletedactual + explicitunmeasuredconservativecharges + activecaps. Charge is not asserted actual spent time.",
+    "attempt_wall_seconds_max": 7200,
+    "budget_extension_policy": "User explicitly requested continue research,dontstop. Further tranches require explicit saved measured-cost/scope review and source-bound released bounded attempts, within localCPU/two-worker cap; no unbounded loops or silently reduced grids.",
+    "budget_policy": "Separate measured runtime review and explicit source/config/review-bound release before each phase/resume; first QGF scan7200cap. 24workerhours is root-selected continuation ceiling, not a user-specified amount. No automatic retries after error.",
+    "completed_attempt_actual_worker_seconds": 46967.550350087695,
+    "global_slot_files": [
+      "outputs/overnight_research_20261106_night/slots/slot0.lock",
+      "outputs/overnight_research_20261106_night/slots/slot1.lock"
+    ],
+    "initial_reviewed_worker_hour_tranche": 24,
+    "initial_tranche_seconds_remaining": 31632.449649912305,
+    "local_cpu": true,
+    "max_scientific_worker_hours_prospective": 24,
+    "scientific_worker_seconds_committed_or_used": 54767.550350087695,
+    "slot_content_writes": false,
+    "unmeasured_failed_admission_conservative_charges_seconds": 600,
+    "workers_max": 2
+  },
+  "root_current_cleanup": {
+    "path": "outputs/continued_research_20261107/review/cube_Quad_goal3_seed11_BC50000_ROOT_terminal_reconciliation/20261109T035832_765977Z/ROOT_CURRENT_READONLY_LOCKS_AND_PS.json",
+    "sha256": "6c2ddaece6177b75b911857c49df866ad3219ec8a56c3b078e536e44dbc8c101"
+  },
+  "root_release_sha256": "7ff5284a3bf7b0a68713c4673700e204be9c1bdfac3bd215815a0f56f8d951a1",
+  "status": "ROOT_RECONCILES_COMPLETE_QUAD_CREDITED_TRAINING_PHASE",
+  "training_seed": 11,
+  "training_stage": "BC",
+  "worker_watchdog_helper_admin_update_times_nonadditive": true
+}

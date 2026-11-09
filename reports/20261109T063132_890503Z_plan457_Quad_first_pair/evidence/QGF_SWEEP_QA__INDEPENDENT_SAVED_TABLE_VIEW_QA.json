@@ -1,0 +1,558 @@
+{
+  "status": "PASS",
+  "utc": "2026-11-09T05:23:32.922589+00:00",
+  "scope": "Independent saved-table view verification only. Compared complete CSV cells to plan365 source tables and rehashed manifest-listed files. No model, sampler, native, target, environment, array, RNG, checkpoint, trace, or underlying payload queries. No new scientific executions. Plot content visual QA is explicitly excluded and handled separately by root.",
+  "auditor": "q_scale_sanity independent subagent",
+  "checks_total": 43,
+  "checks_passed": 43,
+  "checks": [
+    {
+      "name": "all_five_manifest_file_hashes_match",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "source_csv_hash_matches_manifest",
+      "passed": true,
+      "actual": "de8d1c8a88462ab8e90d81ab438fca8b81904fa3a36af5ca2b3892957aa909cb",
+      "expected": "de8d1c8a88462ab8e90d81ab438fca8b81904fa3a36af5ca2b3892957aa909cb"
+    },
+    {
+      "name": "source_confirmation_csv_hash_matches_manifest",
+      "passed": true,
+      "actual": "79b1b5c443c2049043cd85dfa3eb8b60b93f885f273725c67fdfcbcd2045b1f5",
+      "expected": "79b1b5c443c2049043cd85dfa3eb8b60b93f885f273725c67fdfcbcd2045b1f5"
+    },
+    {
+      "name": "full324_headers_exact_source",
+      "passed": true,
+      "actual": [
+        "task",
+        "training_seed",
+        "condition",
+        "executed_family",
+        "lambda",
+        "kappa",
+        "eta",
+        "I",
+        "sigma",
+        "K",
+        "M",
+        "N",
+        "temperature",
+        "phase",
+        "role",
+        "grid_status",
+        "config_id",
+        "evidence_role",
+        "new_episodes_in_joint_M_scan",
+        "original_episode_executions_represented_once",
+        "original_M8_config_id",
+        "source_metric_path",
+        "source_metric_sha256",
+        "design_path",
+        "design_sha256",
+        "successes",
+        "episodes",
+        "mean_return",
+        "actual_action_rows",
+        "physical_steps",
+        "nonfinite_action_steps",
+        "out_of_bounds_action_steps",
+        "alias_episode_rows",
+        "raw_csv_paths_json",
+        "raw_csv_sha256_json",
+        "metadata_paths_json",
+        "trace_refs_metadata_only_json",
+        "reset_ids_json",
+        "policy_seed",
+        "actual_csv_identity_configs_json",
+        "actor_checkpoint_sha256",
+        "critic_checkpoint_sha256",
+        "all_initial_context_hashes_json",
+        "configuration_json"
+      ],
+      "expected": [
+        "task",
+        "training_seed",
+        "condition",
+        "executed_family",
+        "lambda",
+        "kappa",
+        "eta",
+        "I",
+        "sigma",
+        "K",
+        "M",
+        "N",
+        "temperature",
+        "phase",
+        "role",
+        "grid_status",
+        "config_id",
+        "evidence_role",
+        "new_episodes_in_joint_M_scan",
+        "original_episode_executions_represented_once",
+        "original_M8_config_id",
+        "source_metric_path",
+        "source_metric_sha256",
+        "design_path",
+        "design_sha256",
+        "successes",
+        "episodes",
+        "mean_return",
+        "actual_action_rows",
+        "physical_steps",
+        "nonfinite_action_steps",
+        "out_of_bounds_action_steps",
+        "alias_episode_rows",
+        "raw_csv_paths_json",
+        "raw_csv_sha256_json",
+        "metadata_paths_json",
+        "trace_refs_metadata_only_json",
+        "reset_ids_json",
+        "policy_seed",
+        "actual_csv_identity_configs_json",
+        "actor_checkpoint_sha256",
+        "critic_checkpoint_sha256",
+        "all_initial_context_hashes_json",
+        "configuration_json"
+      ]
+    },
+    {
+      "name": "full324_row_count",
+      "passed": true,
+      "actual": 324,
+      "expected": 324
+    },
+    {
+      "name": "full324_all_cells_exact_source_filtered_including_order",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "confirmation9_headers_exact_source",
+      "passed": true,
+      "actual": [
+        "scope",
+        "task",
+        "training_seed",
+        "condition",
+        "phase",
+        "literal_order_zero_based",
+        "selected_primary",
+        "config_id",
+        "family",
+        "kappa",
+        "eta",
+        "iterations",
+        "sigma",
+        "K",
+        "M",
+        "N",
+        "lambda",
+        "temperature",
+        "noise_strength",
+        "ridge",
+        "successes",
+        "episodes_represented_not_new_executions",
+        "mean_return",
+        "mean_episode_length",
+        "mean_saturation_fraction",
+        "nonfinite_failures",
+        "invalid_action_events",
+        "source_metric_path",
+        "source_metric_sha256",
+        "full_configuration_json",
+        "underlying_csv_paths_json",
+        "evidence_role",
+        "metric_view_not_independent_episode_or_query"
+      ],
+      "expected": [
+        "scope",
+        "task",
+        "training_seed",
+        "condition",
+        "phase",
+        "literal_order_zero_based",
+        "selected_primary",
+        "config_id",
+        "family",
+        "kappa",
+        "eta",
+        "iterations",
+        "sigma",
+        "K",
+        "M",
+        "N",
+        "lambda",
+        "temperature",
+        "noise_strength",
+        "ridge",
+        "successes",
+        "episodes_represented_not_new_executions",
+        "mean_return",
+        "mean_episode_length",
+        "mean_saturation_fraction",
+        "nonfinite_failures",
+        "invalid_action_events",
+        "source_metric_path",
+        "source_metric_sha256",
+        "full_configuration_json",
+        "underlying_csv_paths_json",
+        "evidence_role",
+        "metric_view_not_independent_episode_or_query"
+      ]
+    },
+    {
+      "name": "confirmation9_row_count",
+      "passed": true,
+      "actual": 9,
+      "expected": 9
+    },
+    {
+      "name": "confirmation9_all_cells_exact_source_filtered_including_literal_order",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "full324_exact_cartesian_coverage",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "full324_no_duplicate_config_keys",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "full324_unique_config_ids",
+      "passed": true,
+      "actual": 324,
+      "expected": 324
+    },
+    {
+      "name": "full324_each_denominator20",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "full324_role_not_heldout",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "full324_validation20_phase",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "full324_inherited_M8_role_exact",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "full324_new_M16_32_64_role_exact",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "full324_total_represented_validation",
+      "passed": true,
+      "actual": 6480,
+      "expected": 6480
+    },
+    {
+      "name": "full324_inherited_M8_reference_episodes",
+      "passed": true,
+      "actual": 1620,
+      "expected": 1620
+    },
+    {
+      "name": "full324_new_joint_scan_episodes",
+      "passed": true,
+      "actual": 4860,
+      "expected": 4860
+    },
+    {
+      "name": "wide108_headers",
+      "passed": true,
+      "actual": [
+        "kappa",
+        "M_flow_steps",
+        "seed11_successes",
+        "seed11_episodes",
+        "seed23_successes",
+        "seed23_episodes",
+        "seed37_successes",
+        "seed37_episodes",
+        "phase",
+        "execution_role"
+      ],
+      "expected": [
+        "kappa",
+        "M_flow_steps",
+        "seed11_successes",
+        "seed11_episodes",
+        "seed23_successes",
+        "seed23_episodes",
+        "seed37_successes",
+        "seed37_episodes",
+        "phase",
+        "execution_role"
+      ]
+    },
+    {
+      "name": "wide108_row_count",
+      "passed": true,
+      "actual": 108,
+      "expected": 108
+    },
+    {
+      "name": "wide108_exact_cartesian_coverage",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "wide108_no_duplicate_keys",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "wide108_all648_seed_metric_cells_and216_context_cells_match_source",
+      "passed": true,
+      "actual": [],
+      "expected": []
+    },
+    {
+      "name": "confirmation9_all_denominators40",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "confirmation9_total_represented",
+      "passed": true,
+      "actual": 360,
+      "expected": 360
+    },
+    {
+      "name": "confirmation9_not_heldout",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "confirmation9_metric_view_not_independent_queries",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "confirmation9_literal3_per_seed",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "confirmation9_selected_16_320_16_and_M64_8_16",
+      "passed": true,
+      "actual": [
+        [
+          "11",
+          "16.0",
+          "64",
+          "40"
+        ],
+        [
+          "23",
+          "320.0",
+          "8",
+          "40"
+        ],
+        [
+          "37",
+          "16.0",
+          "16",
+          "40"
+        ]
+      ],
+      "expected": [
+        [
+          "11",
+          "16.0",
+          "64",
+          "40"
+        ],
+        [
+          "23",
+          "320.0",
+          "8",
+          "40"
+        ],
+        [
+          "37",
+          "16.0",
+          "16",
+          "40"
+        ]
+      ]
+    },
+    {
+      "name": "manifest_validation_unique_configs",
+      "passed": true,
+      "actual": 324,
+      "expected": 324
+    },
+    {
+      "name": "manifest_represented_validation_episodes",
+      "passed": true,
+      "actual": 6480,
+      "expected": 6480
+    },
+    {
+      "name": "manifest_inherited_M8_reference_episodes",
+      "passed": true,
+      "actual": 1620,
+      "expected": 1620
+    },
+    {
+      "name": "manifest_new_joint_scan_episodes",
+      "passed": true,
+      "actual": 4860,
+      "expected": 4860
+    },
+    {
+      "name": "manifest_fresh_confirmation_alternatives",
+      "passed": true,
+      "actual": 9,
+      "expected": 9
+    },
+    {
+      "name": "manifest_represented_fresh_confirmation_episodes",
+      "passed": true,
+      "actual": 360,
+      "expected": 360
+    },
+    {
+      "name": "manifest_new_model_sampler_native_queries",
+      "passed": true,
+      "actual": 0,
+      "expected": 0
+    },
+    {
+      "name": "manifest_not_heldout",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "manifest_kappa_grid_exact",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "manifest_M_grid_exact",
+      "passed": true,
+      "actual": [
+        8,
+        16,
+        32,
+        64
+      ],
+      "expected": [
+        8,
+        16,
+        32,
+        64
+      ]
+    },
+    {
+      "name": "manifest_training_seeds_exact",
+      "passed": true,
+      "actual": [
+        11,
+        23,
+        37
+      ],
+      "expected": [
+        11,
+        23,
+        37
+      ]
+    },
+    {
+      "name": "all_original_source_table_manifest_and_plot_files_unchanged_during_audit",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    }
+  ],
+  "manifest_file_hashes": [
+    {
+      "file": "TASK2_QGF_ALL324_VALIDATION_CONFIGURATIONS.csv",
+      "expected_sha256": "956453f7a2bcd6ffd5187712fa8ec915fc76927e2911219b7af6f2370d5930c9",
+      "actual_sha256": "956453f7a2bcd6ffd5187712fa8ec915fc76927e2911219b7af6f2370d5930c9",
+      "passed": true
+    },
+    {
+      "file": "TASK2_QGF_ALL9_FRESH40_CONFIRMATION_ALTERNATIVES.csv",
+      "expected_sha256": "64b22aadbf1ab5b4a2a3c33eabcc0e03c05d2938463adfc9e495f355bd0d4de1",
+      "actual_sha256": "64b22aadbf1ab5b4a2a3c33eabcc0e03c05d2938463adfc9e495f355bd0d4de1",
+      "passed": true
+    },
+    {
+      "file": "TASK2_QGF_FULL_SWEEP.png",
+      "expected_sha256": "46609d927e34d8b4ecd5adddb4151acbf42ee92f665ba705ba53a1ec91589c83",
+      "actual_sha256": "46609d927e34d8b4ecd5adddb4151acbf42ee92f665ba705ba53a1ec91589c83",
+      "passed": true
+    },
+    {
+      "file": "TASK2_QGF_FULL_SWEEP.svg",
+      "expected_sha256": "d1f002bcd1926521087ebcd286c3c62a52a89390a32b634efdbca5de850fe362",
+      "actual_sha256": "d1f002bcd1926521087ebcd286c3c62a52a89390a32b634efdbca5de850fe362",
+      "passed": true
+    },
+    {
+      "file": "TASK2_QGF_SWEEP_108_ROWS_ALL3_SEEDS.csv",
+      "expected_sha256": "d0e2eb474f7a735fb780dabf87c3795c3feb8bbc1d2d349c45c9dc5025e0991a",
+      "actual_sha256": "d0e2eb474f7a735fb780dabf87c3795c3feb8bbc1d2d349c45c9dc5025e0991a",
+      "passed": true
+    }
+  ],
+  "original_file_sha256_before_and_after": {
+    "outputs/continued_research_20261107/qgf_task2_full_sweep_view/20261109T052157_908778Z/MANIFEST.json": "5c6743321890155da9119a379d08e3fbbc393f3b75ad2938c7445cb0fdcd1ee3",
+    "outputs/continued_research_20261107/current_results/20261108T180816_652947Z_plan365/QGF_ALL648_TASK2_TASK5_FULL27KAPPA_X4M_X3MODELS.csv": "de8d1c8a88462ab8e90d81ab438fca8b81904fa3a36af5ca2b3892957aa909cb",
+    "outputs/continued_research_20261107/current_results/20261108T180816_652947Z_plan365/QGF_TASK2_TASK5_ALL18_LITERAL_FRESH40_ALTERNATIVES.csv": "79b1b5c443c2049043cd85dfa3eb8b60b93f885f273725c67fdfcbcd2045b1f5",
+    "outputs/continued_research_20261107/qgf_task2_full_sweep_view/20261109T052157_908778Z/TASK2_QGF_ALL324_VALIDATION_CONFIGURATIONS.csv": "956453f7a2bcd6ffd5187712fa8ec915fc76927e2911219b7af6f2370d5930c9",
+    "outputs/continued_research_20261107/qgf_task2_full_sweep_view/20261109T052157_908778Z/TASK2_QGF_ALL9_FRESH40_CONFIRMATION_ALTERNATIVES.csv": "64b22aadbf1ab5b4a2a3c33eabcc0e03c05d2938463adfc9e495f355bd0d4de1",
+    "outputs/continued_research_20261107/qgf_task2_full_sweep_view/20261109T052157_908778Z/TASK2_QGF_FULL_SWEEP.png": "46609d927e34d8b4ecd5adddb4151acbf42ee92f665ba705ba53a1ec91589c83",
+    "outputs/continued_research_20261107/qgf_task2_full_sweep_view/20261109T052157_908778Z/TASK2_QGF_FULL_SWEEP.svg": "d1f002bcd1926521087ebcd286c3c62a52a89390a32b634efdbca5de850fe362",
+    "outputs/continued_research_20261107/qgf_task2_full_sweep_view/20261109T052157_908778Z/TASK2_QGF_SWEEP_108_ROWS_ALL3_SEEDS.csv": "d0e2eb474f7a735fb780dabf87c3795c3feb8bbc1d2d349c45c9dc5025e0991a"
+  },
+  "new_scientific_executions_by_this_audit": 0,
+  "source_csv_files_read": [
+    "outputs/continued_research_20261107/current_results/20261108T180816_652947Z_plan365/QGF_ALL648_TASK2_TASK5_FULL27KAPPA_X4M_X3MODELS.csv",
+    "outputs/continued_research_20261107/current_results/20261108T180816_652947Z_plan365/QGF_TASK2_TASK5_ALL18_LITERAL_FRESH40_ALTERNATIVES.csv"
+  ],
+  "referenced_payloads_opened": 0,
+  "original_files_mutated": false,
+  "qa_file_is_additive_and_not_inserted_into_original_manifest": true,
+  "limitations": [
+    "Source CSVs and the saved view are verified for exact consistency; previously reported scientific outcomes are not re-executed or independently re-estimated.",
+    "Figure bytes match the manifest; visual content and layout are not evaluated by this audit."
+  ]
+}

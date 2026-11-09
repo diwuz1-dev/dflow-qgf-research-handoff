@@ -1,0 +1,29 @@
+{
+  "SOURCE_copies": 10,
+  "design": {
+    "path": "outputs/continued_research_20261107/cube_quadruple_tasks345_fresh_BC_QV50000_20261109/preparation/DESIGN.json",
+    "sha256": "d01a0dcee6dcd0cdb76548f034c47834bd2b0c3bc1b8bd01195c1a53bafff49b"
+  },
+  "old_TEXT_realcopy2": 463,
+  "opaque_data_checkpoint_runtime_stat_hash_copy_headers_or_decode": 0,
+  "opaque_declared_unopened": 51,
+  "source_author_external_script": "work/continued_research_20261107/analysis/prepare_QuadFull_SOURCE_EXTERNAL_20261109_v2.py",
+  "source_author_external_script_sha256": "240cf15ef1cdb70e82ab70e7b77aea1b67aefb80236b38b689f3069ab2455984",
+  "source_files": 10,
+  "source_input_union_keys": 1372,
+  "source_sha256": {
+    "work/continued_research_20261107/cube_quadruple_tasks345_fresh_BC_QV50000_20261109/canonical_codec.py": "808f454e01d512c448888cb7d4a666f1bc1e1b133b3a7510bae5c1fffedca8a1",
+    "work/continued_research_20261107/cube_quadruple_tasks345_fresh_BC_QV50000_20261109/checkpoint.py": "4e9116f67ab2ab62420249ed9f6a339c273d6d92a76250f4bf1b4ff90c3c3510",
+    "work/continued_research_20261107/cube_quadruple_tasks345_fresh_BC_QV50000_20261109/data.py": "93221329066b413c8ef4881006ed9324fa3e643440e1066e6c974e7c4984e653",
+    "work/continued_research_20261107/cube_quadruple_tasks345_fresh_BC_QV50000_20261109/guard.py": "1cb23844ced32944332ab86d6e8d6ec6f4fa58abdbdcc300be8b6753b44eef2f",
+    "work/continued_research_20261107/cube_quadruple_tasks345_fresh_BC_QV50000_20261109/hard_watchdog.py": "9019f9786570d16c418c984b8d535b5839db5fe14e1f7681b14a26c8f8a6fc35",
+    "work/continued_research_20261107/cube_quadruple_tasks345_fresh_BC_QV50000_20261109/model.py": "b89791e4ab2cd67c302104377cdace90644f5b760d9ac1639f519a8247060c24",
+    "work/continued_research_20261107/cube_quadruple_tasks345_fresh_BC_QV50000_20261109/parent.py": "a73e0548b47f82059145be39e3e15cfc621298964890fb98c2a141534222534e",
+    "work/continued_research_20261107/cube_quadruple_tasks345_fresh_BC_QV50000_20261109/prepare.py": "a912deb875750dddb433d5fc4a1ead1d666898e494a0cd00fddbdd9cc790e4d9",
+    "work/continued_research_20261107/cube_quadruple_tasks345_fresh_BC_QV50000_20261109/supervise.py": "7e0506cebc7dc84822b4f637bd329789a37b25b7e8959ab60901202b5b3c4a5d",
+    "work/continued_research_20261107/cube_quadruple_tasks345_fresh_BC_QV50000_20261109/worker.py": "1737be59b5850c140a4271e5b6b6d7b9197ed6997f41f7105621880d26db01b2"
+  },
+  "status": "CLOSED_SOURCE_ONLY_NOT_TARGET_EXECUTED",
+  "target_import_compile_execution_NumPy_JAX_models_native_RNG_PS_flock_ROOT_plan_owner_activity": 0,
+  "verified_TEXT_bindings": 1311
+}

@@ -1,0 +1,36 @@
+{
+  "PDF": {
+    "path": "outputs/continued_research_20261107/progress_snapshots/20261109T063132_890503Z_plan457_Quad_first_pair/PARTIAL_PLAN457_QUAD_FIRST_TRAINING_PAIR.pdf",
+    "sha256": "d6309d23aed4a06a2a776e5cb84dfba90036d683a2e5f63edeadd97a5147db0c"
+  },
+  "Root_independent_review": "PENDING",
+  "TXT": {
+    "path": "outputs/continued_research_20261107/progress_snapshots/20261109T063132_890503Z_plan457_Quad_first_pair/PARTIAL_PLAN457_QUAD_FIRST_TRAINING_PAIR.txt",
+    "sha256": "3f4353767769655db9a67221636867868f99f6d9f5d0c59a50ec5bdb38d823ee"
+  },
+  "UTC": "2026-11-09T06:31:32.985796+00:00",
+  "actual_PDF_pages": 4,
+  "author_actual_visual_review": "PENDING",
+  "author_utility": {
+    "path": "work/continued_research_20261107/analysis/create_plan457_Quad_first_pair_PARTIAL_pdf_20261109.py",
+    "sha256": "557618bb53102e1bb85ae14203393657912b4b57e198dc4861e146c1d0f7741b"
+  },
+  "content_checks": {
+    "all24_DF_and6_QGF_FK_conf_table_joined_to_old365_scalar_CSV": true,
+    "all9_grid": 9,
+    "all_current_source_and_copied_evidence_SHA_rechecked": true,
+    "complete_pairs": 1,
+    "complete_phases": 2,
+    "new_native_or_heldout_scientific_calls": 0,
+    "public_native_rates_claimed": 0,
+    "remaining_phases": 16,
+    "remaining_updates": 800000,
+    "source_pin_count": 39
+  },
+  "manifest": {
+    "path": "outputs/continued_research_20261107/progress_snapshots/20261109T063132_890503Z_plan457_Quad_first_pair/REFERENCE_BUNDLE_MANIFEST.json",
+    "sha256": "b4203806049b77d26734b3637e590ea1dc0d4557a09d7d22e7fc086c2ad14d62"
+  },
+  "operation_marker_required_before_author_command": true,
+  "status": "BUILT_4PAGE_PARTIAL_PENDING_ACTUAL_VISUAL_INSPECTION"
+}

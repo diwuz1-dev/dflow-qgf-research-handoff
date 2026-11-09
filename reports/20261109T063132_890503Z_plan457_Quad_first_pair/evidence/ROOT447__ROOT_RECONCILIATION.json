@@ -1,0 +1,92 @@
+{
+  "31k_logged_predicates_PASS_not_later_gates": {
+    "FAIL": 0,
+    "PASS": 31702
+  },
+  "UTC": "2026-11-09T04:31:43.323486+00:00",
+  "actual_scientific_outer_parent_seconds_counted_ONCE": 292.626876917202,
+  "canonical_encodes": 33,
+  "checkpoint_pairs": 16,
+  "continuation_or_newattempt_requires_new_protocol_reviews_cost_calendar_ROOT": true,
+  "current_cleanup": {
+    "path": "outputs/continued_research_20261107/review/cube_Quad_goal3_seed11_QV50000_ROOT_failed_partial_reconciliation/20261109T043143_323486Z/ROOT_CURRENT_READONLY_CLEANUP.json",
+    "sha256": "a8ec55a32bf5db937549be0b4fce830abac997f7e0289050fcda0fa10a9b5db0"
+  },
+  "decode_deviceput_block_each": 17,
+  "durable_effective_frontier": 15000,
+  "durable_pointer": {
+    "design_sha256": "d01a0dcee6dcd0cdb76548f034c47834bd2b0c3bc1b8bd01195c1a53bafff49b",
+    "directory": "outputs/continued_research_20261107/cube_quadruple_tasks345_fresh_BC_QV50000_20261109/lineages/goal3_seed11/QV/attempts/Quad-goal3-seed11-BC-parent-QV50000-ea9c4ec0704e497b81aaf53387691e7e/STAGES/goal3_seed11_QV/checkpoints/Quad-goal3-seed11-BC-parent-QV50000-ea9c4ec0704e497b81aaf53387691e7e-15000-durable_fullstate",
+    "effective_frontier": 15000,
+    "manifest_sha256": "48a00f6b16669891c101d4b4f5d78e662d4732588cfe04059518d60078e93a57",
+    "payload_sha256": "d042ae4c5c095356b1727670fc689b1060cbc1f2eb9f5e0403a6c01ac6e43595",
+    "phase": "goal3_seed11_QV",
+    "schema": "QUAD_FULLTRAIN_CANONICAL_POINTER_V1"
+  },
+  "first_helper_and_job_SPENT_never_rerun": true,
+  "fullproofs": 34,
+  "goal_id": 3,
+  "historical_RSS_disk_output_signalflag_not_reconstructed_from_current_measurements": true,
+  "independent_audit": {
+    "path": "outputs/continued_research_20261107/review/cube_Quadruple_goal3_seed11_QV50000_partial_failed_independent/20261109T042726_189284Z/REVIEW.json",
+    "sha256": "406bc9223442d9cade2265fd834186c03eb9797f7ff9acb6a2ba82b5e083aa79"
+  },
+  "job_id": "Quad-goal3-seed11-BC-parent-QV50000-ea9c4ec0704e497b81aaf53387691e7e",
+  "known_returned_uncheckpointed_updates": 723,
+  "logged_returned_updates": 15723,
+  "no_AFTER_or_COMPLETION_invented": true,
+  "no_C0_sampler_native_Qtruth_or_algorithm_failure_qualification": true,
+  "no_automatic_retry_resume_or_phasechain": true,
+  "no_completed_QV50000_or_full_BC_QV_parent_credit": true,
+  "other_worker_watchdog_helper_admin_body_clocks_nonadditive": true,
+  "physical_and_logical_slots_FREE": true,
+  "required_activity_and_scope": {
+    "path": "outputs/continued_research_20261107/review/cube_Quadruple_goal3_seed11_QV50000_partial_failed_independent/20261109T042726_189284Z/REQUIRED_INDEPENDENT_ACTIVITY_AND_SCOPE.json",
+    "sha256": "27fc68db6b509db53148ef8136659e3c5d81eee1795d490370b8fa1c1b6d5dd4"
+  },
+  "resources_after": {
+    "accounting_actual_vs_unmeasured_policy": "Completed scientific outer-parent seconds are measuredactual only. Separately retain600 conservative accounting charge for compact publishedROOT pre-admission supervisor wall UNKNOWN_NOT_PERSISTED (0scienceworker). Used/committed = knowncompletedactual + explicitunmeasuredconservativecharges + activecaps. Charge is not asserted actual spent time.",
+    "attempt_wall_seconds_max": 7200,
+    "budget_extension_policy": "User explicitly requested continue research,dontstop. Further tranches require explicit saved measured-cost/scope review and source-bound released bounded attempts, within localCPU/two-worker cap; no unbounded loops or silently reduced grids.",
+    "budget_policy": "Separate measured runtime review and explicit source/config/review-bound release before each phase/resume; first QGF scan7200cap. 24workerhours is root-selected continuation ceiling, not a user-specified amount. No automatic retries after error.",
+    "completed_attempt_actual_worker_seconds": 48171.409875379875,
+    "global_slot_files": [
+      "outputs/overnight_research_20261106_night/slots/slot0.lock",
+      "outputs/overnight_research_20261106_night/slots/slot1.lock"
+    ],
+    "initial_reviewed_worker_hour_tranche": 24,
+    "initial_tranche_seconds_remaining": 37628.590124620125,
+    "local_cpu": true,
+    "max_scientific_worker_hours_prospective": 24,
+    "scientific_worker_seconds_committed_or_used": 48771.409875379875,
+    "slot_content_writes": false,
+    "unmeasured_failed_admission_conservative_charges_seconds": 600,
+    "workers_max": 2
+  },
+  "resources_before": {
+    "accounting_actual_vs_unmeasured_policy": "Completed scientific outer-parent seconds are measuredactual only. Separately retain600 conservative accounting charge for compact publishedROOT pre-admission supervisor wall UNKNOWN_NOT_PERSISTED (0scienceworker). Used/committed = knowncompletedactual + explicitunmeasuredconservativecharges + activecaps. Charge is not asserted actual spent time.",
+    "attempt_wall_seconds_max": 7200,
+    "budget_extension_policy": "User explicitly requested continue research,dontstop. Further tranches require explicit saved measured-cost/scope review and source-bound released bounded attempts, within localCPU/two-worker cap; no unbounded loops or silently reduced grids.",
+    "budget_policy": "Separate measured runtime review and explicit source/config/review-bound release before each phase/resume; first QGF scan7200cap. 24workerhours is root-selected continuation ceiling, not a user-specified amount. No automatic retries after error.",
+    "completed_attempt_actual_worker_seconds": 47878.78299846267,
+    "global_slot_files": [
+      "outputs/overnight_research_20261106_night/slots/slot0.lock",
+      "outputs/overnight_research_20261106_night/slots/slot1.lock"
+    ],
+    "initial_reviewed_worker_hour_tranche": 24,
+    "initial_tranche_seconds_remaining": 30721.217001537327,
+    "local_cpu": true,
+    "max_scientific_worker_hours_prospective": 24,
+    "scientific_worker_seconds_committed_or_used": 55678.78299846267,
+    "slot_content_writes": false,
+    "unmeasured_failed_admission_conservative_charges_seconds": 600,
+    "workers_max": 2
+  },
+  "root_release_sha256": "c87f8acb89684405dde6789489cef9ca8f3348886881cb7600d17e096cfbcf47",
+  "status": "ROOT_RECONCILES_FAILED_QUAD_QV_BOUNDED_PARTIAL_NOT_FULL_PHASE_OR_NATIVE_QUALIFICATION",
+  "target_effective_frontier": 50000,
+  "training_seed": 11,
+  "training_stage": "QV",
+  "triggering_stop_conjunct": "UNKNOWN_NOT_PERSISTED",
+  "unknown_inflight_cleanup_tail_retained": true
+}

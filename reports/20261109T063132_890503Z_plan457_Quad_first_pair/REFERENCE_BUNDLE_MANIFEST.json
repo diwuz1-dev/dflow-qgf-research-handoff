@@ -1,0 +1,33 @@
+{
+  "PDF": {
+    "path": "outputs/continued_research_20261107/progress_snapshots/20261109T063132_890503Z_plan457_Quad_first_pair/PARTIAL_PLAN457_QUAD_FIRST_TRAINING_PAIR.pdf",
+    "sha256": "d6309d23aed4a06a2a776e5cb84dfba90036d683a2e5f63edeadd97a5147db0c"
+  },
+  "TXT": {
+    "path": "outputs/continued_research_20261107/progress_snapshots/20261109T063132_890503Z_plan457_Quad_first_pair/PARTIAL_PLAN457_QUAD_FIRST_TRAINING_PAIR.txt",
+    "sha256": "3f4353767769655db9a67221636867868f99f6d9f5d0c59a50ec5bdb38d823ee"
+  },
+  "ZIP_created": false,
+  "canonical_reference_index": {
+    "path": "outputs/continued_research_20261107/progress_snapshots/20261109T063132_890503Z_plan457_Quad_first_pair/AUDITED_CANONICAL_AND_ATTEMPT_REFERENCE_INDEX.json",
+    "sha256": "ddc5509a9632b6383bf5661a99c815aec3e38fca2b51b519a0a21b92068ff746"
+  },
+  "checkpoint_data_runtime_and_full_attempt_journals_embedded": false,
+  "new_report_uploaded": false,
+  "no_scientific_files_cut_or_deleted": true,
+  "old365_full_selected_tuples_and_tables_remain_immutable": true,
+  "phase_grid": {
+    "path": "outputs/continued_research_20261107/progress_snapshots/20261109T063132_890503Z_plan457_Quad_first_pair/PHASE_GRID_AND_SCOPE.json",
+    "sha256": "97a3d2d71a7f160cd7e54062f9de812993eca0301eac3017657a0c5a6707b963"
+  },
+  "plan_revision": 457,
+  "source_pins": {
+    "path": "outputs/continued_research_20261107/progress_snapshots/20261109T063132_890503Z_plan457_Quad_first_pair/SOURCE_PINS.json",
+    "sha256": "994e6ece38a44ba3b2cc1aaa32d6eb1742334ff7fb50bf0571f885585e94d488"
+  },
+  "status": "LOCAL_PARTIAL_REFERENCE_BUNDLE_NOT_PUBLICATION_OR_PORTABLE_BACKUP",
+  "task2_table": {
+    "path": "outputs/continued_research_20261107/progress_snapshots/20261109T063132_890503Z_plan457_Quad_first_pair/TASK2_OWN_BEST_FRESH40_REFERENCE_TABLE.json",
+    "sha256": "b8a81a4b22b58cfa55350f1eeef31734c0f0d02f3d635698ad1f9a0d29709edd"
+  }
+}

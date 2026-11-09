@@ -1,0 +1,53 @@
+{
+  "UTC": "2026-11-09T06:07:01.548377+00:00",
+  "all33_oldC0616009_failedlineage_no_native_sampler_training_or_Qtruth_adoption": true,
+  "correction": "safe(pointerdirectory,ROOT) checks workspace ancestry first, then immediate directory.is_relative_to(exactcontextbase);unchangedexactSTAGES/checkpoints/schema/hash/fullstatechecksandfinal-onlyStore-readwhitelistfollow. SAFEbodyunchanged;parentwritesstillnewC0-only.",
+  "design_sha256": "e2d263fa942f00adf8e967c3b5cef660aefb4ca6cba7672b572ed4d696cf5351",
+  "findings": [],
+  "future_contracts": "Audit/reconparentfieldsremainprospectiveuntilexactactualcompleteauditedresumepacketorreviewedcompanion;newcalendar/cost/helperpeer/ACKs/ROOTcurrentstatSHA/PSPGID/locksbudgetchecksseparate.",
+  "preparation_sha256": "cc38380e8bed40a777fe6611f170f7c9687b486bb3e9fc2c86104fbf8e46dec3",
+  "preserved_prior_source_OPS": {
+    "path": "outputs/continued_research_20261107/review/cube_quadruple_goal3_seed11_C0_three_context_ops/REVIEW.json",
+    "sha256": "ee3e77ff8293776678c9fc3764747a34c9774130beb11adadd93eb295b7e5208"
+  },
+  "proofs": {
+    "path": "outputs/continued_research_20261107/review/cube_quadruple_goal3_seed11_C0_three_context_corrected_ops/INDEPENDENT_CORRECTED_BOUNDARY_SOURCE_AND_PATH_PROOFS.json",
+    "sha256": "9ac2e9ce7ea42b3adb16d7ed09b622614209156b2b2d2de1ceff485d878e7e52"
+  },
+  "required_activity_and_scope": {
+    "path": "outputs/continued_research_20261107/review/cube_quadruple_goal3_seed11_C0_three_context_corrected_ops/REQUIRED_INDEPENDENT_CORRECTED_SOURCE_ACTIVITY_AND_REVIEWER_HISTORY.json",
+    "sha256": "3b7d463bab5eb404c013c6b934038028f7ea8cce4682e21906008b81fe0ff302"
+  },
+  "required_author_activity": {
+    "path": "outputs/continued_research_20261107/cube_quadruple_goal3_seed11_C0_three_context_frozen55_callbacks_20261109/preparation/REQUIRED_SOURCE_COUNTS_LINEAGE_IO_AND_ACTIVITY_LIMITS.json",
+    "sha256": "0604422a080377b7eabc2de504e5757559a99eddaa9a284b1d0d5f02baddd598"
+  },
+  "required_corrected_scope": {
+    "path": "outputs/continued_research_20261107/cube_quadruple_goal3_seed11_C0_three_context_frozen55_callbacks_20261109/preparation/REQUIRED_CORRECTED_SOURCE_PARSE_COUNT_AND_NULL_PARENT_SCOPE.json",
+    "sha256": "a932f527e8a8d19bdc6bcfca44e0b1e2a0676ecaa3460d07bd8f37a2fbc22381"
+  },
+  "required_metadata_boundary_correction": {
+    "path": "outputs/continued_research_20261107/cube_quadruple_goal3_seed11_C0_three_context_frozen55_callbacks_20261109/preparation/REQUIRED_FIRST_CONTEXT_METADATA_BOUNDARY_CORRECTION_AND_PATH_FIXTURES.json",
+    "sha256": "eb3377a1ff477df04bb1968201ffd429659f614afd4d32bb0a61f36cd7b3c326"
+  },
+  "reviewer": "/root/explain_robot_limits",
+  "reviewer_miss_preserved_not_runtime_failure_or_retroactive_PASS": true,
+  "scope": "FreshactualSOURCEreviewofcorrectedC0first-contextmetadatareadboundary;fullinitialsourcecontractsretained",
+  "source_only_no_runtime_ROOT_caps_keys_calendar_authority": true,
+  "source_sha256": {
+    "work/continued_research_20261107/cube_quadruple_goal3_seed11_C0_three_context_frozen55_callbacks_20261109/canonical_codec.py": "808f454e01d512c448888cb7d4a666f1bc1e1b133b3a7510bae5c1fffedca8a1",
+    "work/continued_research_20261107/cube_quadruple_goal3_seed11_C0_three_context_frozen55_callbacks_20261109/checkpoint.py": "bb813e9e0e9677c141f41d0cb01bede0aa18011afe6e8128ac2b983b34e1f4d7",
+    "work/continued_research_20261107/cube_quadruple_goal3_seed11_C0_three_context_frozen55_callbacks_20261109/data.py": "93221329066b413c8ef4881006ed9324fa3e643440e1066e6c974e7c4984e653",
+    "work/continued_research_20261107/cube_quadruple_goal3_seed11_C0_three_context_frozen55_callbacks_20261109/field_helpers.py": "086cd15c96e50467d5a212fc024a8f5fb54991df2dc6fe9a17f057baa0236ed4",
+    "work/continued_research_20261107/cube_quadruple_goal3_seed11_C0_three_context_frozen55_callbacks_20261109/guard.py": "c7e44036bd82d9aeecb3983cf1f44db32db882c6fe027ee6ae529ab9c51e1c68",
+    "work/continued_research_20261107/cube_quadruple_goal3_seed11_C0_three_context_frozen55_callbacks_20261109/hard_watchdog.py": "9019f9786570d16c418c984b8d535b5839db5fe14e1f7681b14a26c8f8a6fc35",
+    "work/continued_research_20261107/cube_quadruple_goal3_seed11_C0_three_context_frozen55_callbacks_20261109/legacy_checkpoint.py": "4e9116f67ab2ab62420249ed9f6a339c273d6d92a76250f4bf1b4ff90c3c3510",
+    "work/continued_research_20261107/cube_quadruple_goal3_seed11_C0_three_context_frozen55_callbacks_20261109/model.py": "b89791e4ab2cd67c302104377cdace90644f5b760d9ac1639f519a8247060c24",
+    "work/continued_research_20261107/cube_quadruple_goal3_seed11_C0_three_context_frozen55_callbacks_20261109/prepare.py": "ca645fdb3ace1bda440590a27d21bf5a32fd1252270f784961df7247bcc1858b",
+    "work/continued_research_20261107/cube_quadruple_goal3_seed11_C0_three_context_frozen55_callbacks_20261109/restore_final.py": "31b84596f18b75e8e3ec82c557dbaf74ccd3355e6a5447b6231070f8645e7ccf",
+    "work/continued_research_20261107/cube_quadruple_goal3_seed11_C0_three_context_frozen55_callbacks_20261109/supervise.py": "0c7c862af99b4cd52d4cd7caf655131f27b3cb39d18aa8fbbecfae7bde4fa453",
+    "work/continued_research_20261107/cube_quadruple_goal3_seed11_C0_three_context_frozen55_callbacks_20261109/worker.py": "c35bc402a2dbbcd52542f2029078951459def49ef6cd583f9c53cf204cc71407"
+  },
+  "status": "PASS",
+  "unchanged_counts": "5metadata validators/1finalrestoredecode/3proof+Storeduplicate/2enc/10callbacks/19arrays66880B,13actualfutureparentrolesNULL"
+}

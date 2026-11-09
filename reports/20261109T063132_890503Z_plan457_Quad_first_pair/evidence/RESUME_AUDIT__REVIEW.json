@@ -1,0 +1,3695 @@
+{
+  "UTC_start": "2026-11-09T06:07:31.929949+00:00",
+  "UTC_end": "2026-11-09T06:07:33.703456+00:00",
+  "status": "PASS",
+  "reviewer": "/root/q_scale_sanity",
+  "goal_id": 3,
+  "training_seed": 11,
+  "training_stage": "QV",
+  "effective_frontier": 50000,
+  "design_sha256": "26ae9bb6fc8e6b42420b04146344697b57efc5d696be584db32ae12976a04b27",
+  "source_sha256": {
+    "work/continued_research_20261107/cube_quadruple_goal3_seed11_QV15000_to50000_resume_20261109/canonical_codec.py": "808f454e01d512c448888cb7d4a666f1bc1e1b133b3a7510bae5c1fffedca8a1",
+    "work/continued_research_20261107/cube_quadruple_goal3_seed11_QV15000_to50000_resume_20261109/checkpoint.py": "bb813e9e0e9677c141f41d0cb01bede0aa18011afe6e8128ac2b983b34e1f4d7",
+    "work/continued_research_20261107/cube_quadruple_goal3_seed11_QV15000_to50000_resume_20261109/data.py": "93221329066b413c8ef4881006ed9324fa3e643440e1066e6c974e7c4984e653",
+    "work/continued_research_20261107/cube_quadruple_goal3_seed11_QV15000_to50000_resume_20261109/guard.py": "92dd25f70eb1e92752939ba39ccf2ab22a10ad0a67d0d153362ab0dba46352f2",
+    "work/continued_research_20261107/cube_quadruple_goal3_seed11_QV15000_to50000_resume_20261109/hard_watchdog.py": "9019f9786570d16c418c984b8d535b5839db5fe14e1f7681b14a26c8f8a6fc35",
+    "work/continued_research_20261107/cube_quadruple_goal3_seed11_QV15000_to50000_resume_20261109/legacy_checkpoint.py": "4e9116f67ab2ab62420249ed9f6a339c273d6d92a76250f4bf1b4ff90c3c3510",
+    "work/continued_research_20261107/cube_quadruple_goal3_seed11_QV15000_to50000_resume_20261109/model.py": "b89791e4ab2cd67c302104377cdace90644f5b760d9ac1639f519a8247060c24",
+    "work/continued_research_20261107/cube_quadruple_goal3_seed11_QV15000_to50000_resume_20261109/parent.py": "b6353e498a484ebee97348ceb8642d65d65772f90d86c689f1ccf9171a5c9512",
+    "work/continued_research_20261107/cube_quadruple_goal3_seed11_QV15000_to50000_resume_20261109/prepare.py": "ab8d3aada41bf8c1482b3d0644778efd97ae7aed5fc6819782df49a8173c3377",
+    "work/continued_research_20261107/cube_quadruple_goal3_seed11_QV15000_to50000_resume_20261109/stop_observer.py": "7e627cda9c0d2b8d7fbefe4e5fdeb65422e514576d0156a0646cf68e44515934",
+    "work/continued_research_20261107/cube_quadruple_goal3_seed11_QV15000_to50000_resume_20261109/supervise.py": "7f6b6197d1b2aefa948fd15fce2f1268883893bd9c8f168ae9ad677aa1125275",
+    "work/continued_research_20261107/cube_quadruple_goal3_seed11_QV15000_to50000_resume_20261109/worker.py": "de6cada1909e4641994a0dd3def4f28898bc7e8c4c1fcb792ef4614a396edc32"
+  },
+  "root_release_sha256": "fcb9abf35309e41be8773f345cbe28ae81b81a302138b3eab72036d836a1910f",
+  "root_release": {
+    "path": "outputs/continued_research_20261107/cube_quadruple_goal3_seed11_QV15000_to50000_resume_20261109/lineages/goal3_seed11/QV/ROOT_RELEASE.json",
+    "sha256": "fcb9abf35309e41be8773f345cbe28ae81b81a302138b3eab72036d836a1910f"
+  },
+  "job_id": "Quad-goal3-seed11-QV15000-resume35000-d678db74b35c43a3a400d87f7d6e05ca",
+  "new_physical_QV_updates": 35000,
+  "trusted_prior_durable_QV": 15000,
+  "known_old_nondurable_repeated": 723,
+  "known_oldplusnew_QV_physical_returns": 50723,
+  "physical_and_logical_slots_FREE": true,
+  "both_global_slots_FREE": true,
+  "current62_readonly_locks_FREE": true,
+  "required_activity_and_scope": {
+    "path": "outputs/continued_research_20261107/review/cube_Quad_QV15000_resume_terminal_independent/20261109T060731_929949Z/REQUIRED_INDEPENDENT_ACTIVITY_AND_SCOPE.json",
+    "sha256": "c010520a3abe9969e2c0d633cac9eb29d1a1adeb98cd6b6e21f257f4bf3a2900"
+  },
+  "completion": {
+    "path": "outputs/continued_research_20261107/cube_quadruple_goal3_seed11_QV15000_to50000_resume_20261109/lineages/goal3_seed11/QV/attempts/Quad-goal3-seed11-QV15000-resume35000-d678db74b35c43a3a400d87f7d6e05ca/COMPLETION.json",
+    "sha256": "5583f58bc8e352e6ce62e3f88582a6290eb2af9621f6ed50f691dff4d714b405"
+  },
+  "operational_result": {
+    "path": "outputs/continued_research_20261107/cube_quadruple_goal3_seed11_QV15000_to50000_resume_20261109/lineages/goal3_seed11/QV/attempts/Quad-goal3-seed11-QV15000-resume35000-d678db74b35c43a3a400d87f7d6e05ca/OPERATIONAL_RESULT.json",
+    "sha256": "479a63e587b5f99c41e2808dd919f5e37328ad19ebaa87954bb9767cc4dc8514"
+  },
+  "watchdog_state": {
+    "path": "outputs/continued_research_20261107/cube_quadruple_goal3_seed11_QV15000_to50000_resume_20261109/lineages/goal3_seed11/QV/attempts/Quad-goal3-seed11-QV15000-resume35000-d678db74b35c43a3a400d87f7d6e05ca/watchdog_state.json",
+    "sha256": "e3e720b1e3bb75d37322082ad9fd98279a1bb78c71ba68bd3a5a6f36aa03041c"
+  },
+  "checks_total": 502,
+  "checks_passed": 502,
+  "findings": [],
+  "checks": [
+    {
+      "name": "exact_released_ROOT_fcb9",
+      "passed": true,
+      "actual": "fcb9abf35309e41be8773f345cbe28ae81b81a302138b3eab72036d836a1910f",
+      "expected": "fcb9abf35309e41be8773f345cbe28ae81b81a302138b3eab72036d836a1910f"
+    },
+    {
+      "name": "actual_complete_and_reaped",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "watchdog_final_result_matches_state",
+      "passed": true,
+      "actual": {
+        "job_id": "Quad-goal3-seed11-QV15000-resume35000-d678db74b35c43a3a400d87f7d6e05ca",
+        "supervisor_pid": 91418,
+        "supervisor_pgid": 91418,
+        "supervisor_sid": 91418,
+        "token_sha256": "ee3bfdd21e56b9b67624bc2471aadd9b2d1c1c471b39edbaf0d317cf05750d83",
+        "command": [
+          "/Users/diwu/Documents/Codex/2026-11-04/hi-x20/work/official_pilot/venv/bin/python",
+          "-B",
+          "-u",
+          "/Users/diwu/Documents/Codex/2026-11-04/hi-x20/work/continued_research_20261107/cube_quadruple_goal3_seed11_QV15000_to50000_resume_20261109/worker.py",
+          "--worker",
+          "--goal",
+          "3",
+          "--seed",
+          "11",
+          "--stage",
+          "QV",
+          "--watchdog-state",
+          "/Users/diwu/Documents/Codex/2026-11-04/hi-x20/outputs/continued_research_20261107/cube_quadruple_goal3_seed11_QV15000_to50000_resume_20261109/lineages/goal3_seed11/QV/attempts/Quad-goal3-seed11-QV15000-resume35000-d678db74b35c43a3a400d87f7d6e05ca/watchdog_state.json"
+        ],
+        "started_utc": "2026-11-09T05:53:01.405821+00:00",
+        "maximum_wall_seconds": 7200.0,
+        "cleanup_margin_seconds": 10.0,
+        "interrupt_grace_seconds": 45.0,
+        "hard_deadline_utc": "2026-11-09T07:52:35.387469+00:00",
+        "cap_deadline_utc": "2026-11-09T07:52:45.387469+00:00",
+        "status": "COMPLETE",
+        "signals": [],
+        "child_pid": 91422,
+        "child_reaped": true,
+        "session_creation": "Popen(start_new_session=True)",
+        "child_pgid": 91422,
+        "child_sid": 91422,
+        "initial_isolation_verification": "LIVE_LEADER_PGID_SID",
+        "leader_waitid": {
+          "pid": 91422,
+          "code": 1,
+          "status": 0
+        },
+        "exited_leader_EPERM_owned_group_snapshot": [
+          {
+            "pid": 91422,
+            "pgid": 91422,
+            "state": "Z"
+          }
+        ],
+        "cleanup_verified_no_live_members": true,
+        "cleanup_signal_sent": false,
+        "return_code": 0,
+        "finished_utc": "2026-11-09T06:03:02.090160+00:00",
+        "elapsed_seconds": 603.703379875049,
+        "supervisor_interrupts": []
+      },
+      "expected": {
+        "job_id": "Quad-goal3-seed11-QV15000-resume35000-d678db74b35c43a3a400d87f7d6e05ca",
+        "supervisor_pid": 91418,
+        "supervisor_pgid": 91418,
+        "supervisor_sid": 91418,
+        "token_sha256": "ee3bfdd21e56b9b67624bc2471aadd9b2d1c1c471b39edbaf0d317cf05750d83",
+        "command": [
+          "/Users/diwu/Documents/Codex/2026-11-04/hi-x20/work/official_pilot/venv/bin/python",
+          "-B",
+          "-u",
+          "/Users/diwu/Documents/Codex/2026-11-04/hi-x20/work/continued_research_20261107/cube_quadruple_goal3_seed11_QV15000_to50000_resume_20261109/worker.py",
+          "--worker",
+          "--goal",
+          "3",
+          "--seed",
+          "11",
+          "--stage",
+          "QV",
+          "--watchdog-state",
+          "/Users/diwu/Documents/Codex/2026-11-04/hi-x20/outputs/continued_research_20261107/cube_quadruple_goal3_seed11_QV15000_to50000_resume_20261109/lineages/goal3_seed11/QV/attempts/Quad-goal3-seed11-QV15000-resume35000-d678db74b35c43a3a400d87f7d6e05ca/watchdog_state.json"
+        ],
+        "started_utc": "2026-11-09T05:53:01.405821+00:00",
+        "maximum_wall_seconds": 7200.0,
+        "cleanup_margin_seconds": 10.0,
+        "interrupt_grace_seconds": 45.0,
+        "hard_deadline_utc": "2026-11-09T07:52:35.387469+00:00",
+        "cap_deadline_utc": "2026-11-09T07:52:45.387469+00:00",
+        "status": "COMPLETE",
+        "signals": [],
+        "child_pid": 91422,
+        "child_reaped": true,
+        "session_creation": "Popen(start_new_session=True)",
+        "child_pgid": 91422,
+        "child_sid": 91422,
+        "initial_isolation_verification": "LIVE_LEADER_PGID_SID",
+        "leader_waitid": {
+          "pid": 91422,
+          "code": 1,
+          "status": 0
+        },
+        "exited_leader_EPERM_owned_group_snapshot": [
+          {
+            "pid": 91422,
+            "pgid": 91422,
+            "state": "Z"
+          }
+        ],
+        "cleanup_verified_no_live_members": true,
+        "cleanup_signal_sent": false,
+        "return_code": 0,
+        "finished_utc": "2026-11-09T06:03:02.090160+00:00",
+        "elapsed_seconds": 603.703379875049,
+        "supervisor_interrupts": []
+      }
+    },
+    {
+      "name": "completion_exact_resume_status",
+      "passed": true,
+      "actual": "COMPLETE_EXACT_TRUSTED_QV15000_PLUS35000_CUMULATIVE50000_NOT_FRESH50000",
+      "expected": "COMPLETE_EXACT_TRUSTED_QV15000_PLUS35000_CUMULATIVE50000_NOT_FRESH50000"
+    },
+    {
+      "name": "actual_scope_3_11_QV50k",
+      "passed": true,
+      "actual": [
+        3,
+        11,
+        "QV",
+        50000
+      ],
+      "expected": [
+        3,
+        11,
+        "QV",
+        50000
+      ]
+    },
+    {
+      "name": "actual_new35k_prior15k_repeat723_total50723",
+      "passed": true,
+      "actual": [
+        35000,
+        15000,
+        723,
+        50723,
+        50000
+      ],
+      "expected": [
+        35000,
+        15000,
+        723,
+        50723,
+        50000
+      ]
+    },
+    {
+      "name": "actual_source_design_exact",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "AUTH_release_exact",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "all2847_AUTH_BEFORE_AFTER_source_control_maps_exact",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "science_union2837_text2772_opaque53_sources12",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "all53_stats_before_any_opaque_SHA",
+      "passed": true,
+      "actual": 53,
+      "expected": 53
+    },
+    {
+      "name": "opaque53_size_bounds",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "49_exact_size_metadata_bounds",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "root_initial_actual53_sizes_preserved",
+      "passed": true,
+      "actual": {
+        "/Users/diwu/Documents/Codex/2026-11-04/hi-x20/work/official_pilot/venv/lib/python3.11/site-packages/numpy/core/_multiarray_umath.cpython-311-darwin.so": 3164400,
+        "/opt/anaconda3/bin/python": 6080960,
+        "/opt/anaconda3/envs/jax_torch/bin/python3.11": 5622512,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_P2_disposable_model_checkpoint_20261109/runs/Quad-T345-P2-disposable-9a5fa384985a4367b1237a1ae1d24e1a/STAGES/goal3_BC/checkpoints/Quad-T345-P2-disposable-9a5fa384985a4367b1237a1ae1d24e1a-00000-initial/FULL_STATE.msgpack": 1564801,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_P2_disposable_model_checkpoint_20261109/runs/Quad-T345-P2-disposable-9a5fa384985a4367b1237a1ae1d24e1a/STAGES/goal4_BC/checkpoints/Quad-T345-P2-disposable-9a5fa384985a4367b1237a1ae1d24e1a-00000-initial/FULL_STATE.msgpack": 1564801,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_P2_disposable_model_checkpoint_20261109/runs/Quad-T345-P2-disposable-9a5fa384985a4367b1237a1ae1d24e1a/STAGES/goal5_BC/checkpoints/Quad-T345-P2-disposable-9a5fa384985a4367b1237a1ae1d24e1a-00000-initial/FULL_STATE.msgpack": 1564801,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/raw_boundary_full5_observed.npy": 1000128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/raw_current_indices.npy": 8000128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/raw_next_indices.npy": 8000128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/source_episode_ids.npy": 4000128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/task3__H5_actor_full_observed_goal_stop.npy": 1000128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/task3__H5_actual_next_raw_indices.npy": 4000128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/task3__H5_bootstrap_masks.npy": 4000128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/task3__H5_component_raw_indices.npy": 20000128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/task3__H5_critic_eligible.npy": 1000128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/task3__H5_last_raw_indices.npy": 4000128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/task3__H5_lengths.npy": 1000128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/task3__H5_returns.npy": 4000128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/task3__raw_goal_count.npy": 1001128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/task3__tuple_masks.npy": 4000128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/task3__tuple_rewards.npy": 4000128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/task4__H5_actor_full_observed_goal_stop.npy": 1000128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/task4__H5_actual_next_raw_indices.npy": 4000128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/task4__H5_bootstrap_masks.npy": 4000128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/task4__H5_component_raw_indices.npy": 20000128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/task4__H5_critic_eligible.npy": 1000128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/task4__H5_last_raw_indices.npy": 4000128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/task4__H5_lengths.npy": 1000128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/task4__H5_returns.npy": 4000128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/task4__raw_goal_count.npy": 1001128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/task4__tuple_masks.npy": 4000128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/task4__tuple_rewards.npy": 4000128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/task5__H5_actor_full_observed_goal_stop.npy": 1000128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/task5__H5_actual_next_raw_indices.npy": 4000128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/task5__H5_bootstrap_masks.npy": 4000128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/task5__H5_component_raw_indices.npy": 20000128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/task5__H5_critic_eligible.npy": 1000128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/task5__H5_last_raw_indices.npy": 4000128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/task5__H5_lengths.npy": 1000128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/task5__H5_returns.npy": 4000128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/task5__raw_goal_count.npy": 1001128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/task5__tuple_masks.npy": 4000128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/task5__tuple_rewards.npy": 4000128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/tuple_source_boundary.npy": 1000128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/RAW_NPY_MIRRORS/actions.npy": 20020128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/RAW_NPY_MIRRORS/observations.npy": 220220128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/RAW_NPY_MIRRORS/qpos.npy": 168168128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/RAW_NPY_MIRRORS/qvel.npy": 152152128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/RAW_NPY_MIRRORS/terminals.npy": 1001128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_fresh_BC_QV50000_20261109/lineages/goal3_seed11/BC/attempts/Quad-goal3-seed11-fresh-BC50000-9c4bee397b594d1da9208990968f271a/STAGES/goal3_seed11_BC/checkpoints/Quad-goal3-seed11-fresh-BC50000-9c4bee397b594d1da9208990968f271a-50000-durable_fullstate/FULL_STATE.msgpack": 1564801,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_fresh_BC_QV50000_20261109/lineages/goal3_seed11/QV/attempts/Quad-goal3-seed11-BC-parent-QV50000-ea9c4ec0704e497b81aaf53387691e7e/STAGES/goal3_seed11_QV/checkpoints/Quad-goal3-seed11-BC-parent-QV50000-ea9c4ec0704e497b81aaf53387691e7e-15000-durable_fullstate/FULL_STATE.msgpack": 1564801,
+        "work/continued_research_20261107/cube_quadruple_official_pair000_20261109/cube-quadruple-play-v0-000.npz": 372004367,
+        "work/official_pilot/venv/bin/python": 5622512
+      },
+      "expected": {
+        "/Users/diwu/Documents/Codex/2026-11-04/hi-x20/work/official_pilot/venv/lib/python3.11/site-packages/numpy/core/_multiarray_umath.cpython-311-darwin.so": 3164400,
+        "/opt/anaconda3/bin/python": 6080960,
+        "/opt/anaconda3/envs/jax_torch/bin/python3.11": 5622512,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_P2_disposable_model_checkpoint_20261109/runs/Quad-T345-P2-disposable-9a5fa384985a4367b1237a1ae1d24e1a/STAGES/goal3_BC/checkpoints/Quad-T345-P2-disposable-9a5fa384985a4367b1237a1ae1d24e1a-00000-initial/FULL_STATE.msgpack": 1564801,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_P2_disposable_model_checkpoint_20261109/runs/Quad-T345-P2-disposable-9a5fa384985a4367b1237a1ae1d24e1a/STAGES/goal4_BC/checkpoints/Quad-T345-P2-disposable-9a5fa384985a4367b1237a1ae1d24e1a-00000-initial/FULL_STATE.msgpack": 1564801,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_P2_disposable_model_checkpoint_20261109/runs/Quad-T345-P2-disposable-9a5fa384985a4367b1237a1ae1d24e1a/STAGES/goal5_BC/checkpoints/Quad-T345-P2-disposable-9a5fa384985a4367b1237a1ae1d24e1a-00000-initial/FULL_STATE.msgpack": 1564801,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/raw_boundary_full5_observed.npy": 1000128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/raw_current_indices.npy": 8000128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/raw_next_indices.npy": 8000128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/source_episode_ids.npy": 4000128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/task3__H5_actor_full_observed_goal_stop.npy": 1000128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/task3__H5_actual_next_raw_indices.npy": 4000128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/task3__H5_bootstrap_masks.npy": 4000128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/task3__H5_component_raw_indices.npy": 20000128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/task3__H5_critic_eligible.npy": 1000128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/task3__H5_last_raw_indices.npy": 4000128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/task3__H5_lengths.npy": 1000128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/task3__H5_returns.npy": 4000128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/task3__raw_goal_count.npy": 1001128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/task3__tuple_masks.npy": 4000128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/task3__tuple_rewards.npy": 4000128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/task4__H5_actor_full_observed_goal_stop.npy": 1000128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/task4__H5_actual_next_raw_indices.npy": 4000128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/task4__H5_bootstrap_masks.npy": 4000128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/task4__H5_component_raw_indices.npy": 20000128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/task4__H5_critic_eligible.npy": 1000128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/task4__H5_last_raw_indices.npy": 4000128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/task4__H5_lengths.npy": 1000128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/task4__H5_returns.npy": 4000128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/task4__raw_goal_count.npy": 1001128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/task4__tuple_masks.npy": 4000128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/task4__tuple_rewards.npy": 4000128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/task5__H5_actor_full_observed_goal_stop.npy": 1000128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/task5__H5_actual_next_raw_indices.npy": 4000128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/task5__H5_bootstrap_masks.npy": 4000128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/task5__H5_component_raw_indices.npy": 20000128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/task5__H5_critic_eligible.npy": 1000128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/task5__H5_last_raw_indices.npy": 4000128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/task5__H5_lengths.npy": 1000128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/task5__H5_returns.npy": 4000128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/task5__raw_goal_count.npy": 1001128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/task5__tuple_masks.npy": 4000128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/task5__tuple_rewards.npy": 4000128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/DERIVED/tuple_source_boundary.npy": 1000128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/RAW_NPY_MIRRORS/actions.npy": 20020128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/RAW_NPY_MIRRORS/observations.npy": 220220128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/RAW_NPY_MIRRORS/qpos.npy": 168168128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/RAW_NPY_MIRRORS/qvel.npy": 152152128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_TRAIN_QA_20261109/runs/Quad-T345-P1-TRAIN-QA-f5c2470bb00a4d7987291f2c759b93d6/RAW_NPY_MIRRORS/terminals.npy": 1001128,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_fresh_BC_QV50000_20261109/lineages/goal3_seed11/BC/attempts/Quad-goal3-seed11-fresh-BC50000-9c4bee397b594d1da9208990968f271a/STAGES/goal3_seed11_BC/checkpoints/Quad-goal3-seed11-fresh-BC50000-9c4bee397b594d1da9208990968f271a-50000-durable_fullstate/FULL_STATE.msgpack": 1564801,
+        "outputs/continued_research_20261107/cube_quadruple_tasks345_fresh_BC_QV50000_20261109/lineages/goal3_seed11/QV/attempts/Quad-goal3-seed11-BC-parent-QV50000-ea9c4ec0704e497b81aaf53387691e7e/STAGES/goal3_seed11_QV/checkpoints/Quad-goal3-seed11-BC-parent-QV50000-ea9c4ec0704e497b81aaf53387691e7e-15000-durable_fullstate/FULL_STATE.msgpack": 1564801,
+        "work/continued_research_20261107/cube_quadruple_official_pair000_20261109/cube-quadruple-play-v0-000.npz": 372004367,
+        "work/official_pilot/venv/bin/python": 5622512
+      }
+    },
+    {
+      "name": "runtime_alias_literal_/opt/anaconda3/bin/python",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "runtime_alias_literal_/opt/anaconda3/envs/jax_torch/bin/python3.11",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "runtime_alias_literal_work/official_pilot/venv/bin/python",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "independent_all2847_stream_SHA_equal_AUTH_BEFORE_AFTER",
+      "passed": true,
+      "actual": [],
+      "expected": []
+    },
+    {
+      "name": "all53_statstable_after_hash",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "no_raw_VAL_npz_input",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "exact_executor_PREP47380",
+      "passed": true,
+      "actual": "47380cd69709185180aa9cde05ef614f6590599a30fff225fe92bd51a4f65556",
+      "expected": "47380cd69709185180aa9cde05ef614f6590599a30fff225fe92bd51a4f65556"
+    },
+    {
+      "name": "mandatory_executor_review_activity_addendum_21",
+      "passed": true,
+      "actual": "47380cd69709185180aa9cde05ef614f6590599a30fff225fe92bd51a4f65556",
+      "expected": "47380cd69709185180aa9cde05ef614f6590599a30fff225fe92bd51a4f65556"
+    },
+    {
+      "name": "mandatory_executor_review_activity_addendum_22",
+      "passed": true,
+      "actual": "b23ff823f0438ce6652825123667ddfc8f801f667f86c1f1faf2e6a109a0042a",
+      "expected": "b23ff823f0438ce6652825123667ddfc8f801f667f86c1f1faf2e6a109a0042a"
+    },
+    {
+      "name": "mandatory_executor_review_activity_addendum_23",
+      "passed": true,
+      "actual": "0729ee07688c5c9f4ce765a67844889dd6e5b14d0ecade53eac75edba22b79f3",
+      "expected": "0729ee07688c5c9f4ce765a67844889dd6e5b14d0ecade53eac75edba22b79f3"
+    },
+    {
+      "name": "mandatory_executor_review_activity_addendum_24",
+      "passed": true,
+      "actual": "60f2a035ac4db9229122a6c9e97ea23ce5c5e077bfd12cfc9e2274aa226148fa",
+      "expected": "60f2a035ac4db9229122a6c9e97ea23ce5c5e077bfd12cfc9e2274aa226148fa"
+    },
+    {
+      "name": "mandatory_executor_review_activity_addendum_25",
+      "passed": true,
+      "actual": "eff99bb44813fd20a03965aeb4764e53ad15bff199dac5789d03245f0da493a6",
+      "expected": "eff99bb44813fd20a03965aeb4764e53ad15bff199dac5789d03245f0da493a6"
+    },
+    {
+      "name": "mandatory_executor_review_activity_addendum_26",
+      "passed": true,
+      "actual": "bcfefd172846ca53192620045bf1f5dc00e90ae54a8de0a299747c6affe1f50b",
+      "expected": "bcfefd172846ca53192620045bf1f5dc00e90ae54a8de0a299747c6affe1f50b"
+    },
+    {
+      "name": "mandatory_executor_review_activity_addendum_27",
+      "passed": true,
+      "actual": "145b4f38d205a479257c7342d5e3559171998a4e59498793b3885642b0d4c466",
+      "expected": "145b4f38d205a479257c7342d5e3559171998a4e59498793b3885642b0d4c466"
+    },
+    {
+      "name": "mandatory_executor_review_activity_addendum_28",
+      "passed": true,
+      "actual": "3cbae00d8cb71e31e23e5e0fb4dbe3f6d81fb95e0ceb98873f32da230fd6383b",
+      "expected": "3cbae00d8cb71e31e23e5e0fb4dbe3f6d81fb95e0ceb98873f32da230fd6383b"
+    },
+    {
+      "name": "mandatory_executor_review_activity_addendum_29",
+      "passed": true,
+      "actual": "ec1e8a6b46f5590d2b8cbfdef90a869927d90e74ddcae2d17c0933374ca658cf",
+      "expected": "ec1e8a6b46f5590d2b8cbfdef90a869927d90e74ddcae2d17c0933374ca658cf"
+    },
+    {
+      "name": "mandatory_executor_review_activity_addendum_30",
+      "passed": true,
+      "actual": "4aa36f46716149e9bf3010638b4297f398a4b9b52ea89df6d10753335a4c5da7",
+      "expected": "4aa36f46716149e9bf3010638b4297f398a4b9b52ea89df6d10753335a4c5da7"
+    },
+    {
+      "name": "mandatory_executor_review_activity_addendum_31",
+      "passed": true,
+      "actual": "288550a2273420775cb787ca02cfddcd5ae50bd2c515211e05e2da78bb501061",
+      "expected": "288550a2273420775cb787ca02cfddcd5ae50bd2c515211e05e2da78bb501061"
+    },
+    {
+      "name": "mandatory_executor_review_activity_addendum_32",
+      "passed": true,
+      "actual": "b4f22024e296a08f54d6263db695f74fd6f57adcbc3869bbaa27200180ecea00",
+      "expected": "b4f22024e296a08f54d6263db695f74fd6f57adcbc3869bbaa27200180ecea00"
+    },
+    {
+      "name": "mandatory_executor_review_activity_addendum_33",
+      "passed": true,
+      "actual": "4ebda0c91f423d9627fe16595030d32654866f34c392985b13b2b9f47073d105",
+      "expected": "4ebda0c91f423d9627fe16595030d32654866f34c392985b13b2b9f47073d105"
+    },
+    {
+      "name": "mandatory_executor_review_activity_addendum_34",
+      "passed": true,
+      "actual": "c284acdccbab916a5a1b9adbcea7ca343c26a7ddc9bfc1e1731e8382610432e2",
+      "expected": "c284acdccbab916a5a1b9adbcea7ca343c26a7ddc9bfc1e1731e8382610432e2"
+    },
+    {
+      "name": "helperpeer845d_PASS",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "helper_preparation_cc5e",
+      "passed": true,
+      "actual": "cc5e46de80908ca7cbb70c31c71981ae16f296e96ad09b50de13191689073af7",
+      "expected": "cc5e46de80908ca7cbb70c31c71981ae16f296e96ad09b50de13191689073af7"
+    },
+    {
+      "name": "all_helper_contract_author_bindings_exact",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "helper_required_activity_scope",
+      "passed": true,
+      "actual": "5a2a93c70fa5161f8cab04c3962913d09798abcdc63edf3cebef9d6c315e2de1",
+      "expected": "5a2a93c70fa5161f8cab04c3962913d09798abcdc63edf3cebef9d6c315e2de1"
+    },
+    {
+      "name": "source_bound_actual_request",
+      "passed": true,
+      "actual": "f3f8a725f41a62be5ceb8b14b6f0bf7a12dfa93ceb3fd5c619e49cf24f04d64b",
+      "expected": "f3f8a725f41a62be5ceb8b14b6f0bf7a12dfa93ceb3fd5c619e49cf24f04d64b"
+    },
+    {
+      "name": "five_actual_ACKs_ROOT_and_request_exact",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "cost_ACK_DAG_exact_otherfour",
+      "passed": true,
+      "actual": {
+        "TRAIN_role_ACK": {
+          "path": "outputs/continued_research_20261107/review/cube_Quad_QV15000_resume_ROOT_fresh_ACK_adoption/20261109T054900_904841Z/TRAIN_role_ACK.json",
+          "sha256": "d283b28e78ca00aec4c2b95690c44c7805276e4d6a5eccd08850d9b43494a136"
+        },
+        "calendar_checkpoint_ACK": {
+          "path": "outputs/continued_research_20261107/review/cube_Quad_QV15000_resume_ROOT_fresh_ACK_adoption/20261109T054900_904841Z/calendar_checkpoint_ACK.json",
+          "sha256": "10024d8075ba1e6a84c5f382a8af080ea5bdf58bcc6ab81328f1f7a0566c5724"
+        },
+        "failure_lineage_ACK": {
+          "path": "outputs/continued_research_20261107/review/cube_Quad_QV15000_resume_ROOT_fresh_ACK_adoption/20261109T054900_904841Z/failure_lineage_ACK.json",
+          "sha256": "cda8765928e279ec5789173922cc5cd00bc80fcd38a74b7b02d58c6e2af5c5fc"
+        },
+        "parent_ACK": {
+          "path": "outputs/continued_research_20261107/review/cube_Quad_QV15000_resume_ROOT_fresh_ACK_adoption/20261109T054900_904841Z/parent_ACK.json",
+          "sha256": "14433fdc6f626a13430a2b7e68128eab75d956a88a67ff4257e8c270ce9a687b"
+        }
+      },
+      "expected": {
+        "TRAIN_role_ACK": {
+          "path": "outputs/continued_research_20261107/review/cube_Quad_QV15000_resume_ROOT_fresh_ACK_adoption/20261109T054900_904841Z/TRAIN_role_ACK.json",
+          "sha256": "d283b28e78ca00aec4c2b95690c44c7805276e4d6a5eccd08850d9b43494a136"
+        },
+        "parent_ACK": {
+          "path": "outputs/continued_research_20261107/review/cube_Quad_QV15000_resume_ROOT_fresh_ACK_adoption/20261109T054900_904841Z/parent_ACK.json",
+          "sha256": "14433fdc6f626a13430a2b7e68128eab75d956a88a67ff4257e8c270ce9a687b"
+        },
+        "failure_lineage_ACK": {
+          "path": "outputs/continued_research_20261107/review/cube_Quad_QV15000_resume_ROOT_fresh_ACK_adoption/20261109T054900_904841Z/failure_lineage_ACK.json",
+          "sha256": "cda8765928e279ec5789173922cc5cd00bc80fcd38a74b7b02d58c6e2af5c5fc"
+        },
+        "calendar_checkpoint_ACK": {
+          "path": "outputs/continued_research_20261107/review/cube_Quad_QV15000_resume_ROOT_fresh_ACK_adoption/20261109T054900_904841Z/calendar_checkpoint_ACK.json",
+          "sha256": "10024d8075ba1e6a84c5f382a8af080ea5bdf58bcc6ab81328f1f7a0566c5724"
+        }
+      }
+    },
+    {
+      "name": "registry_actual30contexts58oldowners",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "catalog_hash_exact",
+      "passed": true,
+      "actual": "f3654899fa67a11c2890faa9df25a3ccdddf9f8f01faedbc65d7fefaebde906f",
+      "expected": "f3654899fa67a11c2890faa9df25a3ccdddf9f8f01faedbc65d7fefaebde906f"
+    },
+    {
+      "name": "plan_copy2_actualSHA_bytes_mtime",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "owner_copy2_actualSHA_bytes_mtime",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "all_exact_completed_named_API_counters",
+      "passed": true,
+      "actual": {
+        "NPY_header_members": 43,
+        "readonly_NPY_mmap_entries": 43,
+        "readonly_NPY_mmap_returns": 43,
+        "loaded_array_raw_hash_calls": 43,
+        "mapped_logical_payload_bytes": 727564000,
+        "host_batches_built": 35000,
+        "host_batch_rowviews": 8960000,
+        "model_create_entries": 1,
+        "model_create_returns": 1,
+        "controlled_loss_fixture_calls": 1,
+        "dimension_batches": 2,
+        "dimension_model_head_calls": 8,
+        "BC_update_entries": 0,
+        "BC_update_returns": 0,
+        "QV_update_entries": 35000,
+        "QV_update_returns": 35000,
+        "actor_Adam_applications": 0,
+        "critic_Adam_applications": 35000,
+        "value_Adam_applications": 35000,
+        "target_interpolations": 35000,
+        "update_batch_field_asarray_APIs": 210000,
+        "update_block_APIs": 35000,
+        "returned_update_rowviews": 8960000,
+        "checkpoint_pairs_published": 36,
+        "serialization_from_bytes_entries": 38,
+        "serialization_from_bytes_returns": 38,
+        "checkpoint_device_put_APIs": 38,
+        "checkpoint_block_until_ready_APIs": 38,
+        "canonical_encoding_entries": 74,
+        "canonical_encoding_returns": 74,
+        "canonical_explicit_to_state_dict_APIs": 74,
+        "canonical_low_level_msgpack_serialize_APIs": 74,
+        "canonical_mapping_nodes": 5994,
+        "canonical_sequence_nodes": 0,
+        "canonical_None_leaf_records": 74,
+        "canonical_numeric_leaf_objects_retained_without_cast": 7548,
+        "full_model_proof_calls": 75,
+        "proof_leaf_host_conversions": 7725,
+        "failed_predicates": 0,
+        "UPDATES_journal_rows": 70000,
+        "OPERATIONS_journal_rows": 78,
+        "readonly_mmap_close_APIs": 43,
+        "checkpoint_effective_frontier": 50000
+      },
+      "expected": {
+        "NPY_header_members": 43,
+        "readonly_NPY_mmap_entries": 43,
+        "readonly_NPY_mmap_returns": 43,
+        "loaded_array_raw_hash_calls": 43,
+        "mapped_logical_payload_bytes": 727564000,
+        "host_batches_built": 35000,
+        "host_batch_rowviews": 8960000,
+        "model_create_entries": 1,
+        "model_create_returns": 1,
+        "controlled_loss_fixture_calls": 1,
+        "dimension_batches": 2,
+        "dimension_model_head_calls": 8,
+        "BC_update_entries": 0,
+        "BC_update_returns": 0,
+        "QV_update_entries": 35000,
+        "QV_update_returns": 35000,
+        "actor_Adam_applications": 0,
+        "critic_Adam_applications": 35000,
+        "value_Adam_applications": 35000,
+        "target_interpolations": 35000,
+        "update_batch_field_asarray_APIs": 210000,
+        "update_block_APIs": 35000,
+        "returned_update_rowviews": 8960000,
+        "checkpoint_pairs_published": 36,
+        "serialization_from_bytes_entries": 38,
+        "serialization_from_bytes_returns": 38,
+        "checkpoint_device_put_APIs": 38,
+        "checkpoint_block_until_ready_APIs": 38,
+        "canonical_encoding_entries": 74,
+        "canonical_encoding_returns": 74,
+        "canonical_explicit_to_state_dict_APIs": 74,
+        "canonical_low_level_msgpack_serialize_APIs": 74,
+        "canonical_mapping_nodes": 5994,
+        "canonical_sequence_nodes": 0,
+        "canonical_None_leaf_records": 74,
+        "canonical_numeric_leaf_objects_retained_without_cast": 7548,
+        "full_model_proof_calls": 75,
+        "proof_leaf_host_conversions": 7725,
+        "failed_predicates": 0,
+        "UPDATES_journal_rows": 70000,
+        "OPERATIONS_journal_rows": 78,
+        "readonly_mmap_close_APIs": 43,
+        "checkpoint_effective_frontier": 50000
+      }
+    },
+    {
+      "name": "COMPLETION_counters_exact_COUNTERS_file",
+      "passed": true,
+      "actual": {
+        "NPY_header_members": 43,
+        "readonly_NPY_mmap_entries": 43,
+        "readonly_NPY_mmap_returns": 43,
+        "loaded_array_raw_hash_calls": 43,
+        "mapped_logical_payload_bytes": 727564000,
+        "host_batches_built": 35000,
+        "host_batch_rowviews": 8960000,
+        "model_create_entries": 1,
+        "model_create_returns": 1,
+        "controlled_loss_fixture_calls": 1,
+        "dimension_batches": 2,
+        "dimension_model_head_calls": 8,
+        "BC_update_entries": 0,
+        "BC_update_returns": 0,
+        "QV_update_entries": 35000,
+        "QV_update_returns": 35000,
+        "actor_Adam_applications": 0,
+        "critic_Adam_applications": 35000,
+        "value_Adam_applications": 35000,
+        "target_interpolations": 35000,
+        "update_batch_field_asarray_APIs": 210000,
+        "update_block_APIs": 35000,
+        "returned_update_rowviews": 8960000,
+        "checkpoint_pairs_published": 36,
+        "serialization_from_bytes_entries": 38,
+        "serialization_from_bytes_returns": 38,
+        "checkpoint_device_put_APIs": 38,
+        "checkpoint_block_until_ready_APIs": 38,
+        "canonical_encoding_entries": 74,
+        "canonical_encoding_returns": 74,
+        "canonical_explicit_to_state_dict_APIs": 74,
+        "canonical_low_level_msgpack_serialize_APIs": 74,
+        "canonical_mapping_nodes": 5994,
+        "canonical_sequence_nodes": 0,
+        "canonical_None_leaf_records": 74,
+        "canonical_numeric_leaf_objects_retained_without_cast": 7548,
+        "full_model_proof_calls": 75,
+        "proof_leaf_host_conversions": 7725,
+        "predicates": 70446,
+        "failed_predicates": 0,
+        "UPDATES_journal_rows": 70000,
+        "CONJUNCTS_journal_rows": 70446,
+        "OPERATIONS_journal_rows": 78,
+        "readonly_mmap_close_APIs": 43,
+        "checkpoint_effective_frontier": 50000
+      },
+      "expected": {
+        "NPY_header_members": 43,
+        "readonly_NPY_mmap_entries": 43,
+        "readonly_NPY_mmap_returns": 43,
+        "loaded_array_raw_hash_calls": 43,
+        "mapped_logical_payload_bytes": 727564000,
+        "host_batches_built": 35000,
+        "host_batch_rowviews": 8960000,
+        "model_create_entries": 1,
+        "model_create_returns": 1,
+        "controlled_loss_fixture_calls": 1,
+        "dimension_batches": 2,
+        "dimension_model_head_calls": 8,
+        "BC_update_entries": 0,
+        "BC_update_returns": 0,
+        "QV_update_entries": 35000,
+        "QV_update_returns": 35000,
+        "actor_Adam_applications": 0,
+        "critic_Adam_applications": 35000,
+        "value_Adam_applications": 35000,
+        "target_interpolations": 35000,
+        "update_batch_field_asarray_APIs": 210000,
+        "update_block_APIs": 35000,
+        "returned_update_rowviews": 8960000,
+        "checkpoint_pairs_published": 36,
+        "serialization_from_bytes_entries": 38,
+        "serialization_from_bytes_returns": 38,
+        "checkpoint_device_put_APIs": 38,
+        "checkpoint_block_until_ready_APIs": 38,
+        "canonical_encoding_entries": 74,
+        "canonical_encoding_returns": 74,
+        "canonical_explicit_to_state_dict_APIs": 74,
+        "canonical_low_level_msgpack_serialize_APIs": 74,
+        "canonical_mapping_nodes": 5994,
+        "canonical_sequence_nodes": 0,
+        "canonical_None_leaf_records": 74,
+        "canonical_numeric_leaf_objects_retained_without_cast": 7548,
+        "full_model_proof_calls": 75,
+        "proof_leaf_host_conversions": 7725,
+        "predicates": 70446,
+        "failed_predicates": 0,
+        "UPDATES_journal_rows": 70000,
+        "CONJUNCTS_journal_rows": 70446,
+        "OPERATIONS_journal_rows": 78,
+        "readonly_mmap_close_APIs": 43,
+        "checkpoint_effective_frontier": 50000
+      }
+    },
+    {
+      "name": "no_partial_unterminated_tail_UPDATES.jsonl",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "no_partial_unterminated_tail_CONJUNCTS.jsonl",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "no_partial_unterminated_tail_OPERATIONS.jsonl",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "all70000_ENTRY_RETURN_rows_exact_original_indices",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "all35000_ENTRY_scopes_batch256_prior15k_repeat723",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "all35000_RETURN_finite_no_unknown_update_tail",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "all70446_complete_predicate_rows_PASS_zeroFAIL",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "all_journal_rows_within4096bytes",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "all35000_saved_cohort_batchlaws",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "all78_operation_rows_ENTRY_RETURN_pairs",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "actual_gate_no_scientific_import_before_all43_headers",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "actual_gate_all43_headers_before_NumPy",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "actual_gate_full_QV15000_anchor_semantic_AND_wholecanonical_before_updates",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "actual_gate_actual_final_disk50000_semantic_and_payload",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "actual_gate_complete_exact_phase_counts",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "actual_gate_science_inputs_stable",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "actual_gate_all_ROOT_and_parent_controls_stable",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "saved43_header_JSON_files",
+      "passed": true,
+      "actual": 43,
+      "expected": 43
+    },
+    {
+      "name": "saved_header_DERIVED_task3__H5_bootstrap_masks.json",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "saved_header_DERIVED_task3__H5_last_raw_indices.json",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "saved_header_DERIVED_task4__raw_goal_count.json",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "saved_header_DERIVED_task5__H5_actor_full_observed_goal_stop.json",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "saved_header_RAW_actions.json",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "saved_header_RAW_qvel.json",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "saved_header_DERIVED_task3__H5_lengths.json",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "saved_header_DERIVED_task5__H5_actual_next_raw_indices.json",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "saved_header_DERIVED_task3__H5_returns.json",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "saved_header_DERIVED_raw_boundary_full5_observed.json",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "saved_header_RAW_observations.json",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "saved_header_DERIVED_task4__H5_last_raw_indices.json",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "saved_header_DERIVED_task3__H5_actor_full_observed_goal_stop.json",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "saved_header_DERIVED_task5__raw_goal_count.json",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "saved_header_DERIVED_task4__tuple_rewards.json",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "saved_header_DERIVED_task5__tuple_rewards.json",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "saved_header_DERIVED_task3__tuple_rewards.json",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "saved_header_DERIVED_task3__H5_critic_eligible.json",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "saved_header_DERIVED_raw_current_indices.json",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "saved_header_DERIVED_task4__H5_component_raw_indices.json",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "saved_header_DERIVED_task5__tuple_masks.json",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "saved_header_DERIVED_task3__raw_goal_count.json",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "saved_header_DERIVED_task4__H5_actual_next_raw_indices.json",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "saved_header_DERIVED_task5__H5_critic_eligible.json",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "saved_header_DERIVED_task5__H5_returns.json",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "saved_header_DERIVED_task5__H5_lengths.json",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "saved_header_DERIVED_task4__tuple_masks.json",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "saved_header_DERIVED_task4__H5_bootstrap_masks.json",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "saved_header_DERIVED_source_episode_ids.json",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "saved_header_DERIVED_tuple_source_boundary.json",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "saved_header_DERIVED_task5__H5_last_raw_indices.json",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "saved_header_DERIVED_task3__H5_component_raw_indices.json",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "saved_header_DERIVED_task4__H5_critic_eligible.json",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "saved_header_DERIVED_task5__H5_component_raw_indices.json",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "saved_header_DERIVED_task5__H5_bootstrap_masks.json",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "saved_header_DERIVED_task3__H5_actual_next_raw_indices.json",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "saved_header_RAW_qpos.json",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "saved_header_DERIVED_task3__tuple_masks.json",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "saved_header_DERIVED_raw_next_indices.json",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "saved_header_DERIVED_task4__H5_actor_full_observed_goal_stop.json",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "saved_header_DERIVED_task4__H5_lengths.json",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "saved_header_RAW_terminals.json",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "saved_header_DERIVED_task4__H5_returns.json",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "exact75_proof_files",
+      "passed": true,
+      "actual": 75,
+      "expected": 75
+    },
+    {
+      "name": "proof_1_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_1_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_2_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_2_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_2_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_3_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_3_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_3_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_4_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_4_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_4_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_5_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_5_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_5_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_6_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_6_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_6_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_7_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_7_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_7_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_8_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_8_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_8_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_9_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_9_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_9_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_10_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_10_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_10_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_11_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_11_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_11_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_12_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_12_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_12_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_13_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_13_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_13_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_14_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_14_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_14_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_15_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_15_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_15_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_16_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_16_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_16_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_17_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_17_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_17_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_18_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_18_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_18_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_19_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_19_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_19_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_20_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_20_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_20_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_21_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_21_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_21_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_22_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_22_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_22_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_23_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_23_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_23_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_24_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_24_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_24_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_25_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_25_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_25_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_26_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_26_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_26_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_27_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_27_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_27_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_28_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_28_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_28_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_29_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_29_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_29_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_30_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_30_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_30_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_31_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_31_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_31_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_32_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_32_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_32_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_33_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_33_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_33_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_34_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_34_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_34_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_35_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_35_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_35_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_36_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_36_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_36_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_37_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_37_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_37_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_38_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_38_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_38_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_39_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_39_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_39_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_40_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_40_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_40_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_41_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_41_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_41_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_42_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_42_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_42_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_43_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_43_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_43_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_44_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_44_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_44_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_45_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_45_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_45_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_46_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_46_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_46_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_47_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_47_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_47_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_48_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_48_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_48_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_49_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_49_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_49_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_50_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_50_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_50_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_51_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_51_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_51_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_52_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_52_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_52_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_53_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_53_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_53_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_54_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_54_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_54_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_55_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_55_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_55_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_56_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_56_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_56_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_57_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_57_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_57_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_58_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_58_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_58_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_59_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_59_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_59_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_60_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_60_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_60_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_61_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_61_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_61_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_62_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_62_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_62_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_63_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_63_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_63_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_64_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_64_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_64_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_65_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_65_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_65_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_66_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_66_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_66_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_67_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_67_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_67_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_68_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_68_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_68_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_69_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_69_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_69_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_70_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_70_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_70_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_71_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_71_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_71_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_72_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_72_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_72_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_73_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_73_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_73_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_74_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_74_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_74_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_75_actual_fullstatic_dtype_shape",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_75_steps_Adam_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof_75_fullactor_RNG_frozen_actualBC",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof2_actual_semantic_exact_old15k_manifest",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "proof1_fresh_target_params_copy",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "75_proofs_logical7725_numeric7650_None75",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_48000_manifest_source_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_48000_actual_wholeblob_SHA_and_limit",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_48000_saved_semantic_roundtrip_exact",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_31000_manifest_source_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_31000_actual_wholeblob_SHA_and_limit",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_31000_saved_semantic_roundtrip_exact",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_34000_manifest_source_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_34000_actual_wholeblob_SHA_and_limit",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_34000_saved_semantic_roundtrip_exact",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_42000_manifest_source_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_42000_actual_wholeblob_SHA_and_limit",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_42000_saved_semantic_roundtrip_exact",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_47000_manifest_source_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_47000_actual_wholeblob_SHA_and_limit",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_47000_saved_semantic_roundtrip_exact",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_50000_manifest_source_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_50000_actual_wholeblob_SHA_and_limit",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_50000_saved_semantic_roundtrip_exact",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_29000_manifest_source_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_29000_actual_wholeblob_SHA_and_limit",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_29000_saved_semantic_roundtrip_exact",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_26000_manifest_source_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_26000_actual_wholeblob_SHA_and_limit",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_26000_saved_semantic_roundtrip_exact",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_23000_manifest_source_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_23000_actual_wholeblob_SHA_and_limit",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_23000_saved_semantic_roundtrip_exact",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_43000_manifest_source_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_43000_actual_wholeblob_SHA_and_limit",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_43000_saved_semantic_roundtrip_exact",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_46000_manifest_source_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_46000_actual_wholeblob_SHA_and_limit",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_46000_saved_semantic_roundtrip_exact",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_49000_manifest_source_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_49000_actual_wholeblob_SHA_and_limit",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_49000_saved_semantic_roundtrip_exact",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_30000_manifest_source_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_30000_actual_wholeblob_SHA_and_limit",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_30000_saved_semantic_roundtrip_exact",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_35000_manifest_source_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_35000_actual_wholeblob_SHA_and_limit",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_35000_saved_semantic_roundtrip_exact",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_27000_manifest_source_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_27000_actual_wholeblob_SHA_and_limit",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_27000_saved_semantic_roundtrip_exact",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_22000_manifest_source_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_22000_actual_wholeblob_SHA_and_limit",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_22000_saved_semantic_roundtrip_exact",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_28000_manifest_source_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_28000_actual_wholeblob_SHA_and_limit",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_28000_saved_semantic_roundtrip_exact",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_16000_manifest_source_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_16000_actual_wholeblob_SHA_and_limit",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_16000_saved_semantic_roundtrip_exact",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_15000_manifest_source_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_15000_actual_wholeblob_SHA_and_limit",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_15000_saved_semantic_roundtrip_exact",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_21000_manifest_source_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_21000_actual_wholeblob_SHA_and_limit",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_21000_saved_semantic_roundtrip_exact",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_19000_manifest_source_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_19000_actual_wholeblob_SHA_and_limit",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_19000_saved_semantic_roundtrip_exact",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_24000_manifest_source_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_24000_actual_wholeblob_SHA_and_limit",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_24000_saved_semantic_roundtrip_exact",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_36000_manifest_source_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_36000_actual_wholeblob_SHA_and_limit",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_36000_saved_semantic_roundtrip_exact",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_33000_manifest_source_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_33000_actual_wholeblob_SHA_and_limit",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_33000_saved_semantic_roundtrip_exact",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_45000_manifest_source_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_45000_actual_wholeblob_SHA_and_limit",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_45000_saved_semantic_roundtrip_exact",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_39000_manifest_source_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_39000_actual_wholeblob_SHA_and_limit",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_39000_saved_semantic_roundtrip_exact",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_40000_manifest_source_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_40000_actual_wholeblob_SHA_and_limit",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_40000_saved_semantic_roundtrip_exact",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_18000_manifest_source_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_18000_actual_wholeblob_SHA_and_limit",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_18000_saved_semantic_roundtrip_exact",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_20000_manifest_source_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_20000_actual_wholeblob_SHA_and_limit",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_20000_saved_semantic_roundtrip_exact",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_25000_manifest_source_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_25000_actual_wholeblob_SHA_and_limit",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_25000_saved_semantic_roundtrip_exact",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_17000_manifest_source_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_17000_actual_wholeblob_SHA_and_limit",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_17000_saved_semantic_roundtrip_exact",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_44000_manifest_source_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_44000_actual_wholeblob_SHA_and_limit",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_44000_saved_semantic_roundtrip_exact",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_38000_manifest_source_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_38000_actual_wholeblob_SHA_and_limit",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_38000_saved_semantic_roundtrip_exact",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_41000_manifest_source_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_41000_actual_wholeblob_SHA_and_limit",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_41000_saved_semantic_roundtrip_exact",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_37000_manifest_source_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_37000_actual_wholeblob_SHA_and_limit",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_37000_saved_semantic_roundtrip_exact",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_32000_manifest_source_frontier",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_32000_actual_wholeblob_SHA_and_limit",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "pair_32000_saved_semantic_roundtrip_exact",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "exact36_pair_frontiers15000_through50000",
+      "passed": true,
+      "actual": [
+        15000,
+        16000,
+        17000,
+        18000,
+        19000,
+        20000,
+        21000,
+        22000,
+        23000,
+        24000,
+        25000,
+        26000,
+        27000,
+        28000,
+        29000,
+        30000,
+        31000,
+        32000,
+        33000,
+        34000,
+        35000,
+        36000,
+        37000,
+        38000,
+        39000,
+        40000,
+        41000,
+        42000,
+        43000,
+        44000,
+        45000,
+        46000,
+        47000,
+        48000,
+        49000,
+        50000
+      ],
+      "expected": [
+        15000,
+        16000,
+        17000,
+        18000,
+        19000,
+        20000,
+        21000,
+        22000,
+        23000,
+        24000,
+        25000,
+        26000,
+        27000,
+        28000,
+        29000,
+        30000,
+        31000,
+        32000,
+        33000,
+        34000,
+        35000,
+        36000,
+        37000,
+        38000,
+        39000,
+        40000,
+        41000,
+        42000,
+        43000,
+        44000,
+        45000,
+        46000,
+        47000,
+        48000,
+        49000,
+        50000
+      ]
+    },
+    {
+      "name": "initial_actual_new_payload_exact_oldanchor_SHA",
+      "passed": true,
+      "actual": "d042ae4c5c095356b1727670fc689b1060cbc1f2eb9f5e0403a6c01ac6e43595",
+      "expected": "d042ae4c5c095356b1727670fc689b1060cbc1f2eb9f5e0403a6c01ac6e43595"
+    },
+    {
+      "name": "actual_final_LATEST50000_exact_final_pair",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "actual_final_disk_proof75_matches_full_manifest",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "producer_final_actual_disk_semantic_canonical_gate_links",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "35_pointer_copy2_history_plusLATEST36",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "actual_initial_and_final_saved_head_dims",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "saved_actual_runtime_CPU_f32_versions",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "exact_inherited_output_budget",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "actual_outputs_under_dynamic_and_hard_bound",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "actual_RSS_observed_under4GB",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "no_error_or_temporary_output_artifact",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "actual_zero_stdout_stop_event_on_success",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "actual_current_parent_worker_PID_PGID_absent",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "auditor_own_process_isolation",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "actual_no_remaining_scientific_processes",
+      "passed": true,
+      "actual": [],
+      "expected": []
+    },
+    {
+      "name": "prior30_context_terminal_and_process_absent_1",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "prior30_context_terminal_and_process_absent_2",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "prior30_context_terminal_and_process_absent_3",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "prior30_context_terminal_and_process_absent_4",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "prior30_context_terminal_and_process_absent_5",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "prior30_context_terminal_and_process_absent_6",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "prior30_context_terminal_and_process_absent_7",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "prior30_context_terminal_and_process_absent_8",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "prior30_context_terminal_and_process_absent_9",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "prior30_context_terminal_and_process_absent_10",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "prior30_context_terminal_and_process_absent_11",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "prior30_context_terminal_and_process_absent_12",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "prior30_context_terminal_and_process_absent_13",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "prior30_context_terminal_and_process_absent_14",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "prior30_context_terminal_and_process_absent_15",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "prior30_context_terminal_and_process_absent_16",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "prior30_context_terminal_and_process_absent_17",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "prior30_context_terminal_and_process_absent_18",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "prior30_context_terminal_and_process_absent_19",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "prior30_context_terminal_and_process_absent_20",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "prior30_context_terminal_and_process_absent_21",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "prior30_context_terminal_and_process_absent_22",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "prior30_context_terminal_and_process_absent_23",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "prior30_context_terminal_and_process_absent_24",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "prior30_context_terminal_and_process_absent_25",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "prior30_context_terminal_and_process_absent_26",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "prior30_context_terminal_and_process_absent_27",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "prior30_context_terminal_and_process_absent_28",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "prior30_context_terminal_and_process_absent_29",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "prior30_context_terminal_and_process_absent_30",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "all62_unique_lock_paths",
+      "passed": true,
+      "actual": 62,
+      "expected": 62
+    },
+    {
+      "name": "all62_concurrent_readonly_EX_NB_free_and_unmodified",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "actual_admission_and_finish_within_calendar_cap",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "actual_measured_outer_parent_wall_once",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "no_automatic_retry_chain_native_or_Qtruth_credit",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "ROOT_unchanged_through_terminal_audit",
+      "passed": true,
+      "actual": "fcb9abf35309e41be8773f345cbe28ae81b81a302138b3eab72036d836a1910f",
+      "expected": "fcb9abf35309e41be8773f345cbe28ae81b81a302138b3eab72036d836a1910f"
+    },
+    {
+      "name": "AUTH_BEFORE_AFTER_unchanged_through_audit",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "name": "actual_stop_observer35087_observations456131_captures",
+      "passed": true,
+      "actual": {
+        "new_observation_entries": 35087,
+        "capture_entries": 456131
+      },
+      "expected": {
+        "new_observation_entries": 35087,
+        "capture_entries": 456131
+      }
+    },
+    {
+      "name": "actual_success_no_stop_emit_write_fsync_or_metadata_error",
+      "passed": true,
+      "actual": {
+        "emit_entries": 0,
+        "emission_attempts": 0,
+        "json_encode_entries": 0,
+        "json_encode_returns": 0,
+        "encoded_bytes": 0,
+        "write_attempts": 0,
+        "write_returns": 0,
+        "write_returned_bytes": 0,
+        "fsync_attempts": 0,
+        "fsync_returns": 0,
+        "metadata_error_observed": 0
+      },
+      "expected": "all zero"
+    },
+    {
+      "name": "actual_final50000_payload_and_manifest_exact_ROOT_observation",
+      "passed": true,
+      "actual": {
+        "payload": "33bf6e496d84f68433829a623d2cf06d6c781c9a3c8b666ee41b375a915eb5e1",
+        "manifest": "de0c33a88fa1b6838a94890ba0f4954323d0f597f0d3cb7f68247577f11f1054"
+      },
+      "expected": {
+        "payload": "33bf6e496d84f68433829a623d2cf06d6c781c9a3c8b666ee41b375a915eb5e1",
+        "manifest": "de0c33a88fa1b6838a94890ba0f4954323d0f597f0d3cb7f68247577f11f1054"
+      }
+    },
+    {
+      "name": "proof1_template_zero_credit_distinct_from74_BC_actorFULL_RNG_checks",
+      "passed": true,
+      "actual": {
+        "template_proof_index": 1,
+        "template_credit": 0,
+        "BC_actorFULL_RNG_frozen_proof_count": 74,
+        "frozen_proof_first": 2,
+        "frozen_proof_last": 75
+      },
+      "expected": {
+        "template_proof_index": 1,
+        "template_credit": 0,
+        "BC_actorFULL_RNG_frozen_proof_count": 74,
+        "frozen_proof_first": 2,
+        "frozen_proof_last": 75
+      }
+    }
+  ],
+  "all2847_AUTH_BEFORE_AFTER_independently_rehashed": true,
+  "all53_opaque_inputs_stat_bounded_before_hash": true,
+  "new_checkpoint_pairs": 36,
+  "encodes": 74,
+  "decodes": 38,
+  "fullproofs": 75,
+  "exact70000_UPDATE_rows": 70000,
+  "actual_predicates_PASS": 70446,
+  "actual_predicates_FAIL": 0,
+  "actual_output_bytes": 109687802,
+  "source_dynamic_output_bound": 764523044,
+  "actual_RSS_bytes": 1161019392,
+  "actual_saved_runtime": {
+    "jax": "0.4.30",
+    "flax": "0.8.5",
+    "optax": "0.2.4",
+    "ml_collections_module": "/Users/diwu/Documents/Codex/2026-11-04/hi-x20/work/official_pilot/venv/lib/python3.11/site-packages/ml_collections/__init__.py",
+    "x64_enabled": false,
+    "backend": "cpu",
+    "original_QGFAgent_module": "/Users/diwu/Documents/Codex/2026-11-04/hi-x20/work/official_qgf/agents/qgf.py",
+    "setup_seconds": 2.5244583748281,
+    "constructor_PRNG_Adam_backend_work_real_not_zero": true
+  },
+  "actual_static_config_SHA_from_all75_saved_proofs": "73cd997da688e2658346c167cc84be1eceb3175343335941acb79427aa0fe6c4",
+  "actual_stop_observer_metadata_counters": {
+    "new_observation_entries": 35087,
+    "capture_entries": 456131,
+    "emit_entries": 0,
+    "emission_attempts": 0,
+    "json_encode_entries": 0,
+    "json_encode_returns": 0,
+    "encoded_bytes": 0,
+    "write_attempts": 0,
+    "write_returns": 0,
+    "write_returned_bytes": 0,
+    "fsync_attempts": 0,
+    "fsync_returns": 0,
+    "metadata_error_observed": 0
+  },
+  "measured_outer_parent_seconds_charge_once": 603.7042280002497,
+  "watchdog_elapsed_seconds_context_only_not_additive": 603.703379875049,
+  "plan_revision_snapshot": 455,
+  "owner_revision_snapshot": 455,
+  "plan_accounting_active_commitment_pending_ROOT_reconciliation": true,
+  "no_auditor_payload_replay": true,
+  "runtime_native_or_Qtruth_or_C0_adoption": false,
+  "terminal_scope_limitations": [
+    "Saved fullstate/semantic/dtype/loss/batch proofs and wholefile payload SHA are verified without auditor payload decoding or numerical replay.",
+    "All75 actual saved static SHA values are checked together with55-observation/25-latent dynamic leaf shapes; versionJSON is not a transitive runtime or closure-memory proof.",
+    "This establishes the one exact old15k+new35k continuation, not fresh50k, all9 completion, sampler/native success, Q-truth, or C0 authorization.",
+    "Root must charge the measured outer-parent elapsed time once and reconcile the active cap. A separate reviewed three-context BCcomplete+oldQVfailed15k+newQVcomplete50k C0 source contract remains required."
+  ],
+  "saved_metadata_addendum": {
+    "path": "outputs/continued_research_20261107/review/cube_Quad_QV15000_resume_terminal_independent/20261109T060731_929949Z/SAVED_STOP_OBSERVER_AND_PROOF_PARTITION_ADDENDUM.json",
+    "sha256": "246d4b42caafd47a2c40892f871bb75cbb13025aee0c255cdb1a72d8546e6338"
+  },
+  "actorFULL_RNG_proof_partition": {
+    "proof1": "Fresh matching template, zero training credit; separately checked initial counters/shape/static and freshtargetcopy.",
+    "BC_actorFULL_RNG_frozen_proofs": {
+      "first_index": 2,
+      "last_index": 75,
+      "count": 74
+    }
+  }
+}

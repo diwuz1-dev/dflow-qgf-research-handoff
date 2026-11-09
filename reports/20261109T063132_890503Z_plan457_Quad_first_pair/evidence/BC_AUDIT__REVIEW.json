@@ -1,0 +1,72 @@
+{
+  "AUTH_before_after_bindings": 1381,
+  "P2_credit": 0,
+  "UTC": "2026-11-09T03:54:49.640411+00:00",
+  "actual_final_LATEST50000_disk_restore_and_payload_gates_PASS": true,
+  "actual_log_bytes": 0,
+  "actual_output_directory_bytes": 133943458,
+  "all60_locks_current_free_and_oldplusowned_PID_PGID_absent": true,
+  "attempt_path": "outputs/continued_research_20261107/cube_quadruple_tasks345_fresh_BC_QV50000_20261109/lineages/goal3_seed11/BC/attempts/Quad-goal3-seed11-fresh-BC50000-9c4bee397b594d1da9208990968f271a",
+  "checkpoint_pairs": 51,
+  "cleanup": {
+    "path": "outputs/continued_research_20261107/review/cube_Quadruple_goal3_seed11_BC50000_completed_independent/20261109T035449_635187Z/CURRENT_READONLY_PROCESS_AND_LOCK_PROOFS.json",
+    "sha256": "9b7caaa4648f82d0bdf002e288c5928049e564b3f30c2217214673aec86a36cf"
+  },
+  "completion": {
+    "path": "outputs/continued_research_20261107/cube_quadruple_tasks345_fresh_BC_QV50000_20261109/lineages/goal3_seed11/BC/attempts/Quad-goal3-seed11-fresh-BC50000-9c4bee397b594d1da9208990968f271a/COMPLETION.json",
+    "sha256": "326c2af4a559eb0420392b9a788492f6dcb5f7ea466434e5860026f4d0ab31df"
+  },
+  "decodes_deviceputs_checkpointblocks_each": 52,
+  "design_sha256": "d01a0dcee6dcd0cdb76548f034c47834bd2b0c3bc1b8bd01195c1a53bafff49b",
+  "effective_BC_updates": 50000,
+  "encodes": 104,
+  "findings": [],
+  "fullproofs": 104,
+  "joins": {
+    "path": "outputs/continued_research_20261107/review/cube_Quadruple_goal3_seed11_BC50000_completed_independent/20261109T035449_635187Z/SAVED_UPDATE_CHECKPOINT_PROOF_AND_SCOPE_JOINS.json",
+    "sha256": "ae15c06ea3126c8e69324ce90ada897625b47742bdc84eec76365edcd3fc74b7"
+  },
+  "latest_checkpoint": {
+    "design_sha256": "d01a0dcee6dcd0cdb76548f034c47834bd2b0c3bc1b8bd01195c1a53bafff49b",
+    "directory": "outputs/continued_research_20261107/cube_quadruple_tasks345_fresh_BC_QV50000_20261109/lineages/goal3_seed11/BC/attempts/Quad-goal3-seed11-fresh-BC50000-9c4bee397b594d1da9208990968f271a/STAGES/goal3_seed11_BC/checkpoints/Quad-goal3-seed11-fresh-BC50000-9c4bee397b594d1da9208990968f271a-50000-durable_fullstate",
+    "effective_frontier": 50000,
+    "manifest_sha256": "df520049d467e3f3d55303f11766939576a4408d8a80fa6ac1765696aefb43ea",
+    "payload_sha256": "247783361b8888a6df934843b4ccc92785dda7146a3671233de9fcab59e3dad0",
+    "phase": "goal3_seed11_BC",
+    "schema": "QUAD_FULLTRAIN_CANONICAL_POINTER_V1"
+  },
+  "no_QV_native_sampler_VAL_heldout_utility_Qtruth_competence_or_nextphase_adoption": true,
+  "operational_result": {
+    "path": "outputs/continued_research_20261107/cube_quadruple_tasks345_fresh_BC_QV50000_20261109/lineages/goal3_seed11/BC/attempts/Quad-goal3-seed11-fresh-BC50000-9c4bee397b594d1da9208990968f271a/OPERATIONAL_RESULT.json",
+    "sha256": "ddf1cbd9942c71864dc1a88d41bf4ecfc4e4250142299e493ce3ee706c48f804"
+  },
+  "outer_parent_seconds_once": 911.2326483749785,
+  "physical_BC_updates": 50000,
+  "preparation_sha256": "0211602444b94f06626e9189c7a1605b0c8ec80e6ca293ea810227739b68cd42",
+  "producer_RSS_bytes": 1193361408,
+  "required_activity": {
+    "path": "outputs/continued_research_20261107/review/cube_Quadruple_goal3_seed11_BC50000_completed_independent/20261109T035449_635187Z/REQUIRED_INDEPENDENT_ACTIVITY_AND_SCOPE.json",
+    "sha256": "7d3e97c0454f5695180f69affd911a34b4581b38c40e0ebdc497fd52514b8be4"
+  },
+  "required_activity_and_scope": {
+    "path": "outputs/continued_research_20261107/review/cube_Quadruple_goal3_seed11_BC50000_completed_independent/20261109T035449_635187Z/REQUIRED_INDEPENDENT_ACTIVITY_AND_SCOPE.json",
+    "sha256": "7d3e97c0454f5695180f69affd911a34b4581b38c40e0ebdc497fd52514b8be4"
+  },
+  "review_type": "INDEPENDENT_COMPLETED_ONE_FRESH_QUAD_BC50000_SAVED_AUDIT_NO_PERFORMANCE_ADOPTION",
+  "root_release_sha256": "7ff5284a3bf7b0a68713c4673700e204be9c1bdfac3bd215815a0f56f8d951a1",
+  "runtime_replay_by_auditor": false,
+  "scientific_input_bindings": 1372,
+  "stable_wholefile_hashes": 1725,
+  "status": "PASS",
+  "strict_KEEP_ALL33": true,
+  "summary": {
+    "effective_frontier": 50000,
+    "goal_id": 3,
+    "training_seed": 11,
+    "training_stage": "BC"
+  },
+  "whole_SHA_scope": {
+    "path": "outputs/continued_research_20261107/review/cube_Quadruple_goal3_seed11_BC50000_completed_independent/20261109T035449_635187Z/INDEPENDENT_CURRENT_WHOLEFILE_SHA256.json",
+    "sha256": "4cec441f2eb73e3eefd6b265071303799bd5052169dfe31d0107b05b0e42213f"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "SOURCE_only_no_runtime_or_future_parent_admission": true,
+  "UTC": "2026-11-09T06:07:06.448906+00:00",
+  "design_sha256": "e2d263fa942f00adf8e967c3b5cef660aefb4ca6cba7672b572ed4d696cf5351",
+  "findings": [],
+  "preparation": {
+    "path": "outputs/continued_research_20261107/cube_quadruple_goal3_seed11_C0_three_context_frozen55_callbacks_20261109/preparation/PREPARATION.json",
+    "sha256": "cc38380e8bed40a777fe6611f170f7c9687b486bb3e9fc2c86104fbf8e46dec3"
+  },
+  "previous_blocking_finding_corrected_without_false_oldPASS": {
+    "path": "outputs/continued_research_20261107/review/cube_quadruple_goal3_seed11_C0_three_context_math/INDEPENDENT_SCI_FINDING_FIRST_CONTEXT_READ_BOUNDARY.json",
+    "sha256": "453889f2ecdb5ddf1db0cef45485c6ffb80a27e3736d9f624d5bf2ad73c787b6"
+  },
+  "required_activity_and_scope": {
+    "path": "outputs/continued_research_20261107/review/cube_quadruple_goal3_seed11_C0_three_context_math/corrected_20261109T060706_090041Z/REQUIRED_INDEPENDENT_SCI_ACTIVITY_AND_LIMITS.json",
+    "sha256": "ce5b7280e9b5ace835839032d343927ba07f0e2a82469b04071a1e59ace1f420"
+  },
+  "required_author_activity": {
+    "path": "outputs/continued_research_20261107/cube_quadruple_goal3_seed11_C0_three_context_frozen55_callbacks_20261109/preparation/REQUIRED_SOURCE_COUNTS_LINEAGE_IO_AND_ACTIVITY_LIMITS.json",
+    "sha256": "0604422a080377b7eabc2de504e5757559a99eddaa9a284b1d0d5f02baddd598"
+  },
+  "required_corrected_parse_NULL_and_parent_schema_scope": {
+    "path": "outputs/continued_research_20261107/cube_quadruple_goal3_seed11_C0_three_context_frozen55_callbacks_20261109/preparation/REQUIRED_CORRECTED_SOURCE_PARSE_COUNT_AND_NULL_PARENT_SCOPE.json",
+    "sha256": "a932f527e8a8d19bdc6bcfca44e0b1e2a0676ecaa3460d07bd8f37a2fbc22381"
+  },
+  "required_first_context_correction": {
+    "path": "outputs/continued_research_20261107/cube_quadruple_goal3_seed11_C0_three_context_frozen55_callbacks_20261109/preparation/REQUIRED_FIRST_CONTEXT_METADATA_BOUNDARY_CORRECTION_AND_PATH_FIXTURES.json",
+    "sha256": "eb3377a1ff477df04bb1968201ffd429659f614afd4d32bb0a61f36cd7b3c326"
+  },
+  "reviewer": "/root/quad_resume_source",
+  "source_count_and_lifetime_proofs": {
+    "path": "outputs/continued_research_20261107/review/cube_quadruple_goal3_seed11_C0_three_context_math/corrected_20261109T060706_090041Z/INDEPENDENT_SOURCE_INVERSE_CALLBACK_COUNTS_AND_LINEAGE_PROOFS.json",
+    "sha256": "8524b62baffca1758d94fe39db6d3517ca9b66bfc7b1592fcaef94c53b33ee0e"
+  },
+  "source_sha256": {
+    "work/continued_research_20261107/cube_quadruple_goal3_seed11_C0_three_context_frozen55_callbacks_20261109/canonical_codec.py": "808f454e01d512c448888cb7d4a666f1bc1e1b133b3a7510bae5c1fffedca8a1",
+    "work/continued_research_20261107/cube_quadruple_goal3_seed11_C0_three_context_frozen55_callbacks_20261109/checkpoint.py": "bb813e9e0e9677c141f41d0cb01bede0aa18011afe6e8128ac2b983b34e1f4d7",
+    "work/continued_research_20261107/cube_quadruple_goal3_seed11_C0_three_context_frozen55_callbacks_20261109/data.py": "93221329066b413c8ef4881006ed9324fa3e643440e1066e6c974e7c4984e653",
+    "work/continued_research_20261107/cube_quadruple_goal3_seed11_C0_three_context_frozen55_callbacks_20261109/field_helpers.py": "086cd15c96e50467d5a212fc024a8f5fb54991df2dc6fe9a17f057baa0236ed4",
+    "work/continued_research_20261107/cube_quadruple_goal3_seed11_C0_three_context_frozen55_callbacks_20261109/guard.py": "c7e44036bd82d9aeecb3983cf1f44db32db882c6fe027ee6ae529ab9c51e1c68",
+    "work/continued_research_20261107/cube_quadruple_goal3_seed11_C0_three_context_frozen55_callbacks_20261109/hard_watchdog.py": "9019f9786570d16c418c984b8d535b5839db5fe14e1f7681b14a26c8f8a6fc35",
+    "work/continued_research_20261107/cube_quadruple_goal3_seed11_C0_three_context_frozen55_callbacks_20261109/legacy_checkpoint.py": "4e9116f67ab2ab62420249ed9f6a339c273d6d92a76250f4bf1b4ff90c3c3510",
+    "work/continued_research_20261107/cube_quadruple_goal3_seed11_C0_three_context_frozen55_callbacks_20261109/model.py": "b89791e4ab2cd67c302104377cdace90644f5b760d9ac1639f519a8247060c24",
+    "work/continued_research_20261107/cube_quadruple_goal3_seed11_C0_three_context_frozen55_callbacks_20261109/prepare.py": "ca645fdb3ace1bda440590a27d21bf5a32fd1252270f784961df7247bcc1858b",
+    "work/continued_research_20261107/cube_quadruple_goal3_seed11_C0_three_context_frozen55_callbacks_20261109/restore_final.py": "31b84596f18b75e8e3ec82c557dbaf74ccd3355e6a5447b6231070f8645e7ccf",
+    "work/continued_research_20261107/cube_quadruple_goal3_seed11_C0_three_context_frozen55_callbacks_20261109/supervise.py": "0c7c862af99b4cd52d4cd7caf655131f27b3cb39d18aa8fbbecfae7bde4fa453",
+    "work/continued_research_20261107/cube_quadruple_goal3_seed11_C0_three_context_frozen55_callbacks_20261109/worker.py": "c35bc402a2dbbcd52542f2029078951459def49ef6cd583f9c53cf204cc71407"
+  },
+  "status": "PASS",
+  "verified_TEXT_and_source_hashes": {
+    "path": "outputs/continued_research_20261107/review/cube_quadruple_goal3_seed11_C0_three_context_math/corrected_20261109T060706_090041Z/INDEPENDENT_VERIFIED_TEXT_AND_SOURCE_SHA256.json",
+    "sha256": "de13d30dc4783bdde14d6403424d4e0e5e7c892749d88ce3f119f7a6cb025ea7"
+  }
+}
