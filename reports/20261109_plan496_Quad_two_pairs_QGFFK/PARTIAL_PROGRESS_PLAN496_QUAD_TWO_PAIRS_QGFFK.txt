@@ -1,0 +1,145 @@
+Snapshot only: plan 496. Subsequent source preparation or live operations are outside this report.
+
+========================================================================
+PAGE 1: Two model pairs, one engineering gate
+Snapshot only: plan496. Subsequent source preparation or live operations are outside this report.
+Quad goal 3 seeds 11 and 23 each completed fresh BC50k + QV50k, with independent terminal audits and ROOT reconciliation. Original QGF/FK public-reference engineering passed 60 cells. All Quad guided native success rates remain UNRUN.
+Completed training | Engineering result | Native performance
+4 / 18 phases; 2 / 9 pairs | QGF 12 + FK 48: 60 PASS | QGF / 8DF / IPG / FK / BC: UNRUN
+All nine goal x training-seed lineages retained
+Goal | Seed 11 | Seed23 | Seed37
+3 | BC50k + QV50k complete | BC50k + QV50k complete | BC UNRUN / QV UNRUN
+4 | BC UNRUN / QV UNRUN | BC UNRUN / QV UNRUN | BC UNRUN / QV UNRUN
+5 | BC UNRUN / QV UNRUN | BC UNRUN / QV UNRUN | BC UNRUN / QV UNRUN
+Three training-seed values (11,23,37), not nine independent seeds. Remaining: 14 phases = 7 BC + 7 QV = 700,000 effective updates. Current effective updates: 200,000; physical returns: 200,723, retaining the old 723 repeated QV returns. BC37 was source preparation only at cutoff.
+Local pilot context - not paper-scale replication
+Dimension / setting | This pilot | Paper context
+Observation / native action / chunk | 55 / 5 / H5 flat25 | Single-task Cube setting
+Data / width / updates | One official TRAIN000 shard; local 1M / 128x128 / 50k each | 100M / 1024x4 / 500k
+Flow / temperature / augmentation | F8 / T1 / unaugmented | F10 context; not matched here
+P1 found 996,000 full-H5 eligible starts per goal and zero strict joint-goal TRAIN rows. That describes this dataset; it is not a competence, impossibility, Q-truth, or hidden BC success gate. [S00,S02,S17]
+Updates, API calls, dataset views and native environment controls are different units.
+
+========================================================================
+PAGE 2: Training history and saved gates
+Updates, API calls, dataset views and native environment controls are different units.
+Completed goal 3 training phases
+Seed / phase | Effective result | Outer parent seconds
+11 BC | 50,000 fresh; 51 durable pairs | 911.232648
+11 QV original | 15,723 returned; durable15,000; bounded failure | 292.626877
+11 QV continuation | 35,000 new, indices15000..49999; effective50k | 603.704228
+23 BC | 50,000 fresh; 51 durable pairs | 919.656290
+23 QV | 50,000 fresh; 51 durable pairs | 991.807003
+The original seed 11 QV attempt remains FAILED/BOUNDED_PARTIAL. Its 723 returned but uncheckpointed updates were discarded and repeated by the exact continuation. Trigger operands were not persisted, so the stop cause remains UNKNOWN. The continuation passed 70,446 saved predicates and restored the final 50,000 fullstate from disk with semantic and canonical-byte checks.
+Each QV phase freezes the actual matching BC actor FULL TrainState, Adam state and agent RNG. Seed 11 continuation records one fresh matching-template proof plus 74 frozen-parent proofs. Final fullstate payloads are references only in this report; no weights were read or decoded.
+Quad sampler readiness at this cutoff
+Gate / family | Saved result | What it supports
+QGF 12 / FK 48 | 60 PASS; 180 sampler +3 helper B20; 24 inventories | Original public-reference engineering at this 55D frozen model
+Engineering artifacts | 60NPZ / 3024 header descriptors / 4,491,360B; 3 full proofs /2 canonical | Saved integrity and declared public output agreement
+DF128 | 120 PASS / 8 latent FAIL; max 1.220703125e-4 vs 2e-6; actions PASS | DF gate failed; f64 UNRUN, no DF40/native release
+IPG | Unqualified | No solver/domain/tolerance bridge or hidden qualification
+QGF/FK outer71.3557048s was counted once after audit. TRAIN16 +4 padding are engineering rows, not20 independent episodes. These passes do not repair DF, establish hidden-ancestor equality, true Q, native utility, or algorithm superiority. [S08-S16]
+PointMaze Task 2 results are a separate campaign. They are not Quad native measurements.
+
+========================================================================
+PAGE 3: Primary Task2: own-best confirmation
+PointMaze Task2 results are a separate campaign. They are not Quad native measurements.
+Fresh40 successes from each frozen selected setting
+Mode / critic | lambda | Seed 11 | Seed23 | Seed37
+Regular / raw Q | 0 | 35/40 | 40/40 | 37/40
+Regular / raw Q | 1 | 28/40 | 40/40 | 40/40
+Stochastic / raw Q | 0 | 40/40 | 40/40 | 39/40
+Stochastic / raw Q | 1 | 37/40 | 40/40 | 40/40
+Regular / averaged Q | 0 | 38/40 | 40/40 | 37/40
+Regular / averaged Q | 1 | 25/40 | 40/40 | 40/40
+Stochastic / averaged Q | 0 | 40/40 | 40/40 | 40/40
+Stochastic / averaged Q | 1 | 35/40 | 40/40 | 40/40
+Original QGF | - | 40/40 | 40/40 | 40/40
+Original FK | - | 40/40 | 40/40 | 40/40
+Original IPG | - | UNQUALIFIED | UNQUALIFIED | UNQUALIFIED
+Thirty of the required 33 guided selections are frozen: DF24 + QGF3 + FK3. IPG3 remain unqualified. The explicit KEEP_ALL33 barrier is unchanged. New main100 heldout episodes:0; the planned540 matched-curve points x100 remain pending.
+What these numbers do and do not compare
+Every cell uses its own selected configuration and fresh40 confirmation. Settings, cohorts and cumulative guidance differ. This is not a matched-kappa averaging experiment, a heldout estimate, or evidence that tuned DFlow dominates QGF/FK. Equal numeric kappa across methods is not equal accumulated guidance.
+The complete 24 selected DF tuples are on page4 and in the CSV sidecar. All72 literal fresh40 DF alternatives remain intact in DF72_LITERAL_FRESH40_ALTERNATIVES.csv. No fourth candidate, new retuning, or exhaustive Cartesian result is invented.
+Primary closed native VAL/CONF: 30,360 episodes and 16,185,534 action rows. Separate Triple BC20:20 episodes /20,000 external controls, not added to that primary total. Its observed0/20 is a BC result, not QGF failure. [S02,S04-S07; selected CSVs]
+Each row is an own-best fresh40 choice; lambda is the prior coefficient. M8 / T1 / N1 throughout.
+
+========================================================================
+PAGE 4: All 24 frozen DFlow settings
+Each row is an own-best fresh40 choice; lambda is the prior coefficient. M8 / T1 / N1 throughout.
+Seed | Mode/Q | L | kappa | eta | I | sigma | K | CONF
+11 | reg/raw | 0 | 0.1 | 0.1 | 256 | 0 | 4 | 35/40
+11 | reg/raw | 1 | 40 | 0.03 | 256 | 0 | 4 | 28/40
+11 | sto/raw | 0 | 5 | 0.1 | 128 | 0 | 4 | 40/40
+11 | sto/raw | 1 | 5 | 0.1 | 128 | 0 | 4 | 37/40
+11 | reg/avg | 0 | 1 | 0.1 | 256 | 0.003 | 16 | 38/40
+11 | reg/avg | 1 | 64 | 0.03 | 256 | 0.5 | 4 | 25/40
+11 | sto/avg | 0 | 5 | 0.1 | 128 | 0.003 | 16 | 40/40
+11 | sto/avg | 1 | 5 | 0.03 | 128 | 0.003 | 16 | 35/40
+23 | reg/raw | 0 | 5 | 0.1 | 256 | 0 | 4 | 40/40
+23 | reg/raw | 1 | 64 | 0.03 | 256 | 0 | 4 | 40/40
+23 | sto/raw | 0 | 80 | 0.03 | 256 | 0 | 4 | 40/40
+23 | sto/raw | 1 | 80 | 0.01 | 128 | 0 | 4 | 40/40
+23 | reg/avg | 0 | 16 | 0.1 | 256 | 0.3 | 4 | 40/40
+23 | reg/avg | 1 | 80 | 0.03 | 128 | 0.5 | 16 | 40/40
+23 | sto/avg | 0 | 64 | 0.1 | 128 | 0.5 | 4 | 40/40
+23 | sto/avg | 1 | 80 | 0.1 | 256 | 0.01 | 4 | 40/40
+37 | reg/raw | 0 | 0.1 | 0.1 | 256 | 0 | 4 | 37/40
+37 | reg/raw | 1 | 5 | 0.1 | 128 | 0 | 4 | 40/40
+37 | sto/raw | 0 | 5 | 0.1 | 128 | 0 | 4 | 39/40
+37 | sto/raw | 1 | 5 | 0.1 | 128 | 0 | 4 | 40/40
+37 | reg/avg | 0 | 0.1 | 0.1 | 256 | 0.003 | 4 | 37/40
+37 | reg/avg | 1 | 5 | 0.03 | 256 | 0.003 | 4 | 40/40
+37 | sto/avg | 0 | 3 | 0.1 | 256 | 0.003 | 4 | 40/40
+37 | sto/avg | 1 | 5 | 0.03 | 128 | 0.003 | 4 | 40/40
+All eight variants retain the identity/full-F8 path: regular or stochastic x raw or averaged Q x lambda 0 or 1. Raw-Q rows carry sigma 0 / K4 metadata; no averaging benefit is inferred from that bookkeeping.
+DF hierarchy: 20 kappa values from 0 to 80; eta {.001,.003,.005,.01,.03,.1}; I {1,2,4,8,16,32,64,128,256}; averaged-Q sigma {.003,.01,.03,.06,.1,.2,.3,.5}; K {4,16}. The adopted hierarchy is 9,240 settings/model (27,720 saved TRAIN scores), not 73,440 Cartesian settings.
+Config IDs, selection hashes, full-agent/actor hashes and all original tuple fields are retained in DF24_SELECTED_TUPLES.csv; exact 72 alternative ordering and outcomes are retained separately. Frozen aggregate19d8af37... [S04; CSV provenance manifest]
+A sampler engineering pass does not measure return or prove that a learned critic is correct.
+
+========================================================================
+PAGE 5: Q averaging, coefficients and controls
+A sampler engineering pass does not measure return or prove that a learned critic is correct.
+What the local average computes
+Qavg(s,u) = (1/K) sum_k Q(s, u + sigma * epsilon_k), using a fixed nearby-noise bank. The current bank is antithetic. The unperturbed center is not explicitly added as a separate sample. Averaging queries Q at nearby inputs; it does not require new transitions or a value-network query.
+Local smoothing can soften a false narrow peak or a real narrow optimum. It does not automatically fix broad critic scale errors, out-of-distribution extrapolation, or Q truth. No causal averaging gain, safe repair, or DFlow advantage has been established by these selected-setting outcomes.
+Selected QGF/FK settings from separate native campaigns
+Method | Seed | kappa | M | N | noise | CONF
+T2 QGF | 11 | 16 | 64 | 1 | 0 | 40/40
+T2 QGF | 23 | 320 | 8 | 1 | 0 | 40/40
+T2 QGF | 37 | 16 | 16 | 1 | 0 | 40/40
+T2 FK | 11 | 80 | 64 | 32 | 0.02 | 40/40
+T2 FK | 23 | 80 | 32 | 32 | 0.02 | 40/40
+T2 FK | 37 | 80 | 16 | 32 | 0.02 | 40/40
+T5 QGF | 11 | 96 | 16 | 1 | 0 | 40/40
+T5 QGF | 23 | 2 | 64 | 1 | 0 | 36/40
+T5 QGF | 37 | 80 | 32 | 1 | 0 | 40/40
+Task 5 QGF 40/36/40 includes four seed 23 failures; it is not generic QGF collapse. These campaigns and the Quad 55D pilot have different tasks, models and settings.
+kappa scales guidance; eta is DF outer-update size; I is DF source iteration count; M is integration steps; N is FK particle count; K is averaging samples. B20 counts batched APIs, not native episodes or physics controls. Source rows and native policy rows are also distinct.
+QGF 27 kappa levels span0..320; M {8,16,32,64}. Literal level lists are in LITERAL_GRID_LEVELS_FROM_FULL_SAVED_TABLES.csv. Full historical QGF 648 / FK 2160 / DF 27720 tables remain referenced unchanged, with SHA and row counts. Their staged designs are not one exhaustive Cartesian claim.
+This is a local, reviewable partial report. No ZIP, upload, new model or numerical run was performed to make it.
+
+========================================================================
+PAGE 6: Evidence, resources and remaining work
+This is a local, reviewable partial report. No ZIP, upload, new model or numerical run was performed to make it.
+Four final fullstate references - no checkpoint payloads embedded
+Goal / seed / phase | Manifest SHA prefix | Payload SHA prefix
+3 / 11 / BC | df520049d467e3f3 | 247783361b8888a6
+3 / 11 / QV | de0c33a88fa1b683 | 33bf6e496d84f684
+3 / 23 / BC | 43d3affd995908fb | 87d0d85f537da245
+3 / 23 / QV | e4b347107eb430dd | b7f86ce78f7f947e
+The checkpoint reference JSON contains complete paths, exact manifest/payload SHA256, declared sizes and audit links. Only manifest JSON was SHA checked for this report; payload bytes were not opened, rehashed, copied or decoded. No weights, raw arrays or portable runtime are embedded.
+Same 24-hour scientific budget, frozen at plan 496
+Accounting item | Seconds
+Measured outer-parent actual, each once | 50,837.502716505434
+Separate old UNKNOWN conservative charge | 600.000000000000
+Used / committed at cutoff | 51,437.502716505434
+Remaining of 86,400 | 34,962.497283494566
+Active scientific caps at cutoff | 0
+Worker/watchdog/helper/admin clocks are not added again. Earlier timings are context, not cold-cost, RSS, output-fit, speedup or completion bounds. Fourteen 50k phases, validations, fresh CONF and all 33 primary gates remain unfinished.
+Delivery coverage and next evidence
+The public plan 409 archive freezes Nov 8 23:35:08 UTC: 241,048 eligible files /49.138GB /38 distinct PDFs, with installed-runtime/cache/git/OS exclusions. Later Quad work is outside that snapshot. Public P1 code+QA excludes raw arrays and later weights. Old plan 457 PDF remains immutable; this report is not uploaded.
+Next: remaining training, family-specific reviewed engineering/readiness, official fresh-reset native VAL and fresh CONF. No hidden full-goal BC cutoff, seed/cohort cut, forced winner or KEEP_ALL33 waiver.
+Browse existing reports: github.com/diwuz1-dev/dflow-qgf-research-handoff/tree/main/reports
+Archive: releases/tag/complete-campaigns-20261108T233045Z
+Exact local reference links,18 frozen-source hashes, CSV provenance and full table pointers are in REPORT_SOURCE_AND_DELIVERY_REFERENCES.json.
