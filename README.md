@@ -1,5 +1,15 @@
 # D-Flow / QGF research: PDFs, source code and complete artifact snapshot
 
+<!-- partial-plan496-20261109T113419Z -->
+## Partial checkpoint: two Quad model pairs (plan 496)
+
+Frozen at 2026-11-09 11:34 UTC: **2/9 model pairs, 4/18 training phases** complete. Original QGF/FK engineering passed 60 cases; D-Flow retains eight latent-value check failures. Quad guided native success rates remain unmeasured. This is a partial snapshot; later work is outside it.
+
+[Six-page PDF](https://github.com/diwuz1-dev/dflow-qgf-research-handoff/blob/main/reports/20261109_plan496_Quad_two_pairs_QGFFK/PARTIAL_PROGRESS_PLAN496_QUAD_TWO_PAIRS_QGFFK.pdf) · [Plain text](https://github.com/diwuz1-dev/dflow-qgf-research-handoff/blob/main/reports/20261109_plan496_Quad_two_pairs_QGFFK/PARTIAL_PROGRESS_PLAN496_QUAD_TWO_PAIRS_QGFFK.txt) · [Download code, saved outputs and four completed checkpoints (208 MB)](https://github.com/diwuz1-dev/dflow-qgf-research-handoff/releases/tag/quad-two-pairs-qgffk-plan496-20261109T113419Z)
+
+The release has nine SHA-verified assets and a 14,794-member archive. Raw TRAIN/NPY/NPZ data, other checkpoints and the installed runtime remain explicit external dependencies. Earlier complete-campaign snapshots and all old reports/releases remain available below.
+
+
 Research is **unfinished**. This public repository preserves the November 4–8 research artifacts, including failed and partial runs. The complete artifact release was published on **November 9, 2026, 00:24 UTC**, with all 12 uploaded assets checked against GitHub server sizes and SHA-256 digests.
 
 ## Start here — no full archive needed
